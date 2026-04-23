@@ -1,21 +1,20 @@
-# Biomedical Relation Extraction on ADKG and MDKG
+# Biomedical Knowledge Graph Triplet Extraction
 
-This project studies biomedical relation extraction using annotated datasets derived from PubMed abstracts.
+This project studies biomedical knowledge graph triplet extraction from text using **SpERT**, a joint entity and relation extraction model. The goal is to extract structured **(subject, relation, object)** triplets from annotated biomedical sentences and convert them into graph artifacts such as node, edge, and triplet tables.
 
-## Datasets
-- ADKG: Alzheimer's Disease Knowledge Graph
-- MDKG: Mental Disorder Knowledge Graph
+We benchmark the pipeline on two datasets:
 
-## Goals
-- Perform exploratory data analysis
-- Preprocess datasets for model training
-- Train a relation extraction model
-- Evaluate entity and relation extraction performance
-- Analyze errors and performance by type
+- **ADKG**: focused on Alzheimer's disease and related biomedical concepts
+- **MDKG**: focused on mental-health and clinical concepts
+
+We also evaluate a small **transfer learning / domain adaptation extension** in which an ADKG-compatible subset of MDKG is used for auxiliary pretraining before fine-tuning on ADKG.
 
 ## Repository structure
-- `data/raw/`: original data files
-- `data/processed/`: model-ready data
-- `src/`: source code
-- `results/`: tables, figures, and predictions
-- `paper/`: NeurIPS-format paper
+
+```text
+src/                  # preprocessing, EDA, error analysis, graph construction
+configs/              # training and evaluation config files
+results/              # tables, summaries, and graph artifacts
+data/                 # raw, processed, and SpERT-formatted datasets
+external/spert/       # SpERT codebase
+paper/ or main.tex    # final report
