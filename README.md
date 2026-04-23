@@ -17,4 +17,4 @@ configs/              # training and evaluation config files
 results/              # tables, summaries, and graph artifacts
 data/                 # raw, processed, and SpERT-formatted datasets
 external/spert/       # SpERT codebase
-paper/ or main.tex    # final report
+paper/                # final report
