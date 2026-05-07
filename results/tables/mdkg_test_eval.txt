@@ -1,0 +1,94 @@
+--------------------------------------------------
+Config:
+{'label': 'mdkg_eval', 'model_type': 'spert', 'model_path': 'external/spert/data/save/mdkg_train/2026-04-19_13:05:58.240685/final_model', 'tokenizer_path': 'external/spert/data/save/mdkg_train/2026-04-19_13:05:58.240685/final_model', 'dataset_path': 'data/spert/mdkg/test.json', 'types_path': 'data/spert/mdkg/types.json', 'eval_batch_size': '1', 'rel_filter_threshold': '0.4', 'size_embedding': '25', 'prop_drop': '0.1', 'max_span_size': '10', 'store_predictions': 'true', 'store_examples': 'true', 'sampling_processes': '4', 'max_pairs': '1000', 'log_path': 'external/spert/data/log/'}
+Repeat 1 times
+--------------------------------------------------
+Iteration 0
+--------------------------------------------------
+2026-04-19 14:19:19,622 [MainThread  ] [INFO ]  Dataset: data/spert/mdkg/test.json
+2026-04-19 14:19:19,623 [MainThread  ] [INFO ]  Model: spert
+2026-04-19 14:19:20,381 [MainThread  ] [INFO ]  Relation type count: 10
+2026-04-19 14:19:20,381 [MainThread  ] [INFO ]  Entity type count: 10
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  Entities:
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  No Entity=0
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  Health_factors=1
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  disease=2
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  drug=3
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  gene=4
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  method=5
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  physiology=6
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  region=7
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  signs=8
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  symptom=9
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  Relations:
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  No Relation=0
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  abbreviation_for=1
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  associated_with=2
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  characteristic_of=3
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  help_diagnose=4
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  hyponym_of=5
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  located_in=6
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  occurs_in=7
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  risk_factor_of=8
+2026-04-19 14:19:20,382 [MainThread  ] [INFO ]  treatment_for=9
+2026-04-19 14:19:20,383 [MainThread  ] [INFO ]  Dataset: test
+2026-04-19 14:19:20,383 [MainThread  ] [INFO ]  Document count: 912
+2026-04-19 14:19:20,383 [MainThread  ] [INFO ]  Relation count: 1431
+2026-04-19 14:19:20,383 [MainThread  ] [INFO ]  Entity count: 3960
+Skipping version check; no pytorch_model.bin found at external/spert/data/save/mdkg_train/2026-04-19_13:05:58.240685/final_model/pytorch_model.bin
+2026-04-19 14:19:20,721 [MainThread  ] [INFO ]  Evaluate: test
+Evaluation
+
+--- Entities (named entity recognition (NER)) ---
+An entity is considered correct if the entity type and span is predicted correctly
+
+                type    precision       recall     f1-score      support
+              method        83.29        80.80        82.02         1104
+             disease        90.27        91.37        90.81         1228
+      Health_factors        80.28        76.59        78.39          675
+                drug        73.38        77.82        75.54          248
+               signs        62.90        65.00        63.93           60
+                gene        71.17        73.83        72.48          214
+              region        75.86        80.29        78.01          137
+             symptom        42.86        35.29        38.71           51
+          physiology        61.42        64.20        62.78          243
+
+               micro        81.22        80.93        81.08         3960
+               macro        71.27        71.69        71.41         3960
+
+--- Relations ---
+
+Without named entity classification (NEC)
+A relation is considered correct if the relation type and the spans of the two related entities are predicted correctly (entity type is not considered)
+
+                type    precision       recall     f1-score      support
+    abbreviation_for        71.35        81.88        76.25          149
+           occurs_in        59.35        64.79        61.95          142
+       help_diagnose        55.22        52.11        53.62           71
+     associated_with        54.21        40.94        46.65          425
+          located_in        62.71        48.68        54.81           76
+      risk_factor_of        57.25        49.69        53.20          159
+       treatment_for        61.15        58.22        59.65          146
+   characteristic_of        59.68        34.91        44.05          106
+          hyponym_of        64.38        66.03        65.19          156
+
+               micro        60.22        53.57        56.70         1430
+               macro        60.59        55.25        57.26         1430
+
+With named entity classification (NEC)
+A relation is considered correct if the relation type and the two related entities are predicted correctly (in span and entity type)
+
+                type    precision       recall     f1-score      support
+    abbreviation_for        67.84        77.85        72.50          149
+           occurs_in        56.77        61.97        59.26          142
+       help_diagnose        52.24        49.30        50.72           71
+     associated_with        41.43        31.29        35.66          425
+          located_in        54.24        42.11        47.41           76
+      risk_factor_of        52.17        45.28        48.48          159
+       treatment_for        59.71        56.85        58.25          146
+   characteristic_of        43.55        25.47        32.14          106
+          hyponym_of        60.00        61.54        60.76          156
+
+               micro        53.62        47.69        50.48         1430
+               macro        54.22        50.18        51.69         1430
+2026-04-19 14:20:09,507 [MainThread  ] [INFO ]  Logged in: external/spert/data/log/mdkg_eval/2026-04-19_14:19:19.447506

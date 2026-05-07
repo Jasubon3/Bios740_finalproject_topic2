@@ -1,0 +1,152 @@
+{
+  "summary": {
+    "dataset": "MDKG",
+    "num_sentences": 6678,
+    "avg_sentence_length": 29.7,
+    "median_sentence_length": 25.0,
+    "avg_entities_per_sentence": 4.29,
+    "avg_relations_per_sentence": 1.58,
+    "sentences_with_overlap_entities": 157,
+    "sentences_with_nested_entities": 135,
+    "pct_sentences_with_overlap_entities": 2.35,
+    "pct_sentences_with_nested_entities": 2.02,
+    "avg_relation_distance": 8.82,
+    "median_relation_distance": 5.0,
+    "relation_count_bucket_0": 3081,
+    "relation_count_bucket_1": 1234,
+    "relation_count_bucket_2plus": 2363
+  },
+  "top_head_relation_tail_patterns": [
+    {
+      "head_type": "method",
+      "relation": "treatment_for",
+      "tail_type": "disease",
+      "count": 568
+    },
+    {
+      "head_type": "drug",
+      "relation": "treatment_for",
+      "tail_type": "disease",
+      "count": 464
+    },
+    {
+      "head_type": "method",
+      "relation": "abbreviation_for",
+      "tail_type": "method",
+      "count": 459
+    },
+    {
+      "head_type": "method",
+      "relation": "help_diagnose",
+      "tail_type": "disease",
+      "count": 416
+    },
+    {
+      "head_type": "disease",
+      "relation": "risk_factor_of",
+      "tail_type": "disease",
+      "count": 412
+    },
+    {
+      "head_type": "disease",
+      "relation": "hyponym_of",
+      "tail_type": "disease",
+      "count": 398
+    },
+    {
+      "head_type": "disease",
+      "relation": "associated_with",
+      "tail_type": "disease",
+      "count": 365
+    },
+    {
+      "head_type": "disease",
+      "relation": "occurs_in",
+      "tail_type": "Health_factors",
+      "count": 342
+    },
+    {
+      "head_type": "Health_factors",
+      "relation": "occurs_in",
+      "tail_type": "disease",
+      "count": 306
+    },
+    {
+      "head_type": "disease",
+      "relation": "abbreviation_for",
+      "tail_type": "disease",
+      "count": 294
+    },
+    {
+      "head_type": "Health_factors",
+      "relation": "risk_factor_of",
+      "tail_type": "disease",
+      "count": 250
+    },
+    {
+      "head_type": "disease",
+      "relation": "occurs_in",
+      "tail_type": "disease",
+      "count": 232
+    },
+    {
+      "head_type": "disease",
+      "relation": "characteristic_of",
+      "tail_type": "disease",
+      "count": 227
+    },
+    {
+      "head_type": "disease",
+      "relation": "associated_with",
+      "tail_type": "Health_factors",
+      "count": 219
+    },
+    {
+      "head_type": "Health_factors",
+      "relation": "associated_with",
+      "tail_type": "disease",
+      "count": 202
+    },
+    {
+      "head_type": "gene",
+      "relation": "associated_with",
+      "tail_type": "disease",
+      "count": 185
+    },
+    {
+      "head_type": "drug",
+      "relation": "hyponym_of",
+      "tail_type": "drug",
+      "count": 183
+    },
+    {
+      "head_type": "drug",
+      "relation": "risk_factor_of",
+      "tail_type": "disease",
+      "count": 173
+    },
+    {
+      "head_type": "method",
+      "relation": "hyponym_of",
+      "tail_type": "method",
+      "count": 170
+    },
+    {
+      "head_type": "gene",
+      "relation": "associated_with",
+      "tail_type": "physiology",
+      "count": 148
+    }
+  ],
+  "avg_relation_distance_by_type": {
+    "abbreviation_for": 1.01,
+    "associated_with": 10.42,
+    "treatment_for": 10.67,
+    "occurs_in": 2.95,
+    "hyponym_of": 9.46,
+    "risk_factor_of": 16.46,
+    "located_in": 4.88,
+    "help_diagnose": 9.44,
+    "characteristic_of": 10.46
+  }
+}

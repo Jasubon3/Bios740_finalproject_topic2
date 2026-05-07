@@ -1,0 +1,1199 @@
+source_id,source_text_normalized,source_type,relation,target_id,target_text_normalized,target_type,edge_count
+N3,mdd,disease,abbreviation_for,N26,major depressive disorder,disease,6
+N3,mdd,disease,abbreviation_for,N23,major depression disorder,disease,5
+N4,ci,method,abbreviation_for,N121,confidence interval,method,4
+N75,cognitive behaviour therapy,method,treatment_for,N99,health anxiety,disease,4
+N19,emraclidine,drug,treatment_for,N1,schizophrenia,disease,4
+N2,depression,disease,associated_with,N71,musculoskeletal pain,disease,3
+N2,depression,disease,occurs_in,N11,women,Health_factors,3
+N24,ptsd,disease,abbreviation_for,N29,post-traumatic stress disorder,disease,3
+N17,ocd,disease,abbreviation_for,N61,obsessive-compulsive disorder,disease,3
+N17,ocd,disease,risk_factor_of,N1,schizophrenia,disease,3
+N17,ocd,disease,risk_factor_of,N28,schizophrenia spectrum disorders,disease,3
+N10,children,Health_factors,occurs_in,N20,adhd,disease,3
+N16,cnvs,gene,characteristic_of,N20,adhd,disease,3
+N13,or,method,abbreviation_for,N101,odds ratio,method,3
+N38,mbrp,method,treatment_for,N86,heavy drinking,Health_factors,3
+N11,women,Health_factors,occurs_in,N1,schizophrenia,disease,3
+N268,questionnaires,method,help_diagnose,N2,depression,disease,2
+N281,vomiting,disease,risk_factor_of,N129,anticipatory nausea,disease,2
+N130,hcs,method,abbreviation_for,N66,healthy controls,method,2
+N294,bp1-bp2,gene,abbreviation_for,N293,15q11 . 2,gene,2
+N5,anxiety,disease,occurs_in,N132,older adults,Health_factors,2
+N91,hr,method,abbreviation_for,N183,hazard ratio,method,2
+N135,cbt-ha,method,abbreviation_for,N75,cognitive behaviour therapy,method,2
+N29,post-traumatic stress disorder,disease,occurs_in,N195,military veterans,Health_factors,2
+N8,smd,method,abbreviation_for,N357,standardized mean difference,method,2
+N27,rr,method,abbreviation_for,N358,risk ratio,method,2
+N219,snps,gene,abbreviation_for,N204,single nucleotide polymorphisms,gene,2
+N1225,"large , rare cnvs",gene,characteristic_of,N20,adhd,disease,2
+N10,children,Health_factors,occurs_in,N12,anxiety disorders,disease,2
+N5,anxiety,disease,occurs_in,N397,cancer survivors,Health_factors,2
+N2,depression,disease,occurs_in,N397,cancer survivors,Health_factors,2
+N236,family interventions,method,treatment_for,N1,schizophrenia,disease,2
+N239,intentional injuries,disease,risk_factor_of,N58,disability,disease,2
+N239,intentional injuries,disease,risk_factor_of,N1478,early death and disability,disease,2
+N109,smi,method,risk_factor_of,N25,t2dm,disease,2
+N32,substance use disorders,disease,risk_factor_of,N241,all-cause mortality,disease,2
+N1579,antidepressant treatment,method,treatment_for,N2,depression,disease,2
+N113,calm,method,treatment_for,N67,anxiety symptoms,disease,2
+N38,mbrp,method,treatment_for,N21,relapse,disease,2
+N50,rp,method,treatment_for,N21,relapse,disease,2
+N50,rp,method,treatment_for,N86,heavy drinking,Health_factors,2
+N38,mbrp,method,treatment_for,N447,drug use,Health_factors,2
+N186,inflammation,disease,located_in,N449,neurocircuitry,region,2
+N57,gut microbiota,Health_factors,hyponym_of,N149,biomarkers,signs,2
+N37,psychotic disorders,disease,associated_with,N114,cannabis phenotypes,Health_factors,2
+N29,post-traumatic stress disorder,disease,associated_with,N115,cardiovascular disease,disease,2
+N1,schizophrenia,disease,hyponym_of,N465,neurodevelopmental disorder,disease,2
+N14,depressive symptoms,disease,occurs_in,N260,younger breast cancer survivors,Health_factors,2
+N31,se,method,treatment_for,N14,depressive symptoms,disease,2
+N373,pediatric anxiety rating scale,method,help_diagnose,N5,anxiety,disease,2
+N489,self-guided internet-based interventions,method,treatment_for,N2,depression,disease,1
+N490,history of stroke,Health_factors,risk_factor_of,N15,mortality,disease,1
+N15,mortality,disease,occurs_in,N491,old people,Health_factors,1
+N492,antidepressant fluoxetine,drug,treatment_for,N263,adult neurogenesis,physiology,1
+N492,antidepressant fluoxetine,drug,treatment_for,N493,depressive states,disease,1
+N492,antidepressant fluoxetine,drug,treatment_for,N494,olfactory functions,physiology,1
+N91,hr,method,abbreviation_for,N496,multivariate-adjusted hazard ratio,method,1
+N503,chronic antidepressant treatment,method,treatment_for,N502,helplessness,disease,1
+N506,depressive and manic mixed states,disease,occurs_in,N6,bipolar disorder,disease,1
+N512,dsm-iv,method,abbreviation_for,N6,bipolar disorder,disease,1
+N163,msi,method,abbreviation_for,N513,mixed state index,method,1
+N5,anxiety,disease,associated_with,N2,depression,disease,1
+N5,anxiety,disease,associated_with,N517,mania,disease,1
+N2,depression,disease,occurs_in,N516,manic,disease,1
+N2,depression,disease,occurs_in,N120,depressed,disease,1
+N517,mania,disease,occurs_in,N120,depressed,disease,1
+N518,discriminant function analysis,method,associated_with,N520,negative cognitions,physiology,1
+N162,mixed states,disease,associated_with,N519,hyperactivity,disease,1
+N162,mixed states,disease,associated_with,N520,negative cognitions,physiology,1
+N163,msi,method,associated_with,N33,illness,disease,1
+N535,physician - or clinician-diagnosed,Health_factors,help_diagnose,N2,depression,disease,1
+N268,questionnaires,method,help_diagnose,N536,antidepressant use,Health_factors,1
+N2,depression,disease,hyponym_of,N33,illness,disease,1
+N540,environmental events,Health_factors,risk_factor_of,N2,depression,disease,1
+N541,molecular and cellular mechanisms,physiology,associated_with,N542,neuronal function,physiology,1
+N543,dysfunction of the circuitry,disease,associated_with,N544,mood regulation,physiology,1
+N543,dysfunction of the circuitry,disease,associated_with,N165,cognitive function,physiology,1
+N270,serotonin-reuptake inhibitors,drug,hyponym_of,N53,antidepressants,drug,1
+N164,stress,disease,risk_factor_of,N545,synaptic deficits,disease,1
+N5,anxiety,disease,occurs_in,N272,critically ill,disease,1
+N124,sedative exposure,Health_factors,occurs_in,N272,critically ill,disease,1
+N547,mechanical ventilatory support,Health_factors,occurs_in,N272,critically ill,disease,1
+N548,sedative medications,drug,treatment_for,N5,anxiety,disease,1
+N273,music,Health_factors,treatment_for,N5,anxiety,disease,1
+N273,music,Health_factors,hyponym_of,N548,sedative medications,drug,1
+N5,anxiety,disease,associated_with,N274,ventilatory support,Health_factors,1
+N95,pdm,method,abbreviation_for,N549,self-initiated patient-directed music,method,1
+N274,ventilatory support,Health_factors,occurs_in,N272,critically ill,disease,1
+N551,icus,Health_factors,abbreviation_for,N550,intensive care units,Health_factors,1
+N95,pdm,method,associated_with,N124,sedative exposure,Health_factors,1
+N95,pdm,method,treatment_for,N564,sedation intensity,signs,1
+N567,cognitive bias modification ( cbm ) therapies,method,hyponym_of,N570,mechanistically derived treatments,method,1
+N125,cbm,method,abbreviation_for,N566,cognitive bias modification,method,1
+N275,attention bias modification,method,hyponym_of,N570,mechanistically derived treatments,method,1
+N275,attention bias modification,method,hyponym_of,N567,cognitive bias modification ( cbm ) therapies,method,1
+N568,interpretation bias modification,method,hyponym_of,N570,mechanistically derived treatments,method,1
+N568,interpretation bias modification,method,hyponym_of,N567,cognitive bias modification ( cbm ) therapies,method,1
+N569,avoidance training,method,hyponym_of,N570,mechanistically derived treatments,method,1
+N569,avoidance training,method,hyponym_of,N567,cognitive bias modification ( cbm ) therapies,method,1
+N34,adults,Health_factors,occurs_in,N2,depression,disease,1
+N170,older,Health_factors,occurs_in,N2,depression,disease,1
+N573,diagnostic interview,method,help_diagnose,N2,depression,disease,1
+N574,validated clinical scale,method,help_diagnose,N2,depression,disease,1
+N577,validated clinical scales,method,help_diagnose,N5,anxiety,disease,1
+N577,validated clinical scales,method,help_diagnose,N14,depressive symptoms,disease,1
+N578,smds,method,abbreviation_for,N277,standardised mean differences,method,1
+N1,schizophrenia,disease,associated_with,N586,disruption of brain development,physiology,1
+N1,schizophrenia,disease,hyponym_of,N585,"complex , heterogeneous behavioural and cognitive syndrome",disease,1
+N586,disruption of brain development,physiology,risk_factor_of,N1,schizophrenia,disease,1
+N587,genetic or environmental factors,Health_factors,risk_factor_of,N1,schizophrenia,disease,1
+N587,genetic or environmental factors,Health_factors,risk_factor_of,N586,disruption of brain development,physiology,1
+N588,dysfunction of dopaminergic neurotransmission,disease,associated_with,N56,brain,region,1
+N588,dysfunction of dopaminergic neurotransmission,disease,associated_with,N278,circuits,region,1
+N588,dysfunction of dopaminergic neurotransmission,disease,associated_with,N172,psychotic symptoms,disease,1
+N588,dysfunction of dopaminergic neurotransmission,disease,associated_with,N590,brain areas,region,1
+N56,brain,region,associated_with,N590,brain areas,region,1
+N590,brain areas,region,associated_with,N56,brain,region,1
+N591,disturbances of synaptic function,physiology,associated_with,N593,abnormalities of neuronal connectivity,disease,1
+N592,synaptic function,physiology,associated_with,N593,abnormalities of neuronal connectivity,disease,1
+N593,abnormalities of neuronal connectivity,disease,associated_with,N594,interneurons,region,1
+N600,human gut microbiota,Health_factors,associated_with,N601,behavioral symptoms,disease,1
+N57,gut microbiota,Health_factors,associated_with,N601,behavioral symptoms,disease,1
+N601,behavioral symptoms,disease,occurs_in,N35,mice,method,1
+N173,autism spectrum disorder,disease,associated_with,N604,stereotypies,Health_factors,1
+N173,autism spectrum disorder,disease,hyponym_of,N602,complex human behaviors,Health_factors,1
+N128,asd,disease,abbreviation_for,N173,autism spectrum disorder,disease,1
+N602,complex human behaviors,Health_factors,characteristic_of,N128,asd,disease,1
+N602,complex human behaviors,Health_factors,characteristic_of,N173,autism spectrum disorder,disease,1
+N603,social communication,Health_factors,characteristic_of,N128,asd,disease,1
+N603,social communication,Health_factors,characteristic_of,N173,autism spectrum disorder,disease,1
+N603,social communication,Health_factors,hyponym_of,N602,complex human behaviors,Health_factors,1
+N604,stereotypies,Health_factors,characteristic_of,N128,asd,disease,1
+N604,stereotypies,Health_factors,characteristic_of,N173,autism spectrum disorder,disease,1
+N604,stereotypies,Health_factors,hyponym_of,N602,complex human behaviors,Health_factors,1
+N606,gut microbiome,Health_factors,associated_with,N128,asd,disease,1
+N609,human donors,Health_factors,occurs_in,N128,asd,disease,1
+N609,human donors,Health_factors,occurs_in,N610,td,physiology,1
+N619,microbial metabolites,drug,treatment_for,N620,behavioral abnormalities,disease,1
+N619,microbial metabolites,drug,associated_with,N621,neuronal excitability,physiology,1
+N620,behavioral abnormalities,disease,associated_with,N621,neuronal excitability,physiology,1
+N621,neuronal excitability,physiology,located_in,N56,brain,region,1
+N57,gut microbiota,Health_factors,associated_with,N622,neuroactive metabolites,drug,1
+N623,gut-brain connections,region,associated_with,N128,asd,disease,1
+N2,depression,disease,associated_with,N176,circadian rhythms,physiology,1
+N626,circadian clock genes,gene,associated_with,N2,depression,disease,1
+N627,sleep disorders,disease,associated_with,N2,depression,disease,1
+N630,antidepressant drugs,drug,associated_with,N177,sleep,Health_factors,1
+N630,antidepressant drugs,drug,associated_with,N176,circadian rhythms,physiology,1
+N5,anxiety,disease,associated_with,N129,anticipatory nausea,disease,1
+N631,drug taste,Health_factors,associated_with,N129,anticipatory nausea,disease,1
+N129,anticipatory nausea,disease,occurs_in,N632,cancer chemotherapy,method,1
+N634,posttreatment nausea,disease,risk_factor_of,N129,anticipatory nausea,disease,1
+N635,tastes of drugs,Health_factors,risk_factor_of,N129,anticipatory nausea,disease,1
+N5,anxiety,disease,risk_factor_of,N129,anticipatory nausea,disease,1
+N645,slower response times,symptom,characteristic_of,N3,mdd,disease,1
+N647,less somatosensory beta activity,physiology,characteristic_of,N3,mdd,disease,1
+N648,somatosensory beta activity,physiology,characteristic_of,N3,mdd,disease,1
+N650,frontal gamma activity,physiology,associated_with,N652,depression severity,signs,1
+N3,mdd,disease,associated_with,N653,spatio-spectral manifestations,symptom,1
+N656,fns treatment,method,treatment_for,N658,rcbf,physiology,1
+N656,fns treatment,method,treatment_for,N657,depressive-like behaviors,disease,1
+N657,depressive-like behaviors,disease,occurs_in,N659,psd rats model,method,1
+N658,rcbf,physiology,occurs_in,N659,psd rats model,method,1
+N663,rct,method,abbreviation_for,N282,randomized controlled trial,method,1
+N666,healthwatch,Health_factors,hyponym_of,N665,attention-matched control condition,method,1
+N2,depression,disease,associated_with,N667,ndp,drug,1
+N23,major depression disorder,disease,risk_factor_of,N58,disability,disease,1
+N23,major depression disorder,disease,risk_factor_of,N669,morbidity,disease,1
+N3,mdd,disease,risk_factor_of,N58,disability,disease,1
+N3,mdd,disease,risk_factor_of,N669,morbidity,disease,1
+N6,bipolar disorder,disease,occurs_in,N672,early depressive episode,disease,1
+N671,bd,disease,abbreviation_for,N6,bipolar disorder,disease,1
+N677,magnetic resonance imaging,method,help_diagnose,N679,mdds,disease,1
+N678,magnetic resonance imaging data,method,help_diagnose,N679,mdds,disease,1
+N678,magnetic resonance imaging data,method,help_diagnose,N94,mood disorders,disease,1
+N686,glu,drug,abbreviation_for,N284,serum glutamate,drug,1
+N131,gaba,drug,abbreviation_for,N688,- aminobutyric acid,drug,1
+N131,gaba,drug,abbreviation_for,N687,gamma - aminobutyric acid,drug,1
+N6,bipolar disorder,disease,occurs_in,N689,depressive episodes,disease,1
+N287,hamilton depression scale,method,help_diagnose,N2,depression,disease,1
+N287,hamilton depression scale,method,help_diagnose,N5,anxiety,disease,1
+N691,hamd-17,method,help_diagnose,N2,depression,disease,1
+N691,hamd-17,method,help_diagnose,N5,anxiety,disease,1
+N691,hamd-17,method,abbreviation_for,N287,hamilton depression scale,method,1
+N692,hamilton anxiety scale,method,help_diagnose,N2,depression,disease,1
+N692,hamilton anxiety scale,method,help_diagnose,N5,anxiety,disease,1
+N693,hama,method,help_diagnose,N2,depression,disease,1
+N693,hama,method,help_diagnose,N5,anxiety,disease,1
+N693,hama,method,abbreviation_for,N692,hamilton anxiety scale,method,1
+N696,gad,gene,abbreviation_for,N695,glu decarboxylase,gene,1
+N697,enzyme-linked immunosorbent assay,method,help_diagnose,N696,gad,gene,1
+N697,enzyme-linked immunosorbent assay,method,help_diagnose,N695,glu decarboxylase,gene,1
+N697,enzyme-linked immunosorbent assay,method,help_diagnose,N694,"serum levels of glu , gaba",signs,1
+N698,elisa,method,help_diagnose,N696,gad,gene,1
+N698,elisa,method,help_diagnose,N695,glu decarboxylase,gene,1
+N698,elisa,method,abbreviation_for,N697,enzyme-linked immunosorbent assay,method,1
+N698,elisa,method,help_diagnose,N694,"serum levels of glu , gaba",signs,1
+N699,serum glu level,signs,characteristic_of,N2,depression,disease,1
+N699,serum glu level,signs,characteristic_of,N68,bipolar depression,disease,1
+N700,glu / gaba ratio,signs,characteristic_of,N2,depression,disease,1
+N700,glu / gaba ratio,signs,characteristic_of,N68,bipolar depression,disease,1
+N131,gaba,drug,characteristic_of,N68,bipolar depression,disease,1
+N702,glu / gaba,drug,characteristic_of,N68,bipolar depression,disease,1
+N703,serum gaba,drug,associated_with,N704,hamd sleep disorder factor,Health_factors,1
+N705,glu,gene,characteristic_of,N2,depression,disease,1
+N705,glu,gene,characteristic_of,N68,bipolar depression,disease,1
+N131,gaba,drug,located_in,N706,peripheral blood circulation,region,1
+N16,cnvs,gene,risk_factor_of,N69,autism,disease,1
+N16,cnvs,gene,risk_factor_of,N1,schizophrenia,disease,1
+N16,cnvs,gene,risk_factor_of,N289,cognition,physiology,1
+N1,schizophrenia,disease,associated_with,N289,cognition,physiology,1
+N707,alleles of copy-number variants,gene,located_in,N290,genomes,gene,1
+N16,cnvs,gene,located_in,N290,genomes,gene,1
+N16,cnvs,gene,abbreviation_for,N707,alleles of copy-number variants,gene,1
+N16,cnvs,gene,associated_with,N710,fecundity,physiology,1
+N714,breakpoints 1 and 2,gene,abbreviation_for,N293,15q11 . 2,gene,1
+N293,15q11 . 2,gene,abbreviation_for,N714,breakpoints 1 and 2,gene,1
+N292,cnv,signs,associated_with,N717,cognitive traits,symptom,1
+N293,15q11 . 2,gene,associated_with,N718,brain structure,region,1
+N294,bp1-bp2,gene,associated_with,N718,brain structure,region,1
+N719,first-episode psychosis,disease,occurs_in,N1,schizophrenia,disease,1
+N181,social disconnectedness,disease,occurs_in,N721,older americans,Health_factors,1
+N182,perceived isolation,Health_factors,occurs_in,N721,older americans,Health_factors,1
+N2,depression,disease,occurs_in,N721,older americans,Health_factors,1
+N5,anxiety,disease,occurs_in,N721,older americans,Health_factors,1
+N722,nshap,Health_factors,abbreviation_for,N721,older americans,Health_factors,1
+N723,social isolation,Health_factors,risk_factor_of,N7,mental disorders,disease,1
+N43,loneliness,disease,risk_factor_of,N7,mental disorders,disease,1
+N726,small social network,Health_factors,hyponym_of,N725,social disconnectedness,Health_factors,1
+N727,social interaction,Health_factors,hyponym_of,N725,social disconnectedness,Health_factors,1
+N43,loneliness,disease,hyponym_of,N728,perceptions of social isolation,Health_factors,1
+N729,lack of support,Health_factors,hyponym_of,N728,perceptions of social isolation,Health_factors,1
+N5,anxiety,disease,occurs_in,N731,community-residing older adults,Health_factors,1
+N730,depression symptom,disease,occurs_in,N132,older adults,Health_factors,1
+N730,depression symptom,disease,occurs_in,N731,community-residing older adults,Health_factors,1
+N733,nshap,method,abbreviation_for,N732,"national social life , health , and aging project",method,1
+N181,social disconnectedness,disease,associated_with,N182,perceived isolation,Health_factors,1
+N181,social disconnectedness,disease,risk_factor_of,N182,perceived isolation,Health_factors,1
+N181,social disconnectedness,disease,risk_factor_of,N98,depression symptoms,disease,1
+N181,social disconnectedness,disease,risk_factor_of,N67,anxiety symptoms,disease,1
+N182,perceived isolation,Health_factors,risk_factor_of,N98,depression symptoms,disease,1
+N182,perceived isolation,Health_factors,risk_factor_of,N67,anxiety symptoms,disease,1
+N737,social network structure and function,Health_factors,associated_with,N5,anxiety,disease,1
+N737,social network structure and function,Health_factors,associated_with,N98,depression symptoms,disease,1
+N5,anxiety,disease,occurs_in,N133,general population,Health_factors,1
+N98,depression symptoms,disease,occurs_in,N133,general population,Health_factors,1
+N98,depression symptoms,disease,occurs_in,N132,older adults,Health_factors,1
+N133,general population,Health_factors,occurs_in,N132,older adults,Health_factors,1
+N738,public health initiatives,Health_factors,treatment_for,N182,perceived isolation,Health_factors,1
+N744,interactive web-based interventions,method,treatment_for,N2,depression,disease,1
+N747,guided i-rfcbt,method,treatment_for,N2,depression,disease,1
+N134,environmental exposures,Health_factors,occurs_in,N1,schizophrenia,disease,1
+N1,schizophrenia,disease,associated_with,N751,genetic variants,gene,1
+N1,schizophrenia,disease,hyponym_of,N750,heritable complex phenotype,Health_factors,1
+N754,gene-environment interaction,physiology,associated_with,N28,schizophrenia spectrum disorders,disease,1
+N184,prs-scz,signs,abbreviation_for,N1,schizophrenia,disease,1
+N184,prs-scz,signs,abbreviation_for,N756,polygenic risk score for schizophrenia,signs,1
+N757,gene-environment interaction,Health_factors,occurs_in,N1,schizophrenia,disease,1
+N770,physical neglect,Health_factors,occurs_in,N298,childhood,Health_factors,1
+N301,il-6,gene,hyponym_of,N186,inflammation,disease,1
+N780,il-10,gene,hyponym_of,N186,inflammation,disease,1
+N781,tumor necrosis factor,gene,hyponym_of,N186,inflammation,disease,1
+N782,tnf,gene,abbreviation_for,N781,tumor necrosis factor,gene,1
+N783,c-reactive protein,gene,hyponym_of,N186,inflammation,disease,1
+N302,crp,gene,hyponym_of,N186,inflammation,disease,1
+N302,crp,gene,abbreviation_for,N783,c-reactive protein,gene,1
+N14,depressive symptoms,disease,associated_with,N71,musculoskeletal pain,disease,1
+N71,musculoskeletal pain,disease,occurs_in,N789,inactive adults,Health_factors,1
+N71,musculoskeletal pain,disease,occurs_in,N790,covid-19 quarantine,Health_factors,1
+N304,self-report,method,help_diagnose,N14,depressive symptoms,disease,1
+N794,nordic questionnaire,method,help_diagnose,N72,pain,disease,1
+N794,nordic questionnaire,method,help_diagnose,N71,musculoskeletal pain,disease,1
+N72,pain,disease,located_in,N305,body,region,1
+N14,depressive symptoms,disease,associated_with,N72,pain,disease,1
+N797,physically inactive,Health_factors,occurs_in,N14,depressive symptoms,disease,1
+N14,depressive symptoms,disease,risk_factor_of,N72,pain,disease,1
+N798,crocin,drug,treatment_for,N306,depression-like behavior,disease,1
+N798,crocin,drug,associated_with,N799,da projection neurons,region,1
+N799,da projection neurons,region,located_in,N800,vta,region,1
+N799,da projection neurons,region,associated_with,N801,mtor,physiology,1
+N801,mtor,physiology,treatment_for,N306,depression-like behavior,disease,1
+N306,depression-like behavior,disease,occurs_in,N804,pd mice,method,1
+N41,depressive disorders,disease,occurs_in,N11,women,Health_factors,1
+N41,depressive disorders,disease,associated_with,N812,reproductive aging cycle,physiology,1
+N308,pmdd,disease,abbreviation_for,N816,premenstrual dysphoric disorder,disease,1
+N309,ppd,disease,abbreviation_for,N817,postpartum depression disorder,disease,1
+N41,depressive disorders,disease,associated_with,N826,female reproductive cycle,physiology,1
+N828,hypoactivation,physiology,characteristic_of,N309,ppd,disease,1
+N832,hormonal fluctuations,signs,associated_with,N833,reproductive cycle-related depression,disease,1
+N834,hormonal and neural patterns,physiology,characteristic_of,N835,mood disorder,disease,1
+N835,mood disorder,disease,occurs_in,N836,phase specific biotypes,disease,1
+N839,neuroendocrine,drug,associated_with,N2,depression,disease,1
+N842,automated messaging,method,treatment_for,N2,depression,disease,1
+N845,moderate heritability,Health_factors,characteristic_of,N3,mdd,disease,1
+N845,moderate heritability,Health_factors,characteristic_of,N26,major depressive disorder,disease,1
+N18,major depression,disease,occurs_in,N312,china-to-us immigrants,Health_factors,1
+N849,cpes,method,abbreviation_for,N848,collaborative psychiatric epidemiology surveys,method,1
+N187,mde,disease,abbreviation_for,N851,major depressive episode,disease,1
+N868,patient health questionnaire-9,method,help_diagnose,N317,probable depression,disease,1
+N884,family support,Health_factors,associated_with,N2,depression,disease,1
+N888,ifn-gamma,gene,risk_factor_of,N319,depression-like behaviors,disease,1
+N888,ifn-gamma,gene,risk_factor_of,N890,cognitive defects,disease,1
+N888,ifn-gamma,gene,associated_with,N889,adult hippocampal neurogenesis,physiology,1
+N891,post stroke depression,disease,risk_factor_of,N15,mortality,disease,1
+N15,mortality,disease,occurs_in,N320,stroke survivors,Health_factors,1
+N99,health anxiety,disease,occurs_in,N892,medical patients,Health_factors,1
+N894,therapists,Health_factors,treatment_for,N99,health anxiety,disease,1
+N895,psychological services,Health_factors,treatment_for,N99,health anxiety,disease,1
+N911,health anxiety inventory,method,help_diagnose,N910,health anxiety symptoms,disease,1
+N61,obsessive-compulsive disorder,disease,risk_factor_of,N1,schizophrenia,disease,1
+N932,irrs,method,abbreviation_for,N931,incidence rate ratios,method,1
+N934,offspring of parents,Health_factors,risk_factor_of,N1,schizophrenia,disease,1
+N934,offspring of parents,Health_factors,risk_factor_of,N28,schizophrenia spectrum disorders,disease,1
+N937,microrna-34a,gene,associated_with,N941,serotonergic system,region,1
+N937,microrna-34a,gene,associated_with,N939,mouse raphe nuclei,region,1
+N937,microrna-34a,gene,associated_with,N940,depression-like behavioral alterations,symptom,1
+N946,genetic and environmental factors,Health_factors,risk_factor_of,N1,schizophrenia,disease,1
+N955,gras,method,abbreviation_for,N954,gttingen research association for schizophrenia,method,1
+N960,perinatal brain insults,disease,hyponym_of,N959,environmental hazards,Health_factors,1
+N194,cannabis use,Health_factors,hyponym_of,N959,environmental hazards,Health_factors,1
+N961,neurotrauma,disease,hyponym_of,N959,environmental hazards,Health_factors,1
+N962,psychotrauma,disease,hyponym_of,N959,environmental hazards,Health_factors,1
+N963,urbanicity,Health_factors,hyponym_of,N959,environmental hazards,Health_factors,1
+N964,migration,Health_factors,hyponym_of,N959,environmental hazards,Health_factors,1
+N325,environmental factors,Health_factors,risk_factor_of,N1,schizophrenia,disease,1
+N325,environmental factors,Health_factors,risk_factor_of,N967,early schizophrenia,disease,1
+N36,cannabis,drug,associated_with,N9,age,Health_factors,1
+N45,prazosin,drug,treatment_for,N326,nightmares,disease,1
+N45,prazosin,drug,treatment_for,N24,ptsd,disease,1
+N45,prazosin,drug,hyponym_of,N974,1-adrenoreceptor antagonist,drug,1
+N326,nightmares,disease,associated_with,N24,ptsd,disease,1
+N326,nightmares,disease,associated_with,N29,post-traumatic stress disorder,disease,1
+N24,ptsd,disease,occurs_in,N195,military veterans,Health_factors,1
+N977,clinician-administered ptsd scale,method,help_diagnose,N329,distressing dreams,disease,1
+N977,clinician-administered ptsd scale,method,help_diagnose,N978,recurrent distressing dreams,disease,1
+N328,caps,method,help_diagnose,N329,distressing dreams,disease,1
+N328,caps,method,abbreviation_for,N977,clinician-administered ptsd scale,method,1
+N328,caps,method,help_diagnose,N978,recurrent distressing dreams,disease,1
+N979,pittsburgh sleep quality index,method,help_diagnose,N331,sleep quality,Health_factors,1
+N330,psqi,method,help_diagnose,N331,sleep quality,Health_factors,1
+N330,psqi,method,abbreviation_for,N979,pittsburgh sleep quality index,method,1
+N332,cgic,method,abbreviation_for,N980,clinical global impression of change,method,1
+N993,diagnostic and statistical manual of mental disorders 5th edition,method,help_diagnose,N1,schizophrenia,disease,1
+N994,mini international neuropsychiatric interview,method,help_diagnose,N1,schizophrenia,disease,1
+N995,extrapyramidal symptom assessments,method,help_diagnose,N1,schizophrenia,disease,1
+N34,adults,Health_factors,occurs_in,N998,acute schizophrenia,disease,1
+N1003,heart rate,signs,occurs_in,N19,emraclidine,drug,1
+N1009,social deficits,disease,risk_factor_of,N137,social dysfunction,disease,1
+N1010,neuropsychiatric disorders,disease,risk_factor_of,N137,social dysfunction,disease,1
+N1,schizophrenia,disease,hyponym_of,N1010,neuropsychiatric disorders,disease,1
+N1,schizophrenia,disease,risk_factor_of,N137,social dysfunction,disease,1
+N336,scz,disease,abbreviation_for,N1,schizophrenia,disease,1
+N336,scz,disease,hyponym_of,N1010,neuropsychiatric disorders,disease,1
+N336,scz,disease,risk_factor_of,N137,social dysfunction,disease,1
+N202,alzheimer's disease,disease,hyponym_of,N1010,neuropsychiatric disorders,disease,1
+N202,alzheimer's disease,disease,risk_factor_of,N137,social dysfunction,disease,1
+N196,ad,disease,hyponym_of,N1010,neuropsychiatric disorders,disease,1
+N196,ad,disease,abbreviation_for,N202,alzheimer's disease,disease,1
+N196,ad,disease,risk_factor_of,N137,social dysfunction,disease,1
+N26,major depressive disorder,disease,hyponym_of,N1010,neuropsychiatric disorders,disease,1
+N26,major depressive disorder,disease,risk_factor_of,N137,social dysfunction,disease,1
+N3,mdd,disease,hyponym_of,N1010,neuropsychiatric disorders,disease,1
+N3,mdd,disease,risk_factor_of,N137,social dysfunction,disease,1
+N1011,neurobiological substrates,physiology,associated_with,N321,social functioning,Health_factors,1
+N1011,neurobiological substrates,physiology,associated_with,N137,social dysfunction,disease,1
+N1011,neurobiological substrates,physiology,associated_with,N201,social withdrawal,disease,1
+N321,social functioning,Health_factors,occurs_in,N1012,major psychiatric disorders,disease,1
+N137,social dysfunction,disease,occurs_in,N1012,major psychiatric disorders,disease,1
+N201,social withdrawal,disease,occurs_in,N1012,major psychiatric disorders,disease,1
+N196,ad,disease,associated_with,N200,social brain,region,1
+N336,scz,disease,associated_with,N200,social brain,region,1
+N3,mdd,disease,associated_with,N200,social brain,region,1
+N1014,long-term potentiation,physiology,associated_with,N1016,information storage,physiology,1
+N1015,ltp,physiology,abbreviation_for,N1014,long-term potentiation,physiology,1
+N1015,ltp,physiology,associated_with,N1016,information storage,physiology,1
+N337,long-term depression,disease,associated_with,N1016,information storage,physiology,1
+N338,ltd,physiology,abbreviation_for,N337,long-term depression,disease,1
+N338,ltd,physiology,associated_with,N1016,information storage,physiology,1
+N1016,information storage,physiology,located_in,N1017,ca1,region,1
+N1016,information storage,physiology,located_in,N339,hippocampus,region,1
+N1017,ca1,region,located_in,N339,hippocampus,region,1
+N1018,chronic systemic administration,method,treatment_for,N138,depressive-like behavior,disease,1
+N1019,hdac inhibitor,drug,treatment_for,N138,depressive-like behavior,disease,1
+N1020,saha,drug,treatment_for,N138,depressive-like behavior,disease,1
+N138,depressive-like behavior,disease,occurs_in,N1021,crtc1 ( - / - ) mice,method,1
+N36,cannabis,drug,associated_with,N18,major depression,disease,1
+N31,se,method,abbreviation_for,N1022,standard error,method,1
+N340,kcnh2,gene,associated_with,N289,cognition,physiology,1
+N340,kcnh2,gene,risk_factor_of,N1,schizophrenia,disease,1
+N340,kcnh2,gene,associated_with,N1024,cortical physiology,physiology,1
+N340,kcnh2,gene,associated_with,N1025,neuronal repolarization,physiology,1
+N1026,organized neuronal firing,physiology,associated_with,N1,schizophrenia,disease,1
+N1026,organized neuronal firing,physiology,associated_with,N1027,cortical processing,physiology,1
+N1029,5 ' complementary dna,gene,located_in,N341,human brain,region,1
+N1030,primate-specific isoform,gene,associated_with,N1033,neuronal firing,physiology,1
+N1031,3 . 1,gene,abbreviation_for,N1030,primate-specific isoform,gene,1
+N1031,3 . 1,gene,associated_with,N1033,neuronal firing,physiology,1
+N1031,3 . 1,gene,located_in,N1032,ether-a-go-go-related k ( + ) channel kcnh2,gene,1
+N1032,ether-a-go-go-related k ( + ) channel kcnh2,gene,associated_with,N1033,neuronal firing,physiology,1
+N1035,full-length kcnh2 ( 1a ),gene,located_in,N56,brain,region,1
+N204,single nucleotide polymorphisms,gene,located_in,N340,kcnh2,gene,1
+N204,single nucleotide polymorphisms,gene,associated_with,N1,schizophrenia,disease,1
+N1040,risk-associated alleles,gene,associated_with,N1042,cognitive processing,physiology,1
+N1040,risk-associated alleles,gene,associated_with,N1041,intelligence quotient scores,signs,1
+N1040,risk-associated alleles,gene,associated_with,N1044,kcnh2-3 . 1 mrna,gene,1
+N1040,risk-associated alleles,gene,associated_with,N1043,memory-linked functional magnetic resonance imaging signals,physiology,1
+N1044,kcnh2-3 . 1 mrna,gene,located_in,N1045,postmortem hippocampus,region,1
+N337,long-term depression,disease,associated_with,N342,phospholipase c,gene,1
+N337,long-term depression,disease,associated_with,N1049,intracellular calcium,gene,1
+N1048,postsynaptic group ii metabotropic glutamate receptors,gene,risk_factor_of,N337,long-term depression,disease,1
+N1048,postsynaptic group ii metabotropic glutamate receptors,gene,associated_with,N342,phospholipase c,gene,1
+N1048,postsynaptic group ii metabotropic glutamate receptors,gene,associated_with,N1049,intracellular calcium,gene,1
+N342,phospholipase c,gene,located_in,N1050,rat prefrontal cortex,region,1
+N1049,intracellular calcium,gene,located_in,N1050,rat prefrontal cortex,region,1
+N1055,mglurs,gene,abbreviation_for,N1054,metabotropic glutamate receptors,gene,1
+N1055,mglurs,gene,abbreviation_for,N1053,group ii metabotropic glutamate receptors,gene,1
+N338,ltd,physiology,abbreviation_for,N1056,postsynaptic ca2 + - dependent long-term depression,physiology,1
+N1059,rs,drug,abbreviation_for,N1058,mglur antagonist,drug,1
+N1063,2s,drug,abbreviation_for,N1062,agonist,drug,1
+N205,ltd,disease,associated_with,N1065,group ii mglurs,gene,1
+N77,dcg iv-induced ltd,disease,associated_with,N1067,ap-5,gene,1
+N1069,small nmda receptor-mediated responses,physiology,associated_with,N1070,single synaptic stimuli,physiology,1
+N1069,small nmda receptor-mediated responses,physiology,associated_with,N77,dcg iv-induced ltd,disease,1
+N1071,phospholipase c inhibitor,drug,hyponym_of,N207,drugs,drug,1
+N1072,u-73122,drug,hyponym_of,N207,drugs,drug,1
+N1072,u-73122,drug,treatment_for,N77,dcg iv-induced ltd,disease,1
+N1079,pkc,drug,hyponym_of,N207,drugs,drug,1
+N206,dcg iv,method,associated_with,N344,ca2 + concentration,signs,1
+N344,ca2 + concentration,signs,located_in,N1083,prefrontal layer v pyramidal neurons,region,1
+N1085,postsynaptic heparin,drug,located_in,N1086,cells,region,1
+N1087,postsynaptic group ii mglurs,gene,associated_with,N205,ltd,disease,1
+N1087,postsynaptic group ii mglurs,gene,risk_factor_of,N205,ltd,disease,1
+N1087,postsynaptic group ii mglurs,gene,associated_with,N342,phospholipase c,gene,1
+N1087,postsynaptic group ii mglurs,gene,associated_with,N1088,phospholipase d,gene,1
+N1087,postsynaptic group ii mglurs,gene,associated_with,N344,ca2 + concentration,signs,1
+N14,depressive symptoms,disease,occurs_in,N1091,community-dwelling chinese elders,Health_factors,1
+N46,productive engagement,Health_factors,associated_with,N43,loneliness,disease,1
+N102,sleep-wake disturbances,disease,associated_with,N2,depression,disease,1
+N102,sleep-wake disturbances,disease,associated_with,N347,leisure activities,Health_factors,1
+N347,leisure activities,Health_factors,associated_with,N2,depression,disease,1
+N46,productive engagement,Health_factors,associated_with,N2,depression,disease,1
+N46,productive engagement,Health_factors,associated_with,N14,depressive symptoms,disease,1
+N347,leisure activities,Health_factors,associated_with,N14,depressive symptoms,disease,1
+N346,family caregiving,Health_factors,associated_with,N14,depressive symptoms,disease,1
+N208,paid work,Health_factors,associated_with,N14,depressive symptoms,disease,1
+N14,depressive symptoms,disease,occurs_in,N132,older adults,Health_factors,1
+N1100,cort,drug,risk_factor_of,N138,depressive-like behavior,disease,1
+N348,exercise,Health_factors,treatment_for,N138,depressive-like behavior,disease,1
+N1102,psychotic syndromes,disease,hyponym_of,N1103,disorders of adaptation to social context,Health_factors,1
+N1105,early life adversity,Health_factors,hyponym_of,N325,environmental factors,Health_factors,1
+N1106,urban environment,Health_factors,hyponym_of,N325,environmental factors,Health_factors,1
+N1107,minority group position,Health_factors,hyponym_of,N325,environmental factors,Health_factors,1
+N194,cannabis use,Health_factors,hyponym_of,N325,environmental factors,Health_factors,1
+N1128,logic check,method,hyponym_of,N1127,data-quality control procedures,method,1
+N1129,sequential recording check,method,hyponym_of,N1127,data-quality control procedures,method,1
+N1130,phone-call check,method,hyponym_of,N1127,data-quality control procedures,method,1
+N1131,reinterview check,method,hyponym_of,N1127,data-quality control procedures,method,1
+N1136,ministry of health,Health_factors,abbreviation_for,N1135,national health commission of health,Health_factors,1
+N12,anxiety disorders,disease,risk_factor_of,N58,disability,disease,1
+N12,anxiety disorders,disease,hyponym_of,N7,mental disorders,disease,1
+N140,fear,disease,characteristic_of,N12,anxiety disorders,disease,1
+N5,anxiety,disease,characteristic_of,N12,anxiety disorders,disease,1
+N1138,avoidance of perceived threats,Health_factors,characteristic_of,N12,anxiety disorders,disease,1
+N1142,female sex,Health_factors,risk_factor_of,N12,anxiety disorders,disease,1
+N1143,family history of anxiety,Health_factors,risk_factor_of,N12,anxiety disorders,disease,1
+N1145,"diagnostic and statistical manual of mental disorders , fifth edition",method,hyponym_of,N1144,classification systems,method,1
+N1146,dsm-5,method,hyponym_of,N1144,classification systems,method,1
+N1146,dsm-5,method,abbreviation_for,N1145,"diagnostic and statistical manual of mental disorders , fifth edition",method,1
+N1147,"international classification of diseases , tenth edition",method,hyponym_of,N1144,classification systems,method,1
+N1148,icd-10,method,hyponym_of,N1144,classification systems,method,1
+N1148,icd-10,method,abbreviation_for,N1147,"international classification of diseases , tenth edition",method,1
+N352,impairments,disease,associated_with,N12,anxiety disorders,disease,1
+N307,poststroke depression,disease,associated_with,N320,stroke survivors,Health_factors,1
+N307,poststroke depression,disease,associated_with,N1154,functional outcomes,Health_factors,1
+N307,poststroke depression,disease,associated_with,N1155,poststroke mortality,disease,1
+N307,poststroke depression,disease,risk_factor_of,N1155,poststroke mortality,disease,1
+N1153,psd,disease,abbreviation_for,N307,poststroke depression,disease,1
+N1153,psd,disease,associated_with,N320,stroke survivors,Health_factors,1
+N1153,psd,disease,associated_with,N1154,functional outcomes,Health_factors,1
+N1153,psd,disease,associated_with,N1155,poststroke mortality,disease,1
+N211,psychological interventions,method,treatment_for,N103,positive symptoms,disease,1
+N103,positive symptoms,disease,occurs_in,N1,schizophrenia,disease,1
+N141,psychological treatments,method,hyponym_of,N54,interventions,method,1
+N141,psychological treatments,method,treatment_for,N1,schizophrenia,disease,1
+N1160,validated rating scales,method,help_diagnose,N103,positive symptoms,disease,1
+N212,cognitive behavioural therapy,method,treatment_for,N103,positive symptoms,disease,1
+N1162,supportive therapy,method,treatment_for,N103,positive symptoms,disease,1
+N1163,cognitive behavior therapy,method,treatment_for,N103,positive symptoms,disease,1
+N103,positive symptoms,disease,occurs_in,N1164,moderately ill,disease,1
+N1164,moderately ill,disease,occurs_in,N1,schizophrenia,disease,1
+N1165,beck depression inventory,method,help_diagnose,N2,depression,disease,1
+N1166,bdi,method,help_diagnose,N2,depression,disease,1
+N1166,bdi,method,abbreviation_for,N1165,beck depression inventory,method,1
+N1167,dyadic adjustment scale,method,help_diagnose,N1169,relationship satisfaction,Health_factors,1
+N1167,dyadic adjustment scale,method,help_diagnose,N1172,sexual functioning,physiology,1
+N1168,das,method,help_diagnose,N1169,relationship satisfaction,Health_factors,1
+N1168,das,method,help_diagnose,N1172,sexual functioning,physiology,1
+N1168,das,method,abbreviation_for,N1167,dyadic adjustment scale,method,1
+N1170,short sexual functioning scale,method,help_diagnose,N1172,sexual functioning,physiology,1
+N1171,ssfs,method,help_diagnose,N1169,relationship satisfaction,Health_factors,1
+N1171,ssfs,method,help_diagnose,N1172,sexual functioning,physiology,1
+N1171,ssfs,method,abbreviation_for,N1170,short sexual functioning scale,method,1
+N359,mindfulness meditation,physiology,treatment_for,N2,depression,disease,1
+N78,psilocybin,drug,treatment_for,N2,depression,disease,1
+N2,depression,disease,hyponym_of,N1179,public health problem,disease,1
+N1182,mm,physiology,abbreviation_for,N360,mindfulness meditation,method,1
+N352,impairments,disease,occurs_in,N23,major depression disorder,disease,1
+N143,mm,drug,associated_with,N166,mood,physiology,1
+N143,mm,drug,associated_with,N214,neuroplasticity,physiology,1
+N143,mm,drug,associated_with,N362,social skills,Health_factors,1
+N78,psilocybin,drug,associated_with,N166,mood,physiology,1
+N78,psilocybin,drug,associated_with,N214,neuroplasticity,physiology,1
+N78,psilocybin,drug,associated_with,N362,social skills,Health_factors,1
+N1190,mm's,gene,associated_with,N1191,affective self-regulation,physiology,1
+N1190,mm's,gene,associated_with,N1193,stress reactivity,physiology,1
+N1190,mm's,gene,associated_with,N1194,prefrontal and limbic areas,region,1
+N143,mm,drug,hyponym_of,N1199,mutual positive effects,physiology,1
+N1,schizophrenia,disease,occurs_in,N79,pregnancy,physiology,1
+N1204,perinatal period,Health_factors,risk_factor_of,N366,severe mental disorders,disease,1
+N216,suicide,disease,risk_factor_of,N1209,maternal death,disease,1
+N366,severe mental disorders,disease,occurs_in,N79,pregnancy,physiology,1
+N1212,rare chromosomal deletions and duplications,gene,occurs_in,N217,attention-deficit hyperactivity disorder,disease,1
+N1213,copy number variants,gene,associated_with,N368,neurodevelopmental disorders,disease,1
+N16,cnvs,gene,associated_with,N368,neurodevelopmental disorders,disease,1
+N16,cnvs,gene,abbreviation_for,N1213,copy number variants,gene,1
+N20,adhd,disease,abbreviation_for,N217,attention-deficit hyperactivity disorder,disease,1
+N351,diagnostic criteria,method,help_diagnose,N20,adhd,disease,1
+N351,diagnostic criteria,method,help_diagnose,N1218,hyperkinetic disorder,disease,1
+N204,single nucleotide polymorphisms,gene,associated_with,N20,adhd,disease,1
+N219,snps,gene,associated_with,N20,adhd,disease,1
+N218,loci,gene,associated_with,N69,autism,disease,1
+N218,loci,gene,associated_with,N1,schizophrenia,disease,1
+N1225,"large , rare cnvs",gene,associated_with,N16,cnvs,gene,1
+N16,cnvs,gene,characteristic_of,N1226,intellectual disability,disease,1
+N1227,chromosome 16p13 . 11 duplications,gene,characteristic_of,N20,adhd,disease,1
+N1230,large cnvs,gene,characteristic_of,N20,adhd,disease,1
+N20,adhd,disease,risk_factor_of,N1230,large cnvs,gene,1
+N1233,epsilon4 allele of,gene,risk_factor_of,N202,alzheimer's disease,disease,1
+N1234,epsilon4 allele of the,gene,risk_factor_of,N202,alzheimer's disease,disease,1
+N1238,apoe,gene,abbreviation_for,N1237,apolipoproteine,gene,1
+N1238,apoe,gene,abbreviation_for,N1236,the apolipoproteine,gene,1
+N1238,apoe,gene,risk_factor_of,N202,alzheimer's disease,disease,1
+N1238,apoe,gene,abbreviation_for,N1235,epsilon4 allele of the apolipoproteine,gene,1
+N14,depressive symptoms,disease,associated_with,N369,cognitive impairment,disease,1
+N369,cognitive impairment,disease,occurs_in,N1240,older persons,Health_factors,1
+N1242,second-generation antipsychotics,drug,treatment_for,N1,schizophrenia,disease,1
+N1243,sgas,drug,treatment_for,N1,schizophrenia,disease,1
+N1243,sgas,drug,abbreviation_for,N1242,second-generation antipsychotics,drug,1
+N1245,evo,method,treatment_for,N14,depressive symptoms,disease,1
+N1245,evo,method,treatment_for,N1247,cognitive control,physiology,1
+N1245,evo,method,hyponym_of,N1246,cognitive training app,method,1
+N1248,ipst,method,treatment_for,N2,depression,disease,1
+N1250,health tips,method,hyponym_of,N1251,treatment control,method,1
+N49,cognitive behavioral therapy,method,treatment_for,N1252,childhood anxiety,disease,1
+N62,sertraline,drug,treatment_for,N1252,childhood anxiety,disease,1
+N12,anxiety disorders,disease,associated_with,N10,children,Health_factors,1
+N12,anxiety disorders,disease,associated_with,N144,adolescents,Health_factors,1
+N12,anxiety disorders,disease,hyponym_of,N1253,psychiatric conditions,disease,1
+N1260,suicidal,disease,hyponym_of,N199,adverse events,Health_factors,1
+N1261,homicidal ideation,disease,hyponym_of,N199,adverse events,Health_factors,1
+N49,cognitive behavioral therapy,method,treatment_for,N5,anxiety,disease,1
+N62,sertraline,drug,treatment_for,N5,anxiety,disease,1
+N5,anxiety,disease,occurs_in,N10,children,Health_factors,1
+N5,anxiety,disease,occurs_in,N12,anxiety disorders,disease,1
+N1265,mtsm,method,treatment_for,N41,depressive disorders,disease,1
+N41,depressive disorders,disease,occurs_in,N144,adolescents,Health_factors,1
+N374,deep brain stimulation,method,treatment_for,N1266,frontostriatal network activity,physiology,1
+N1266,frontostriatal network activity,physiology,occurs_in,N61,obsessive-compulsive disorder,disease,1
+N226,dbs,method,abbreviation_for,N374,deep brain stimulation,method,1
+N226,dbs,method,associated_with,N1269,nac activity,physiology,1
+N226,dbs,method,treatment_for,N1269,nac activity,physiology,1
+N226,dbs,method,associated_with,N1270,excessive connectivity,physiology,1
+N226,dbs,method,treatment_for,N1270,excessive connectivity,physiology,1
+N226,dbs,method,associated_with,N1272,frontal low-frequency oscillations,physiology,1
+N375,nac,region,abbreviation_for,N1268,nucleus accumbens,region,1
+N1270,excessive connectivity,physiology,located_in,N375,nac,region,1
+N1270,excessive connectivity,physiology,located_in,N1271,nac and prefrontal cortex,region,1
+N1272,frontal low-frequency oscillations,physiology,occurs_in,N61,obsessive-compulsive disorder,disease,1
+N1273,symptom provocation,disease,occurs_in,N61,obsessive-compulsive disorder,disease,1
+N1276,benzodiazepine tranquilizers,drug,treatment_for,N12,anxiety disorders,disease,1
+N1279,h101r,gene,abbreviation_for,N1278,alpha2,gene,1
+N1281,h126r,gene,abbreviation_for,N1280,alpha3,gene,1
+N1282,anxiolytic effect,physiology,associated_with,N1284,alpha2 gabaa receptors,gene,1
+N1283,benzodiazepine drugs,drug,associated_with,N1284,alpha2 gabaa receptors,gene,1
+N1284,alpha2 gabaa receptors,gene,associated_with,N379,limbic system,region,1
+N380,perinatal mental disorders,disease,risk_factor_of,N1288,psychological and developmental disturbances,disease,1
+N1288,psychological and developmental disturbances,disease,occurs_in,N10,children,Health_factors,1
+N1289,parental disorders,disease,associated_with,N382,adolescence,Health_factors,1
+N1289,parental disorders,disease,associated_with,N381,offspring outcomes,Health_factors,1
+N382,adolescence,Health_factors,occurs_in,N1291,"high-income , middle-income , and low-income countries",Health_factors,1
+N1293,parent psychopathology,method,associated_with,N381,offspring outcomes,Health_factors,1
+N1296,partner,Health_factors,hyponym_of,N1295,social,Health_factors,1
+N384,erk signaling,physiology,associated_with,N2,depression,disease,1
+N384,erk signaling,physiology,associated_with,N53,antidepressants,drug,1
+N384,erk signaling,physiology,located_in,N1306,depression-implicated brain regions,region,1
+N384,erk signaling,physiology,associated_with,N1307,long-lasting and transcription-dependent neuroadaptations,physiology,1
+N1307,long-lasting and transcription-dependent neuroadaptations,physiology,associated_with,N306,depression-like behavior,disease,1
+N227,pharmacological and non-pharmacological interventions,method,treatment_for,N385,physical health outcomes,Health_factors,1
+N385,physical health outcomes,Health_factors,occurs_in,N1,schizophrenia,disease,1
+N385,physical health outcomes,Health_factors,occurs_in,N28,schizophrenia spectrum disorders,disease,1
+N1312,individual lifestyle counseling,method,hyponym_of,N1311,weight reduction interventions,method,1
+N387,exercise interventions,method,hyponym_of,N1311,weight reduction interventions,method,1
+N1313,psychoeducation,Health_factors,hyponym_of,N1311,weight reduction interventions,method,1
+N228,aripiprazole augmentation,method,hyponym_of,N1311,weight reduction interventions,method,1
+N229,topiramate,drug,hyponym_of,N1311,weight reduction interventions,method,1
+N1314,d-fenfluramine,drug,hyponym_of,N1311,weight reduction interventions,method,1
+N1315,metformin,method,hyponym_of,N1311,weight reduction interventions,method,1
+N231,metformin,drug,treatment_for,N1319,insulin resistance,physiology,1
+N1322,ldl,gene,abbreviation_for,N1321,low-density lipoprotein,gene,1
+N231,metformin,drug,treatment_for,N1324,hdl,gene,1
+N1324,hdl,gene,abbreviation_for,N1323,high-density lipoprotein,gene,1
+N1325,lifestyle interventions,method,associated_with,N390,triglycerides,drug,1
+N387,exercise interventions,method,associated_with,N1327,exercise capacity,Health_factors,1
+N1329,physical health risks,Health_factors,risk_factor_of,N15,mortality,disease,1
+N105,treatment resistance,physiology,occurs_in,N1,schizophrenia,disease,1
+N1342,bed-days,Health_factors,occurs_in,N1343,psychiatric hospital,Health_factors,1
+N1347,suicide attempt,disease,associated_with,N80,treatment-resistant schizophrenia,disease,1
+N1349,treatment-resistant disease,disease,characteristic_of,N1,schizophrenia,disease,1
+N1351,ses,disease,occurs_in,N298,childhood,Health_factors,1
+N1351,ses,disease,risk_factor_of,N18,major depression,disease,1
+N18,major depression,disease,occurs_in,N34,adults,Health_factors,1
+N1354,volumetric deficit,signs,located_in,N1355,fronto-limbic-striatal circuit,region,1
+N2,depression,disease,risk_factor_of,N58,disability,disease,1
+N2,depression,disease,hyponym_of,N1356,major psychiatric disorder,disease,1
+N23,major depression disorder,disease,risk_factor_of,N1357,structural alterations,symptom,1
+N1364,vbm,method,abbreviation_for,N1363,voxel-based morphometry,method,1
+N1364,vbm,method,abbreviation_for,N1362,whole-brain voxel-based morphometry,method,1
+N233,gmv,signs,abbreviation_for,N1367,gray matter volume,signs,1
+N287,hamilton depression scale,method,help_diagnose,N234,clinical symptoms,disease,1
+N394,hamd,method,help_diagnose,N234,clinical symptoms,disease,1
+N394,hamd,method,abbreviation_for,N287,hamilton depression scale,method,1
+N1369,gmv structural alteration,disease,associated_with,N234,clinical symptoms,disease,1
+N1370,brain gray matter volume,signs,located_in,N1372,striatum,region,1
+N1370,brain gray matter volume,signs,located_in,N395,cerebellum,region,1
+N1370,brain gray matter volume,signs,characteristic_of,N3,mdd,disease,1
+N1370,brain gray matter volume,signs,located_in,N1371,prefrontal lobe,region,1
+N1370,brain gray matter volume,signs,located_in,N379,limbic system,region,1
+N1370,brain gray matter volume,signs,located_in,N1373,temporal lobe,region,1
+N1370,brain gray matter volume,signs,located_in,N1374,bilateral lingual gyri,region,1
+N379,limbic system,region,characteristic_of,N3,mdd,disease,1
+N1372,striatum,region,characteristic_of,N3,mdd,disease,1
+N395,cerebellum,region,characteristic_of,N3,mdd,disease,1
+N1373,temporal lobe,region,characteristic_of,N3,mdd,disease,1
+N1374,bilateral lingual gyri,region,characteristic_of,N3,mdd,disease,1
+N1375,hamd scores,method,associated_with,N233,gmv,signs,1
+N1375,hamd scores,method,associated_with,N1377,right lingual gyrus,region,1
+N233,gmv,signs,located_in,N1376,right insula,region,1
+N1378,gray matter structural abnormalities,disease,associated_with,N3,mdd,disease,1
+N1378,gray matter structural abnormalities,disease,located_in,N1379,prefronto-limbic-striatal circuit,region,1
+N395,cerebellum,region,associated_with,N1382,brain alterations,symptom,1
+N1380,lingual gyrus,region,associated_with,N1382,brain alterations,symptom,1
+N1381,fusiform gyrus,region,associated_with,N1382,brain alterations,symptom,1
+N1382,brain alterations,symptom,occurs_in,N3,mdd,disease,1
+N1387,sex differences,Health_factors,occurs_in,N2,depression,disease,1
+N1388,region-specific alterations of monoamine neurotransmission,physiology,associated_with,N319,depression-like behaviors,disease,1
+N319,depression-like behaviors,disease,occurs_in,N264,female mice,method,1
+N1389,brain activity patterns,physiology,occurs_in,N2,depression,disease,1
+N1389,brain activity patterns,physiology,associated_with,N235,rtms,method,1
+N1389,brain activity patterns,physiology,associated_with,N396,treatment response,physiology,1
+N1390,brain activity,physiology,located_in,N1391,brain circuits,region,1
+N235,rtms,method,associated_with,N396,treatment response,physiology,1
+N396,treatment response,physiology,occurs_in,N2,depression,disease,1
+N1392,information provision,Health_factors,associated_with,N5,anxiety,disease,1
+N1392,information provision,Health_factors,associated_with,N2,depression,disease,1
+N1392,information provision,Health_factors,associated_with,N190,health-related quality of life,Health_factors,1
+N190,health-related quality of life,Health_factors,occurs_in,N397,cancer survivors,Health_factors,1
+N146,hrqol,Health_factors,abbreviation_for,N190,health-related quality of life,Health_factors,1
+N299,icbt,method,treatment_for,N2,depression,disease,1
+N299,icbt,method,treatment_for,N1399,diabetes,disease,1
+N24,ptsd,disease,hyponym_of,N1400,high-burden non-communicable conditions,disease,1
+N24,ptsd,disease,associated_with,N1401,years of life lived with disability,Health_factors,1
+N18,major depression,disease,hyponym_of,N1400,high-burden non-communicable conditions,disease,1
+N18,major depression,disease,associated_with,N1401,years of life lived with disability,Health_factors,1
+N5,anxiety,disease,hyponym_of,N1400,high-burden non-communicable conditions,disease,1
+N5,anxiety,disease,associated_with,N1401,years of life lived with disability,Health_factors,1
+N237,family intervention models,method,treatment_for,N1,schizophrenia,disease,1
+N1411,operationalised criteria,method,help_diagnose,N21,relapse,disease,1
+N1412,psychiatric hospital admissions,Health_factors,help_diagnose,N21,relapse,disease,1
+N1413,clinical judgement,Health_factors,help_diagnose,N21,relapse,disease,1
+N400,ors,method,abbreviation_for,N1415,odds ratios,method,1
+N21,relapse,disease,occurs_in,N1,schizophrenia,disease,1
+N29,post-traumatic stress disorder,disease,associated_with,N106,pacap,gene,1
+N29,post-traumatic stress disorder,disease,associated_with,N1422,pac1 receptor,gene,1
+N1423,pituitary adenylate cyclase-activating polypeptide,drug,associated_with,N1424,cellular stress response,physiology,1
+N106,pacap,gene,associated_with,N1424,cellular stress response,physiology,1
+N106,pacap,gene,abbreviation_for,N1423,pituitary adenylate cyclase-activating polypeptide,drug,1
+N29,post-traumatic stress disorder,disease,hyponym_of,N1427,psychological stress responses,physiology,1
+N29,post-traumatic stress disorder,disease,hyponym_of,N1426,human psychological stress responses,physiology,1
+N24,ptsd,disease,hyponym_of,N1427,psychological stress responses,physiology,1
+N24,ptsd,disease,hyponym_of,N1426,human psychological stress responses,physiology,1
+N106,pacap,gene,associated_with,N24,ptsd,disease,1
+N106,pacap,gene,associated_with,N1429,fear physiology,physiology,1
+N106,pacap,gene,associated_with,N1430,adcyap1,gene,1
+N106,pacap,gene,associated_with,N1431,pac1,gene,1
+N1431,pac1,gene,associated_with,N403,adcyap1r1,gene,1
+N1431,pac1,gene,associated_with,N82,genes,gene,1
+N1432,oestrogen response element,gene,located_in,N403,adcyap1r1,gene,1
+N24,ptsd,disease,occurs_in,N81,females,Health_factors,1
+N404,snp,gene,associated_with,N1434,fear discrimination,Health_factors,1
+N404,snp,gene,associated_with,N1435,adcyap1r1 messenger rna expression,physiology,1
+N1435,adcyap1r1 messenger rna expression,physiology,located_in,N341,human brain,region,1
+N1436,methylation of adcyap1r1,physiology,associated_with,N24,ptsd,disease,1
+N1436,methylation of adcyap1r1,physiology,located_in,N1437,peripheral blood,region,1
+N1438,adcyap1r1 mrna,gene,associated_with,N140,fear,disease,1
+N1438,adcyap1r1 mrna,gene,associated_with,N1439,fear conditioning,method,1
+N1438,adcyap1r1 mrna,gene,associated_with,N1440,oestrogen replacement,method,1
+N1442,perturbations in the pacap-pac1 pathway,physiology,associated_with,N24,ptsd,disease,1
+N1442,perturbations in the pacap-pac1 pathway,physiology,associated_with,N1444,abnormal stress responses,physiology,1
+N1443,pacap-pac1 pathway,physiology,associated_with,N24,ptsd,disease,1
+N1443,pacap-pac1 pathway,physiology,associated_with,N1444,abnormal stress responses,physiology,1
+N106,pacap,gene,hyponym_of,N149,biomarkers,signs,1
+N1448,adcyap1r1 snps,gene,hyponym_of,N149,biomarkers,signs,1
+N1449,m1 / m4 muscarinic receptors,gene,located_in,N150,anterior cingulate cortex,region,1
+N1451,psychiatric illness,disease,risk_factor_of,N1450,abnormal cholinergic neurotransmission,disease,1
+N1452,cholinergic muscarinic receptors,gene,located_in,N107,acc,region,1
+N1452,cholinergic muscarinic receptors,gene,located_in,N150,anterior cingulate cortex,region,1
+N107,acc,region,abbreviation_for,N150,anterior cingulate cortex,region,1
+N1453,quantitative autoradiography,method,help_diagnose,N151,[ ( 3 ) h ] pirenzepine binding,physiology,1
+N1458,i-ii,region,abbreviation_for,N1457,superficial laminae,region,1
+N1459,iii-vi,region,abbreviation_for,N405,deep laminae,region,1
+N1460,[ ( 3 ) h ] pirenzepine,drug,characteristic_of,N1,schizophrenia,disease,1
+N1460,[ ( 3 ) h ] pirenzepine,drug,located_in,N405,deep laminae,region,1
+N1465,decreased [ ( 3 ) h ] pirenzepine binding,symptom,characteristic_of,N18,major depression,disease,1
+N216,suicide,disease,associated_with,N151,[ ( 3 ) h ] pirenzepine binding,physiology,1
+N151,[ ( 3 ) h ] pirenzepine binding,physiology,located_in,N107,acc,region,1
+N1466,decreased muscarinic receptor density,symptom,located_in,N107,acc,region,1
+N1466,decreased muscarinic receptor density,symptom,characteristic_of,N1,schizophrenia,disease,1
+N1,schizophrenia,disease,associated_with,N1468,dysfunctional acc neural circuits,disease,1
+N1469,impaired adult neurogenesis,disease,risk_factor_of,N2,depression,disease,1
+N263,adult neurogenesis,physiology,risk_factor_of,N407,recovery,Health_factors,1
+N408,obesity,disease,risk_factor_of,N1472,moderate incontinence,symptom,1
+N408,obesity,disease,risk_factor_of,N1473,severe incontinence,symptom,1
+N408,obesity,disease,risk_factor_of,N18,major depression,disease,1
+N408,obesity,disease,risk_factor_of,N1471,lower educational attainment,Health_factors,1
+N1470,current smoking,Health_factors,risk_factor_of,N18,major depression,disease,1
+N1471,lower educational attainment,Health_factors,risk_factor_of,N18,major depression,disease,1
+N1472,moderate incontinence,symptom,risk_factor_of,N18,major depression,disease,1
+N1473,severe incontinence,symptom,risk_factor_of,N18,major depression,disease,1
+N18,major depression,disease,occurs_in,N11,women,Health_factors,1
+N11,women,Health_factors,occurs_in,N1474,urinary incontinence,Health_factors,1
+N1474,urinary incontinence,Health_factors,occurs_in,N11,women,Health_factors,1
+N1474,urinary incontinence,Health_factors,risk_factor_of,N18,major depression,disease,1
+N83,alcohol use disorders,disease,risk_factor_of,N58,disability,disease,1
+N83,alcohol use disorders,disease,risk_factor_of,N1477,early death,disease,1
+N83,alcohol use disorders,disease,hyponym_of,N32,substance use disorders,disease,1
+N83,alcohol use disorders,disease,risk_factor_of,N1478,early death and disability,disease,1
+N108,drug use disorders,disease,risk_factor_of,N58,disability,disease,1
+N108,drug use disorders,disease,risk_factor_of,N1477,early death,disease,1
+N108,drug use disorders,disease,hyponym_of,N32,substance use disorders,disease,1
+N108,drug use disorders,disease,risk_factor_of,N1478,early death and disability,disease,1
+N239,intentional injuries,disease,risk_factor_of,N1477,early death,disease,1
+N84,self-harm,disease,risk_factor_of,N58,disability,disease,1
+N84,self-harm,disease,hyponym_of,N239,intentional injuries,disease,1
+N84,self-harm,disease,risk_factor_of,N1477,early death,disease,1
+N84,self-harm,disease,risk_factor_of,N1478,early death and disability,disease,1
+N85,interpersonal violence,Health_factors,risk_factor_of,N58,disability,disease,1
+N85,interpersonal violence,Health_factors,hyponym_of,N239,intentional injuries,disease,1
+N85,interpersonal violence,Health_factors,risk_factor_of,N1477,early death,disease,1
+N85,interpersonal violence,Health_factors,risk_factor_of,N1478,early death and disability,disease,1
+N1478,early death and disability,disease,hyponym_of,N239,intentional injuries,disease,1
+N32,substance use disorders,disease,risk_factor_of,N189,deaths,disease,1
+N239,intentional injuries,disease,risk_factor_of,N189,deaths,disease,1
+N83,alcohol use disorders,disease,risk_factor_of,N15,mortality,disease,1
+N108,drug use disorders,disease,risk_factor_of,N15,mortality,disease,1
+N84,self-harm,disease,risk_factor_of,N15,mortality,disease,1
+N85,interpersonal violence,Health_factors,risk_factor_of,N15,mortality,disease,1
+N1479,diabetes mellitus,disease,occurs_in,N1,schizophrenia,disease,1
+N1479,diabetes mellitus,disease,occurs_in,N6,bipolar disorder,disease,1
+N1479,diabetes mellitus,disease,occurs_in,N26,major depressive disorder,disease,1
+N410,type 2 diabetes mellitus,disease,risk_factor_of,N1481,cardiovascular diseases,disease,1
+N25,t2dm,disease,risk_factor_of,N1481,cardiovascular diseases,disease,1
+N25,t2dm,disease,abbreviation_for,N410,type 2 diabetes mellitus,disease,1
+N1482,smi,disease,abbreviation_for,N215,severe mental illness,disease,1
+N1487,multi-episode persons,Health_factors,occurs_in,N109,smi,method,1
+N1487,multi-episode persons,Health_factors,risk_factor_of,N25,t2dm,disease,1
+N11,women,Health_factors,risk_factor_of,N25,t2dm,disease,1
+N104,antipsychotics,drug,risk_factor_of,N25,t2dm,disease,1
+N1494,alcohol and substance use disorders,disease,associated_with,N1495,all-cause and cause-specific mortality,disease,1
+N1495,all-cause and cause-specific mortality,disease,occurs_in,N1,schizophrenia,disease,1
+N1495,all-cause and cause-specific mortality,disease,occurs_in,N6,bipolar disorder,disease,1
+N1495,all-cause and cause-specific mortality,disease,occurs_in,N240,unipolar depression,disease,1
+N215,severe mental illness,disease,risk_factor_of,N15,mortality,disease,1
+N215,severe mental illness,disease,risk_factor_of,N412,substance use disorder,disease,1
+N413,lifetime substance use disorder,disease,occurs_in,N1,schizophrenia,disease,1
+N413,lifetime substance use disorder,disease,occurs_in,N6,bipolar disorder,disease,1
+N413,lifetime substance use disorder,disease,occurs_in,N240,unipolar depression,disease,1
+N1501,hrs,method,abbreviation_for,N1500,hazard ratios,method,1
+N1503,shrs,method,abbreviation_for,N1502,subhazard ratios,method,1
+N1504,cause-specific mortality,disease,associated_with,N412,substance use disorder,disease,1
+N414,smrs,method,abbreviation_for,N1505,standardised mortality ratios,method,1
+N1,schizophrenia,disease,occurs_in,N32,substance use disorders,disease,1
+N6,bipolar disorder,disease,occurs_in,N1507,substance use disorders of alcohol,disease,1
+N1507,substance use disorders of alcohol,disease,risk_factor_of,N241,all-cause mortality,disease,1
+N1508,alcohol,disease,risk_factor_of,N241,all-cause mortality,disease,1
+N416,hard drugs,drug,risk_factor_of,N241,all-cause mortality,disease,1
+N2,depression,disease,risk_factor_of,N241,all-cause mortality,disease,1
+N15,mortality,disease,occurs_in,N152,mental illness,disease,1
+N32,substance use disorders,disease,risk_factor_of,N15,mortality,disease,1
+N417,serum,region,associated_with,N110,neurogenesis,physiology,1
+N1511,ifn-alpha,gene,associated_with,N110,neurogenesis,physiology,1
+N110,neurogenesis,physiology,associated_with,N2,depression,disease,1
+N418,ubiquitin-proteasome system,region,associated_with,N1513,neural development,physiology,1
+N418,ubiquitin-proteasome system,region,associated_with,N1514,brain structure and function,physiology,1
+N1521,ubiquitin-proteasome system signalling,physiology,associated_with,N1524,brain conditions,disease,1
+N1525,ubiquitin-proteasome system dysfunction,disease,associated_with,N1526,neurodegenerative disorders,disease,1
+N1,schizophrenia,disease,hyponym_of,N368,neurodevelopmental disorders,disease,1
+N418,ubiquitin-proteasome system,region,associated_with,N1,schizophrenia,disease,1
+N1528,rostral anterior cingulate cortex,region,associated_with,N1529,repetitive tms treatment response,physiology,1
+N1529,repetitive tms treatment response,physiology,occurs_in,N2,depression,disease,1
+N1531,ryanodine receptor,gene,associated_with,N1533,synaptic depression,physiology,1
+N1532,ryr,gene,abbreviation_for,N1531,ryanodine receptor,gene,1
+N1532,ryr,gene,associated_with,N1533,synaptic depression,physiology,1
+N1535,postsynaptic outward currents,physiology,associated_with,N1536,small-conductance calcium-activated potassium sk2 channels,physiology,1
+N1537,tppu treatment,method,treatment_for,N1539,srs,disease,1
+N1537,tppu treatment,method,treatment_for,N1540,epilepsy-associated depressive behaviours,disease,1
+N1538,se,physiology,treatment_for,N1540,epilepsy-associated depressive behaviours,disease,1
+N1539,srs,disease,occurs_in,N1541,licl-pilocarpine induced post-se rat model,method,1
+N1540,epilepsy-associated depressive behaviours,disease,occurs_in,N1541,licl-pilocarpine induced post-se rat model,method,1
+N1542,anti-inflammatory effects,physiology,located_in,N56,brain,region,1
+N1545,"severe , refractory obsessive-compulsive disorder",disease,hyponym_of,N1546,disabling condition,disease,1
+N61,obsessive-compulsive disorder,disease,hyponym_of,N1546,disabling condition,disease,1
+N17,ocd,disease,hyponym_of,N1546,disabling condition,disease,1
+N17,ocd,disease,abbreviation_for,N1545,"severe , refractory obsessive-compulsive disorder",disease,1
+N245,yale-brown obsessive compulsive scale,method,help_diagnose,N17,ocd,disease,1
+N419,y-bocs,method,help_diagnose,N17,ocd,disease,1
+N419,y-bocs,method,abbreviation_for,N245,yale-brown obsessive compulsive scale,method,1
+N420,gaf,method,abbreviation_for,N1550,global assessment of functioning,method,1
+N1553,intracerebral hemorrhage,disease,hyponym_of,N421,serious adverse events,Health_factors,1
+N422,infections,disease,hyponym_of,N421,serious adverse events,Health_factors,1
+N111,subthalamic nucleus,region,treatment_for,N17,ocd,disease,1
+N1560,amstar,method,abbreviation_for,N1559,measurement tool to assess systematic reviews,method,1
+N1564,non-organic psychotic disorders,disease,risk_factor_of,N36,cannabis,drug,1
+N20,adhd,disease,abbreviation_for,N426,attention-deficit / hyperactivity disorder,disease,1
+N1579,antidepressant treatment,method,treatment_for,N1580,viral suppression,physiology,1
+N1579,antidepressant treatment,method,treatment_for,N1581,cd4 t cells / mul,region,1
+N172,psychotic symptoms,disease,characteristic_of,N1,schizophrenia,disease,1
+N1583,social and occupational decline,Health_factors,characteristic_of,N1,schizophrenia,disease,1
+N1589,brain functional changes,symptom,located_in,N1590,frontal cortex,region,1
+N1591,disturbed interaction,disease,located_in,N1592,large-scale brain networks,region,1
+N1593,neurochemical disturbance,disease,associated_with,N1594,dopamine function,physiology,1
+N5,anxiety,disease,associated_with,N165,cognitive function,physiology,1
+N2,depression,disease,associated_with,N165,cognitive function,physiology,1
+N165,cognitive function,physiology,occurs_in,N1600,ms,disease,1
+N1601,ibd,disease,hyponym_of,N427,imid,disease,1
+N1602,ra,disease,hyponym_of,N427,imid,disease,1
+N1603,activate-initiate-monitor intervention,method,hyponym_of,N1604,care management program,method,1
+N1,schizophrenia,disease,hyponym_of,N1605,heritable brain illness,disease,1
+N1609,mhc,gene,abbreviation_for,N1608,major histocompatibility complex,gene,1
+N430,alleles,gene,associated_with,N1611,c4a and c4b expression,physiology,1
+N1611,c4a and c4b expression,physiology,located_in,N56,brain,region,1
+N1612,c4 allele,gene,associated_with,N1,schizophrenia,disease,1
+N1614,c4 protein,gene,associated_with,N1616,dendrites,region,1
+N1614,c4 protein,gene,associated_with,N1617,axons,region,1
+N1614,c4 protein,gene,associated_with,N1615,neuronal synapses,region,1
+N1614,c4 protein,gene,located_in,N1615,neuronal synapses,region,1
+N1614,c4 protein,gene,associated_with,N1618,cell bodies,region,1
+N35,mice,method,occurs_in,N431,c4,gene,1
+N431,c4,gene,associated_with,N1619,synapse elimination,physiology,1
+N1621,excessive complement activity,physiology,associated_with,N1,schizophrenia,disease,1
+N1621,excessive complement activity,physiology,associated_with,N1622,synapses,region,1
+N1622,synapses,region,located_in,N174,brains,region,1
+N1622,synapses,region,characteristic_of,N1,schizophrenia,disease,1
+N1626,questionnaire,method,help_diagnose,N3,mdd,disease,1
+N18,major depression,disease,risk_factor_of,N250,cognitive dysfunction,disease,1
+N250,cognitive dysfunction,disease,characteristic_of,N3,mdd,disease,1
+N1636,thinc-it,method,hyponym_of,N1635,digital tools,method,1
+N1637,circadian rhythm sleep-wake disturbances,disease,occurs_in,N251,young people,Health_factors,1
+N2,depression,disease,occurs_in,N251,young people,Health_factors,1
+N41,depressive disorders,disease,occurs_in,N251,young people,Health_factors,1
+N1641,abnormalities in circadian rhythms,disease,characteristic_of,N41,depressive disorders,disease,1
+N1641,abnormalities in circadian rhythms,disease,associated_with,N1642,unstable mood,disease,1
+N1641,abnormalities in circadian rhythms,disease,associated_with,N1643,daytime fatigue,disease,1
+N1641,abnormalities in circadian rhythms,disease,associated_with,N1644,non-restorative sleep,Health_factors,1
+N1641,abnormalities in circadian rhythms,disease,associated_with,N436,somatic symptoms,disease,1
+N1641,abnormalities in circadian rhythms,disease,associated_with,N1645,reduced motor activity,symptom,1
+N1641,abnormalities in circadian rhythms,disease,associated_with,N1646,appetite and weight change,symptom,1
+N34,adults,Health_factors,occurs_in,N41,depressive disorders,disease,1
+N1646,appetite and weight change,symptom,characteristic_of,N41,depressive disorders,disease,1
+N3,mdd,disease,associated_with,N1660,supar,gene,1
+N112,uc,Health_factors,abbreviation_for,N96,usual care,method,1
+N113,calm,method,abbreviation_for,N1673,coordinated anxiety learning and management,method,1
+N254,cbt,method,abbreviation_for,N49,cognitive behavioral therapy,method,1
+N154,bsi-12,method,abbreviation_for,N1681,twelve-item brief symptom inventory,method,1
+N113,calm,method,treatment_for,N12,anxiety disorders,disease,1
+N113,calm,method,treatment_for,N98,depression symptoms,disease,1
+N113,calm,method,treatment_for,N1682,functional disability,disease,1
+N113,calm,method,treatment_for,N1683,quality of care,Health_factors,1
+N348,exercise,Health_factors,treatment_for,N7,mental disorders,disease,1
+N1685,smoking,Health_factors,treatment_for,N7,mental disorders,disease,1
+N442,diet,Health_factors,treatment_for,N7,mental disorders,disease,1
+N177,sleep,Health_factors,treatment_for,N7,mental disorders,disease,1
+N155,lifestyle factors,Health_factors,associated_with,N1686,physical health,Health_factors,1
+N155,lifestyle factors,Health_factors,associated_with,N74,mental health,Health_factors,1
+N155,lifestyle factors,Health_factors,associated_with,N1687,psychological well-being,Health_factors,1
+N155,lifestyle factors,Health_factors,treatment_for,N2,depression,disease,1
+N155,lifestyle factors,Health_factors,treatment_for,N1695,anxiety and stress-related disorders,disease,1
+N249,tobacco smoking,Health_factors,risk_factor_of,N1698,common and severe mental illness,disease,1
+N1699,poor sleep,Health_factors,risk_factor_of,N152,mental illness,disease,1
+N445,mindfulness-based relapse prevention,method,treatment_for,N32,substance use disorders,disease,1
+N1702,standard relapse prevention,method,treatment_for,N32,substance use disorders,disease,1
+N445,mindfulness-based relapse prevention,method,hyponym_of,N1705,group-based psychosocial aftercare,method,1
+N38,mbrp,method,abbreviation_for,N445,mindfulness-based relapse prevention,method,1
+N38,mbrp,method,hyponym_of,N1705,group-based psychosocial aftercare,method,1
+N50,rp,method,abbreviation_for,N1708,cognitive-behavioral relapse prevention,method,1
+N44,tau,method,abbreviation_for,N1709,12-step programming,method,1
+N44,tau,method,abbreviation_for,N213,treatment as usual,method,1
+N304,self-report,method,help_diagnose,N21,relapse,disease,1
+N38,mbrp,method,treatment_for,N156,substance use,Health_factors,1
+N50,rp,method,treatment_for,N156,substance use,Health_factors,1
+N38,mbrp,method,associated_with,N86,heavy drinking,Health_factors,1
+N50,rp,method,treatment_for,N447,drug use,Health_factors,1
+N38,mbrp,method,treatment_for,N76,drug,drug,1
+N1719,discomfort,disease,associated_with,N1720,negative affect,physiology,1
+N2,depression,disease,hyponym_of,N1723,psychiatric symptom,disease,1
+N448,serotonin,drug,associated_with,N5,anxiety,disease,1
+N448,serotonin,drug,associated_with,N1726,fear-promoting circuit,region,1
+N1726,fear-promoting circuit,region,located_in,N1727,extended amygdala,region,1
+N448,serotonin,drug,hyponym_of,N1728,5-hydroxytryptamine,drug,1
+N448,serotonin,drug,hyponym_of,N1729,neurotransmitter,drug,1
+N448,serotonin,drug,associated_with,N1730,emotion,physiology,1
+N255,5-ht,drug,abbreviation_for,N1728,5-hydroxytryptamine,drug,1
+N255,5-ht,drug,hyponym_of,N1729,neurotransmitter,drug,1
+N255,5-ht,drug,associated_with,N1730,emotion,physiology,1
+N255,5-ht,drug,treatment_for,N140,fear,disease,1
+N255,5-ht,drug,treatment_for,N5,anxiety,disease,1
+N255,5-ht,drug,located_in,N1731,dorsal raphe nucleus,region,1
+N1732,5-htdrn,gene,abbreviation_for,N1731,dorsal raphe nucleus,region,1
+N1733,corticotropin-releasing factor,gene,located_in,N1735,bed nucleus of the stria terminalis,region,1
+N1734,crf,gene,abbreviation_for,N1733,corticotropin-releasing factor,gene,1
+N1736,crfbnst,region,abbreviation_for,N1735,bed nucleus of the stria terminalis,region,1
+N1737,5-htdrn projections,physiology,associated_with,N1739,5-ht2c receptors,gene,1
+N1737,5-htdrn projections,physiology,associated_with,N1741,crfbnst inhibitory microcircuit,gene,1
+N1740,5-ht2crs,gene,abbreviation_for,N1739,5-ht2c receptors,gene,1
+N1745,crfbnst inhibitory circuit,region,associated_with,N1746,aversive behaviour,symptom,1
+N1748,ssris,drug,abbreviation_for,N1747,selective serotonin reuptake inhibitors,drug,1
+N1750,crf1r,gene,hyponym_of,N1751,crhr1,gene,1
+N1750,crf1r,gene,abbreviation_for,N1749,corticotrophin-releasing factor type 1 receptor,gene,1
+N1753,5-htdrncrfbnst circuit,region,associated_with,N140,fear,disease,1
+N1753,5-htdrncrfbnst circuit,region,associated_with,N5,anxiety,disease,1
+N428,antidepressant medication,drug,treatment_for,N2,depression,disease,1
+N1757,cognitive-behavioral therapy,method,treatment_for,N2,depression,disease,1
+N256,neuroinflammation,disease,located_in,N450,basal ganglia,region,1
+N256,neuroinflammation,disease,hyponym_of,N1760,autoimmune response,physiology,1
+N256,neuroinflammation,disease,associated_with,N451,cortico-striato-thalamo-cortical circuit,region,1
+N451,cortico-striato-thalamo-cortical circuit,region,occurs_in,N17,ocd,disease,1
+N1763,pet,method,abbreviation_for,N1762,positron emission tomography,method,1
+N1765,tspo,gene,abbreviation_for,N1764,translocator protein,gene,1
+N1766,translocator protein density,signs,associated_with,N1767,microglia,region,1
+N1769,vt,signs,abbreviation_for,N1768,tspo distribution volume,signs,1
+N17,ocd,disease,occurs_in,N157,tspo vt,method,1
+N245,yale-brown obsessive compulsive scale,method,help_diagnose,N1778,distress,disease,1
+N245,yale-brown obsessive compulsive scale,method,associated_with,N157,tspo vt,method,1
+N1778,distress,disease,associated_with,N157,tspo vt,method,1
+N157,tspo vt,method,located_in,N452,orbitofrontal cortex,region,1
+N350,genetic factors,gene,associated_with,N6,bipolar disorder,disease,1
+N6,bipolar disorder,disease,associated_with,N1,schizophrenia,disease,1
+N6,bipolar disorder,disease,associated_with,N1787,polygenic risk,gene,1
+N1788,genomic structural variation,physiology,associated_with,N6,bipolar disorder,disease,1
+N57,gut microbiota,Health_factors,occurs_in,N26,major depressive disorder,disease,1
+N1792,microbiota-gut-brain axis,region,associated_with,N3,mdd,disease,1
+N1792,microbiota-gut-brain axis,region,associated_with,N26,major depressive disorder,disease,1
+N1794,trp,drug,abbreviation_for,N1793,microbial tryptophan,drug,1
+N1796,mitbamp,physiology,abbreviation_for,N1795,metabolism pathway,physiology,1
+N1803,rf,method,abbreviation_for,N1802,random forests,method,1
+N57,gut microbiota,Health_factors,characteristic_of,N3,mdd,disease,1
+N1805,actinobacteria,disease,characteristic_of,N3,mdd,disease,1
+N1806,bifidobacterium,drug,characteristic_of,N3,mdd,disease,1
+N1806,bifidobacterium,drug,hyponym_of,N1807,probiotic,drug,1
+N1809,kegg,gene,abbreviation_for,N290,genomes,gene,1
+N1811,k01817,gene,characteristic_of,N3,mdd,disease,1
+N1812,k11358,gene,characteristic_of,N3,mdd,disease,1
+N456,k01626,gene,characteristic_of,N3,mdd,disease,1
+N1813,k01667,gene,characteristic_of,N3,mdd,disease,1
+N1814,mitbamp,gene,characteristic_of,N3,mdd,disease,1
+N456,k01626,gene,associated_with,N394,hamd,method,1
+N1817,trp pathway,physiology,occurs_in,N3,mdd,disease,1
+N57,gut microbiota,Health_factors,help_diagnose,N3,mdd,disease,1
+N1819,itbs,method,treatment_for,N2,depression,disease,1
+N235,rtms,method,treatment_for,N2,depression,disease,1
+N207,drugs,drug,treatment_for,N2,depression,disease,1
+N1820,angiotensin agents,drug,treatment_for,N2,depression,disease,1
+N1821,enalapril,drug,hyponym_of,N207,drugs,drug,1
+N1821,enalapril,drug,treatment_for,N2,depression,disease,1
+N1821,enalapril,drug,hyponym_of,N1820,angiotensin agents,drug,1
+N1822,ramipril,drug,hyponym_of,N207,drugs,drug,1
+N1822,ramipril,drug,treatment_for,N2,depression,disease,1
+N1822,ramipril,drug,hyponym_of,N1820,angiotensin agents,drug,1
+N1823,calcium antagonists,drug,treatment_for,N2,depression,disease,1
+N1824,amlodipine,drug,hyponym_of,N207,drugs,drug,1
+N1824,amlodipine,drug,treatment_for,N2,depression,disease,1
+N1824,amlodipine,drug,hyponym_of,N1823,calcium antagonists,drug,1
+N1825,verapamil,drug,hyponym_of,N207,drugs,drug,1
+N1825,verapamil,drug,treatment_for,N2,depression,disease,1
+N1825,verapamil,drug,hyponym_of,N1823,calcium antagonists,drug,1
+N1826,beta-blockers,drug,treatment_for,N2,depression,disease,1
+N1827,propranolol,drug,hyponym_of,N1826,beta-blockers,drug,1
+N1828,atenolol,drug,hyponym_of,N1826,beta-blockers,drug,1
+N1829,bisoprolol,drug,hyponym_of,N1826,beta-blockers,drug,1
+N1830,carvedilol,drug,treatment_for,N2,depression,disease,1
+N1830,carvedilol,drug,hyponym_of,N1826,beta-blockers,drug,1
+N1831,reboxetine,drug,treatment_for,N2,depression,disease,1
+N1831,reboxetine,drug,hyponym_of,N1832,selective norepinephrine inhibitor,drug,1
+N257,personality traits,symptom,associated_with,N1833,dynamic functional connectivity,physiology,1
+N1833,dynamic functional connectivity,physiology,occurs_in,N23,major depression disorder,disease,1
+N26,major depressive disorder,disease,hyponym_of,N1835,psychiatric disorders,disease,1
+N3,mdd,disease,hyponym_of,N1835,psychiatric disorders,disease,1
+N1837,personality,symptom,associated_with,N1838,thinking,physiology,1
+N1837,personality,symptom,associated_with,N3,mdd,disease,1
+N1837,personality,symptom,associated_with,N1839,behavior style,symptom,1
+N3,mdd,disease,associated_with,N257,personality traits,symptom,1
+N1843,dfnc,physiology,abbreviation_for,N1842,dynamic functional network connectivity,physiology,1
+N457,neuroticism,symptom,located_in,N1847,eysenck personality questionnaire,method,1
+N1848,epq,method,abbreviation_for,N1847,eysenck personality questionnaire,method,1
+N3,mdd,disease,associated_with,N457,neuroticism,symptom,1
+N1851,weak connections,physiology,located_in,N343,cortex,region,1
+N1851,weak connections,physiology,located_in,N1852,subcortical areas,region,1
+N1854,dynamic functional connectivity mechanism,physiology,associated_with,N3,mdd,disease,1
+N2,depression,disease,risk_factor_of,N459,chd,disease,1
+N459,chd,disease,occurs_in,N11,women,Health_factors,1
+N39,breast cancer,disease,occurs_in,N11,women,Health_factors,1
+N168,female,Health_factors,occurs_in,N1,schizophrenia,disease,1
+N1,schizophrenia,disease,risk_factor_of,N39,breast cancer,disease,1
+N1865,prolactin-increasing drugs,drug,associated_with,N39,breast cancer,disease,1
+N13,or,method,abbreviation_for,N1868,adjusted odds ratio,method,1
+N232,clozapine,drug,hyponym_of,N1869,prolactin-sparing antipsychotics,drug,1
+N388,quetiapine,drug,hyponym_of,N1869,prolactin-sparing antipsychotics,drug,1
+N389,aripiprazole,drug,hyponym_of,N1869,prolactin-sparing antipsychotics,drug,1
+N1870,lobular adenocarcinoma,disease,associated_with,N158,prolactin-increasing antipsychotics,drug,1
+N104,antipsychotics,drug,risk_factor_of,N39,breast cancer,disease,1
+N158,prolactin-increasing antipsychotics,drug,treatment_for,N1,schizophrenia,disease,1
+N37,psychotic disorders,disease,associated_with,N1886,polygenic,drug,1
+N1885,heritable,Health_factors,characteristic_of,N37,psychotic disorders,disease,1
+N1886,polygenic,drug,characteristic_of,N37,psychotic disorders,disease,1
+N82,genes,gene,associated_with,N1892,duloxetine,drug,1
+N82,genes,gene,associated_with,N1889,neuronal and olfactory cells,region,1
+N1893,lifetime cannabis,drug,associated_with,N6,bipolar disorder,disease,1
+N461,polygenic scores,signs,associated_with,N37,psychotic disorders,disease,1
+N1896,cannabis phenotypes,drug,associated_with,N37,psychotic disorders,disease,1
+N464,cardiovascular disease events,Health_factors,risk_factor_of,N29,post-traumatic stress disorder,disease,1
+N29,post-traumatic stress disorder,disease,risk_factor_of,N115,cardiovascular disease,disease,1
+N464,cardiovascular disease events,Health_factors,risk_factor_of,N1903,psychiatric,disease,1
+N464,cardiovascular disease events,Health_factors,risk_factor_of,N115,cardiovascular disease,disease,1
+N1906,individual and environmental interventions,method,treatment_for,N29,post-traumatic stress disorder,disease,1
+N1909,dysfunction of the limbic-hypothalamic-pituitary-adrenal axis,disease,risk_factor_of,N18,major depression,disease,1
+N437,imipramine,drug,treatment_for,N1910,depressive illness,disease,1
+N252,amitriptyline,drug,treatment_for,N1910,depressive illness,disease,1
+N1911,trazodone,drug,treatment_for,N1910,depressive illness,disease,1
+N1914,antidepressant agomelatine,drug,hyponym_of,N1915,potent melatonin mt1 and mt2 receptor agonist,drug,1
+N1,schizophrenia,disease,hyponym_of,N1919,"chronic , frequently disabling mental disorder",disease,1
+N1923,younger women,Health_factors,risk_factor_of,N2,depression,disease,1
+N260,younger breast cancer survivors,Health_factors,occurs_in,N466,elevated depressive symptoms,disease,1
+N1927,breast cancer survivors,Health_factors,occurs_in,N466,elevated depressive symptoms,disease,1
+N51,maps,method,abbreviation_for,N1928,mindful awareness practices,method,1
+N31,se,method,abbreviation_for,N1929,survivorship education,Health_factors,1
+N160,wlc,method,abbreviation_for,N1931,wait-list control,method,1
+N51,maps,method,treatment_for,N14,depressive symptoms,disease,1
+N51,maps,method,treatment_for,N145,fatigue,disease,1
+N51,maps,method,treatment_for,N225,insomnia,disease,1
+N51,maps,method,associated_with,N467,vasomotor symptoms,disease,1
+N51,maps,method,treatment_for,N467,vasomotor symptoms,disease,1
+N360,mindfulness meditation,method,treatment_for,N14,depressive symptoms,disease,1
+N1936,beta-catenin,drug,associated_with,N110,neurogenesis,physiology,1
+N1936,beta-catenin,drug,associated_with,N214,neuroplasticity,physiology,1
+N1936,beta-catenin,drug,associated_with,N94,mood disorders,disease,1
+N1936,beta-catenin,drug,associated_with,N1937,wnt signaling pathway,physiology,1
+N1939,injuries,disease,hyponym_of,N7,mental disorders,disease,1
+N1940,risk factors study,method,hyponym_of,N7,mental disorders,disease,1
+N469,gbd,method,hyponym_of,N7,mental disorders,disease,1
+N469,gbd,method,abbreviation_for,N1940,risk factors study,method,1
+N116,dalys,Health_factors,abbreviation_for,N1944,disability-adjusted life-years,Health_factors,1
+N117,ylds,Health_factors,abbreviation_for,N1945,years lived with disability,Health_factors,1
+N87,ylls,Health_factors,abbreviation_for,N1946,years of life lost,Health_factors,1
+N63,death,disease,occurs_in,N471,gbd,disease,1
+N7,mental disorders,disease,risk_factor_of,N116,dalys,Health_factors,1
+N118,ui,method,abbreviation_for,N1955,uncertainty interval,method,1
+N117,ylds,Health_factors,associated_with,N242,mental disorder,disease,1
+N470,eating disorders,disease,associated_with,N87,ylls,Health_factors,1
+N88,fluvoxamine,drug,treatment_for,N12,anxiety disorders,disease,1
+N12,anxiety disorders,disease,occurs_in,N10,children,Health_factors,1
+N12,anxiety disorders,disease,occurs_in,N144,adolescents,Health_factors,1
+N207,drugs,drug,associated_with,N1964,serotonin reuptake,physiology,1
+N207,drugs,drug,treatment_for,N1965,mood and anxiety disorders,disease,1
+N1964,serotonin reuptake,physiology,treatment_for,N1965,mood and anxiety disorders,disease,1
+N34,adults,Health_factors,occurs_in,N1965,mood and anxiety disorders,disease,1
+N1966,rating scales,method,help_diagnose,N5,anxiety,disease,1
+N1966,rating scales,method,help_diagnose,N372,impairment,disease,1
+N88,fluvoxamine,drug,treatment_for,N222,social phobia,disease,1
+N88,fluvoxamine,drug,treatment_for,N220,separation anxiety disorder,disease,1
+N88,fluvoxamine,drug,treatment_for,N221,generalized anxiety disorder,disease,1
+N10,children,Health_factors,occurs_in,N222,social phobia,disease,1
+N10,children,Health_factors,occurs_in,N220,separation anxiety disorder,disease,1
+N10,children,Health_factors,occurs_in,N221,generalized anxiety disorder,disease,1
+N144,adolescents,Health_factors,occurs_in,N222,social phobia,disease,1
+N144,adolescents,Health_factors,occurs_in,N220,separation anxiety disorder,disease,1
+N144,adolescents,Health_factors,occurs_in,N221,generalized anxiety disorder,disease,1
+N1968,rumination,physiology,associated_with,N1969,aberrant default-mode network,region,1
+N458,dmn,region,abbreviation_for,N1969,aberrant default-mode network,region,1
+N472,guided parent-delivered cognitive behavioural therapy,method,treatment_for,N1970,childhood anxiety disorders,disease,1
+N65,solution-focused brief therapy,method,treatment_for,N1970,childhood anxiety disorders,disease,1
+N10,children,Health_factors,occurs_in,N5,anxiety,disease,1
+N254,cbt,method,abbreviation_for,N1975,parent-delivered cognitive behavioural therapy,method,1
+N254,cbt,method,abbreviation_for,N472,guided parent-delivered cognitive behavioural therapy,method,1
+N261,cgi-i,method,abbreviation_for,N1984,clinical global impressions of improvement,method,1
+N1986,qalys,Health_factors,abbreviation_for,N1985,quality-adjusted life-years,Health_factors,1
+N89,guided parent-delivered cbt,method,hyponym_of,N1993,first-line treatment,method,1
+N89,guided parent-delivered cbt,method,treatment_for,N1994,anxiety problems,disease,1
+N10,children,Health_factors,occurs_in,N1994,anxiety problems,disease,1
+N1996,tsc,gene,abbreviation_for,N478,tuberous sclerosis complex,gene,1
+N479,fxs,disease,abbreviation_for,N1997,fragile x syndrome,disease,1
+N1998,mutations in negative regulators of translation,physiology,risk_factor_of,N479,fxs,disease,1
+N1998,mutations in negative regulators of translation,physiology,risk_factor_of,N1997,fragile x syndrome,disease,1
+N480,mglur-ltd,disease,abbreviation_for,N477,metabotropic glutamate receptor-dependent long-term depression,disease,1
+N2004,dominant / negative tsc2,gene,associated_with,N2005,tsc1,gene,1
+N2006,deletion and substitution mutation,gene,located_in,N2007,gap-domain,gene,1
+N2009,elevated s6 phosphorylation,physiology,located_in,N174,brains,region,1
+N119,rg transgenic mice,method,associated_with,N384,erk signaling,physiology,1
+N2012,u0126,drug,treatment_for,N482,mglur-ltd impairment,disease,1
+N482,mglur-ltd impairment,disease,associated_with,N2013,aberrant tsc1 / 2-erk signaling,physiology,1
+N2018,pfs,Health_factors,abbreviation_for,N2017,objective prognostic factors,Health_factors,1
+N2021,c,method,abbreviation_for,N2020,institutional tumor board,method,1
+N2028,performance status,symptom,hyponym_of,N2027,survival,Health_factors,1
+N2029,primary cancer,disease,hyponym_of,N2027,survival,Health_factors,1
+N145,fatigue,disease,hyponym_of,N2027,survival,Health_factors,1
+N485,dyspnea,disease,hyponym_of,N2027,survival,Health_factors,1
+N2030,brain metastases,disease,hyponym_of,N2027,survival,Health_factors,1
+N2031,leukocytosis,disease,hyponym_of,N2027,survival,Health_factors,1
+N2032,lactate dehydrogenase,gene,hyponym_of,N2027,survival,Health_factors,1
+N2033,ldh,gene,hyponym_of,N2027,survival,Health_factors,1
+N2033,ldh,gene,abbreviation_for,N2032,lactate dehydrogenase,gene,1
+N2,depression,disease,hyponym_of,N2027,survival,Health_factors,1
+N5,anxiety,disease,hyponym_of,N2027,survival,Health_factors,1
+N2042,gdm,disease,risk_factor_of,N2,depression,disease,1
+N14,depressive symptoms,disease,characteristic_of,N52,bpd,disease,1
+N14,depressive symptoms,disease,characteristic_of,N3,mdd,disease,1
+N14,depressive symptoms,disease,characteristic_of,N23,major depression disorder,disease,1
+N2044,depressive mood state,disease,occurs_in,N52,bpd,disease,1
+N2044,depressive mood state,disease,occurs_in,N3,mdd,disease,1
+N2044,depressive mood state,disease,characteristic_of,N14,depressive symptoms,disease,1
+N2044,depressive mood state,disease,occurs_in,N6,bipolar disorder,disease,1
+N2044,depressive mood state,disease,occurs_in,N23,major depression disorder,disease,1
+N52,bpd,disease,abbreviation_for,N6,bipolar disorder,disease,1
+N90,genetic biomarkers,signs,associated_with,N110,neurogenesis,physiology,1
+N90,genetic biomarkers,signs,associated_with,N269,synaptic plasticity,physiology,1
+N90,genetic biomarkers,signs,associated_with,N2058,mood control,physiology,1
+N90,genetic biomarkers,signs,associated_with,N2059,brain ageing,Health_factors,1
+N90,genetic biomarkers,signs,associated_with,N2060,immune-inflammatory processes,physiology,1
+N90,genetic biomarkers,signs,associated_with,N2061,mitochondrial respiratory chain,physiology,1
+N82,genes,gene,associated_with,N110,neurogenesis,physiology,1
+N82,genes,gene,associated_with,N269,synaptic plasticity,physiology,1
+N82,genes,gene,associated_with,N2058,mood control,physiology,1
+N82,genes,gene,associated_with,N2059,brain ageing,Health_factors,1
+N82,genes,gene,associated_with,N2060,immune-inflammatory processes,physiology,1
+N82,genes,gene,associated_with,N2061,mitochondrial respiratory chain,physiology,1
+N2062,bdnf gene expression,physiology,hyponym_of,N90,genetic biomarkers,signs,1
+N2063,chronic corticosterone,drug,risk_factor_of,N138,depressive-like behavior,disease,1
+N2064,isolation rearing,physiology,risk_factor_of,N138,depressive-like behavior,disease,1
+N2065,ru-43044,drug,associated_with,N2067,prefrontal dopaminergic neurotransmission,physiology,1
+N2067,prefrontal dopaminergic neurotransmission,physiology,occurs_in,N2068,mouse models,method,1
+N161,glycine transporters,gene,associated_with,N1,schizophrenia,disease,1
+N161,glycine transporters,gene,associated_with,N72,pain,disease,1
+N161,glycine transporters,gene,associated_with,N487,alcohol dependence,disease,1
+N161,glycine transporters,gene,associated_with,N2070,glycine,drug,1
+N2070,glycine,drug,associated_with,N2074,nmda,gene,1
+N2070,glycine,drug,hyponym_of,N2071,classical inhibitory neurotransmitter,drug,1
+N2071,classical inhibitory neurotransmitter,drug,located_in,N2072,glycinergic synapses,region,1
+N2073,neuronal excitation,physiology,associated_with,N2074,nmda,gene,1
+N161,glycine transporters,gene,associated_with,N2079,related affective and cognitive disturbances,disease,1
+N488,glyt1,gene,associated_with,N1,schizophrenia,disease,1
+N488,glyt1,gene,associated_with,N72,pain,disease,1
+N488,glyt1,gene,associated_with,N2080,epilepsy,disease,1
+N488,glyt1,gene,hyponym_of,N161,glycine transporters,gene,1
+N488,glyt1,gene,associated_with,N487,alcohol dependence,disease,1
+N488,glyt1,gene,associated_with,N2081,breathing disorders,disease,1
+N488,glyt1,gene,associated_with,N2082,startle disease,disease,1
+N488,glyt1,gene,associated_with,N2079,related affective and cognitive disturbances,disease,1
+N488,glyt1,gene,associated_with,N2078,central and peripheral nervous system disorders,disease,1
+N2077,glyt2,gene,associated_with,N1,schizophrenia,disease,1
+N2077,glyt2,gene,associated_with,N72,pain,disease,1
+N2077,glyt2,gene,associated_with,N2080,epilepsy,disease,1
+N2077,glyt2,gene,hyponym_of,N161,glycine transporters,gene,1
+N2077,glyt2,gene,associated_with,N487,alcohol dependence,disease,1
+N2077,glyt2,gene,associated_with,N2081,breathing disorders,disease,1
+N2077,glyt2,gene,associated_with,N2082,startle disease,disease,1
+N2077,glyt2,gene,associated_with,N2079,related affective and cognitive disturbances,disease,1
+N2077,glyt2,gene,associated_with,N2078,central and peripheral nervous system disorders,disease,1
+N1,schizophrenia,disease,hyponym_of,N2078,central and peripheral nervous system disorders,disease,1
+N2079,related affective and cognitive disturbances,disease,hyponym_of,N2083,hyperekplexia,disease,1
+N2079,related affective and cognitive disturbances,disease,hyponym_of,N2078,central and peripheral nervous system disorders,disease,1
+N487,alcohol dependence,disease,hyponym_of,N2083,hyperekplexia,disease,1
+N487,alcohol dependence,disease,hyponym_of,N2078,central and peripheral nervous system disorders,disease,1
+N72,pain,disease,hyponym_of,N2083,hyperekplexia,disease,1
+N72,pain,disease,hyponym_of,N2078,central and peripheral nervous system disorders,disease,1
+N2080,epilepsy,disease,hyponym_of,N2078,central and peripheral nervous system disorders,disease,1
+N2081,breathing disorders,disease,hyponym_of,N2083,hyperekplexia,disease,1
+N2081,breathing disorders,disease,hyponym_of,N2078,central and peripheral nervous system disorders,disease,1
+N2082,startle disease,disease,hyponym_of,N2083,hyperekplexia,disease,1
+N2082,startle disease,disease,hyponym_of,N2078,central and peripheral nervous system disorders,disease,1
+N2090,technology-assisted interventions,method,treatment_for,N285,depressive,disease,1

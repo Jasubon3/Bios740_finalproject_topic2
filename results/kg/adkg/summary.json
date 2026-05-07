@@ -1,0 +1,18 @@
+{
+  "dataset": "ADKG",
+  "prediction_file": "external/spert/data/log/adkg_eval/2026-04-19_12:16:01.586657/predictions_test_epoch_0.json",
+  "num_examples": 1220,
+  "num_nodes": 1339,
+  "num_edges": 524,
+  "num_triplets": 605,
+  "top_relations": {
+    "abbreviation_for": 206,
+    "associated_with": 91,
+    "hyponym_of": 72,
+    "treatment_for": 66,
+    "risk_factor_of": 45,
+    "help_diagnose": 25,
+    "characteristic_of": 16,
+    "treatment_target_for": 3
+  }
+}

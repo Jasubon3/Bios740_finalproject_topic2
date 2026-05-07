@@ -6,9 +6,15 @@ venv/
 .env
 .DS_Store
 
-data/raw/
-results/
+data/
 *.pt
 *.bin
 *.ckpt
 *.log
+
+external/spert/.git/
+external/spert/data/log/
+external/spert/data/save/
+external/spert/**/__pycache__/
+external/spert/.ipynb_checkpoints/
+external/spert/spert/.ipynb_checkpoints/

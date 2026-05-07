@@ -1,0 +1,85 @@
+--------------------------------------------------
+Config:
+{'label': 'adkg_eval', 'model_type': 'spert', 'model_path': 'external/spert/data/save/adkg_train/2026-04-19_00:00:44.413734/final_model', 'tokenizer_path': 'external/spert/data/save/adkg_train/2026-04-19_00:00:44.413734/final_model', 'dataset_path': 'data/spert/adkg/test.json', 'types_path': 'data/spert/adkg/types.json', 'eval_batch_size': '1', 'rel_filter_threshold': '0.4', 'size_embedding': '25', 'prop_drop': '0.1', 'max_span_size': '10', 'store_predictions': 'true', 'store_examples': 'true', 'sampling_processes': '4', 'max_pairs': '1000', 'log_path': 'external/spert/data/log/'}
+Repeat 1 times
+--------------------------------------------------
+Iteration 0
+--------------------------------------------------
+2026-04-19 12:16:01,756 [MainThread  ] [INFO ]  Dataset: data/spert/adkg/test.json
+2026-04-19 12:16:01,756 [MainThread  ] [INFO ]  Model: spert
+2026-04-19 12:16:02,622 [MainThread  ] [INFO ]  Relation type count: 9
+2026-04-19 12:16:02,622 [MainThread  ] [INFO ]  Entity type count: 7
+2026-04-19 12:16:02,622 [MainThread  ] [INFO ]  Entities:
+2026-04-19 12:16:02,622 [MainThread  ] [INFO ]  No Entity=0
+2026-04-19 12:16:02,622 [MainThread  ] [INFO ]  disease=1
+2026-04-19 12:16:02,622 [MainThread  ] [INFO ]  drug=2
+2026-04-19 12:16:02,622 [MainThread  ] [INFO ]  gene=3
+2026-04-19 12:16:02,623 [MainThread  ] [INFO ]  method=4
+2026-04-19 12:16:02,623 [MainThread  ] [INFO ]  mutation=5
+2026-04-19 12:16:02,623 [MainThread  ] [INFO ]  other=6
+2026-04-19 12:16:02,623 [MainThread  ] [INFO ]  Relations:
+2026-04-19 12:16:02,623 [MainThread  ] [INFO ]  No Relation=0
+2026-04-19 12:16:02,623 [MainThread  ] [INFO ]  abbreviation_for=1
+2026-04-19 12:16:02,623 [MainThread  ] [INFO ]  associated_with=2
+2026-04-19 12:16:02,623 [MainThread  ] [INFO ]  characteristic_of=3
+2026-04-19 12:16:02,624 [MainThread  ] [INFO ]  help_diagnose=4
+2026-04-19 12:16:02,624 [MainThread  ] [INFO ]  hyponym_of=5
+2026-04-19 12:16:02,624 [MainThread  ] [INFO ]  risk_factor_of=6
+2026-04-19 12:16:02,624 [MainThread  ] [INFO ]  treatment_for=7
+2026-04-19 12:16:02,624 [MainThread  ] [INFO ]  treatment_target_for=8
+2026-04-19 12:16:02,624 [MainThread  ] [INFO ]  Dataset: test
+2026-04-19 12:16:02,624 [MainThread  ] [INFO ]  Document count: 1220
+2026-04-19 12:16:02,624 [MainThread  ] [INFO ]  Relation count: 769
+2026-04-19 12:16:02,625 [MainThread  ] [INFO ]  Entity count: 3149
+Skipping version check; no pytorch_model.bin found at external/spert/data/save/adkg_train/2026-04-19_00:00:44.413734/final_model/pytorch_model.bin
+2026-04-19 12:16:02,966 [MainThread  ] [INFO ]  Evaluate: test
+Evaluation
+
+--- Entities (named entity recognition (NER)) ---
+An entity is considered correct if the entity type and span is predicted correctly
+
+                type    precision       recall     f1-score      support
+            mutation        86.05        80.43        83.15           46
+             disease        81.43        81.98        81.70         1193
+               other        40.83        24.38        30.53          201
+                gene        71.11        66.79        68.88          807
+                drug        68.75        52.38        59.46          483
+              method        53.54        42.86        47.61          406
+
+               micro        72.11        64.73        68.22         3136
+               macro        66.95        58.14        61.89         3136
+
+--- Relations ---
+
+Without named entity classification (NEC)
+A relation is considered correct if the relation type and the spans of the two related entities are predicted correctly (entity type is not considered)
+
+                type    precision       recall     f1-score      support
+treatment_target_for        33.33        11.11        16.67            9
+          hyponym_of        46.15        38.71        42.11           93
+       treatment_for        41.79        35.44        38.36           79
+     associated_with        19.15        11.18        14.12          161
+       help_diagnose        29.63        15.38        20.25           52
+   characteristic_of        50.00        16.67        25.00           48
+    abbreviation_for        77.74        79.48        78.60          268
+      risk_factor_of        28.26        22.03        24.76           59
+
+               micro        53.72        42.26        47.31          769
+               macro        40.76        28.75        32.48          769
+
+With named entity classification (NEC)
+A relation is considered correct if the relation type and the two related entities are predicted correctly (in span and entity type)
+
+                type    precision       recall     f1-score      support
+treatment_target_for        33.33        11.11        16.67            9
+          hyponym_of        46.15        38.71        42.11           93
+       treatment_for        32.84        27.85        30.14           79
+     associated_with        17.02         9.94        12.55          161
+       help_diagnose        29.63        15.38        20.25           52
+   characteristic_of        37.50        12.50        18.75           48
+    abbreviation_for        70.07        71.64        70.85          268
+      risk_factor_of        23.91        18.64        20.95           59
+
+               micro        48.26        37.97        42.50          769
+               macro        36.31        25.72        29.03          769
+2026-04-19 12:16:55,033 [MainThread  ] [INFO ]  Logged in: external/spert/data/log/adkg_eval/2026-04-19_12:16:01.586657

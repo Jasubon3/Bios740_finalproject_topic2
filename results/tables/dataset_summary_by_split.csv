@@ -1,0 +1,7 @@
+dataset,split,num_examples,total_entities,total_relations,avg_entities_per_example,avg_relations_per_example,avg_text_length_words,num_entity_types,num_relation_types
+ADKG,train,5605,14611,3939,2.61,0.7,22.76,6,8
+ADKG,dev,1206,3099,788,2.57,0.65,22.65,6,8
+ADKG,test,1220,3149,769,2.58,0.63,22.47,6,8
+MDKG,train,4825,20737,7559,4.3,1.57,24.04,9,9
+MDKG,dev,941,3963,1570,4.21,1.67,23.84,9,9
+MDKG,test,912,3960,1431,4.34,1.57,24.06,9,9

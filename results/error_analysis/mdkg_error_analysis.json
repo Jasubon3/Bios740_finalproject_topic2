@@ -1,0 +1,116 @@
+{
+  "dataset": "MDKG",
+  "entity_false_positives_by_type": {
+    "drug": 70,
+    "physiology": 98,
+    "disease": 121,
+    "symptom": 24,
+    "Health_factors": 127,
+    "method": 179,
+    "signs": 23,
+    "region": 35,
+    "gene": 64
+  },
+  "entity_false_negatives_by_type": {
+    "method": 212,
+    "drug": 55,
+    "physiology": 87,
+    "disease": 106,
+    "Health_factors": 158,
+    "region": 27,
+    "symptom": 33,
+    "gene": 56,
+    "signs": 21
+  },
+  "relation_false_positives_by_type": {
+    "treatment_for": 56,
+    "abbreviation_for": 55,
+    "occurs_in": 67,
+    "associated_with": 188,
+    "help_diagnose": 32,
+    "hyponym_of": 64,
+    "risk_factor_of": 66,
+    "characteristic_of": 35,
+    "located_in": 27
+  },
+  "relation_false_negatives_by_type": {
+    "hyponym_of": 60,
+    "treatment_for": 63,
+    "abbreviation_for": 33,
+    "associated_with": 292,
+    "characteristic_of": 79,
+    "occurs_in": 54,
+    "help_diagnose": 36,
+    "risk_factor_of": 87,
+    "located_in": 44
+  },
+  "correct_relation_examples": [
+    {
+      "index": 0,
+      "sentence": "CONCLUSIONS : Self-guided internet-based interventions are deemed a suitable first-step approach to the treatment of depression .",
+      "relation": "treatment_for",
+      "head": "Self-guided internet-based interventions",
+      "tail": "depression"
+    },
+    {
+      "index": 1,
+      "sentence": "CONCLUSIONS : A history of stroke was associated with increased mortality among very old people but only among those who were also depressed .",
+      "relation": "occurs_in",
+      "head": "mortality",
+      "tail": "old people"
+    },
+    {
+      "index": 3,
+      "sentence": "Having a history of depression was associated with a multivariate-adjusted hazard ratio ( HR ) of 1 . 29 ( 95 % confidence interval [ CI ] , 1 . 13-1 . 48 ) for total stroke .",
+      "relation": "abbreviation_for",
+      "head": "CI",
+      "tail": "confidence interval"
+    }
+  ],
+  "missed_relation_examples": [
+    {
+      "index": 0,
+      "sentence": "CONCLUSIONS : Self-guided internet-based interventions are deemed a suitable first-step approach to the treatment of depression .",
+      "relation": "hyponym_of",
+      "head": "Self-guided internet-based interventions",
+      "tail": "first-step approach"
+    },
+    {
+      "index": 2,
+      "sentence": "Importantly , the antidepressant fluoxetine restores both adult neurogenesis and depressive states , and improves most olfactory functions .",
+      "relation": "treatment_for",
+      "head": "fluoxetine",
+      "tail": "adult neurogenesis"
+    },
+    {
+      "index": 3,
+      "sentence": "Having a history of depression was associated with a multivariate-adjusted hazard ratio ( HR ) of 1 . 29 ( 95 % confidence interval [ CI ] , 1 . 13-1 . 48 ) for total stroke .",
+      "relation": "abbreviation_for",
+      "head": "HR",
+      "tail": "hazard ratio"
+    }
+  ],
+  "extra_relation_examples": [
+    {
+      "index": 2,
+      "sentence": "Importantly , the antidepressant fluoxetine restores both adult neurogenesis and depressive states , and improves most olfactory functions .",
+      "relation": "treatment_for",
+      "head": "antidepressant fluoxetine",
+      "tail": "adult neurogenesis"
+    },
+    {
+      "index": 3,
+      "sentence": "Having a history of depression was associated with a multivariate-adjusted hazard ratio ( HR ) of 1 . 29 ( 95 % confidence interval [ CI ] , 1 . 13-1 . 48 ) for total stroke .",
+      "relation": "abbreviation_for",
+      "head": "HR",
+      "tail": "multivariate-adjusted hazard ratio"
+    },
+    {
+      "index": 5,
+      "sentence": "Continuum of depressive and manic mixed states in patients with bipolar disorder : quantitative measurement and clinical features .",
+      "relation": "occurs_in",
+      "head": "depressive and manic mixed states",
+      "tail": "bipolar disorder"
+    }
+  ]
+}

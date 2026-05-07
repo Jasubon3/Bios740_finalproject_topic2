@@ -1,0 +1,2092 @@
+node_id,node_text_normalized,node_type,mention_count
+N1,schizophrenia,disease,118
+N2,depression,disease,102
+N3,mdd,disease,60
+N4,ci,method,59
+N5,anxiety,disease,40
+N6,bipolar disorder,disease,32
+N7,mental disorders,disease,31
+N8,smd,method,30
+N9,age,Health_factors,27
+N10,children,Health_factors,25
+N11,women,Health_factors,25
+N12,anxiety disorders,disease,22
+N13,or,method,21
+N14,depressive symptoms,disease,20
+N15,mortality,disease,18
+N16,cnvs,gene,18
+N17,ocd,disease,18
+N18,major depression,disease,16
+N19,emraclidine,drug,16
+N20,adhd,disease,14
+N21,relapse,disease,14
+N22,aged,Health_factors,13
+N23,major depression disorder,disease,12
+N24,ptsd,disease,12
+N25,t2dm,disease,12
+N26,major depressive disorder,disease,11
+N27,rr,method,11
+N28,schizophrenia spectrum disorders,disease,11
+N29,post-traumatic stress disorder,disease,11
+N30,follow-up,method,11
+N31,se,method,11
+N32,substance use disorders,disease,11
+N33,illness,disease,10
+N34,adults,Health_factors,10
+N35,mice,method,10
+N36,cannabis,drug,10
+N37,psychotic disorders,disease,10
+N38,mbrp,method,10
+N39,breast cancer,disease,10
+N40,sd,method,9
+N41,depressive disorders,disease,9
+N42,systematic review,method,9
+N43,loneliness,disease,9
+N44,tau,method,9
+N45,prazosin,drug,9
+N46,productive engagement,Health_factors,9
+N47,meta-analyses,method,9
+N48,pubmed,method,8
+N49,cognitive behavioral therapy,method,8
+N50,rp,method,8
+N51,maps,method,8
+N52,bpd,disease,8
+N53,antidepressants,drug,7
+N54,interventions,method,7
+N55,network meta-analysis,method,7
+N56,brain,region,7
+N57,gut microbiota,Health_factors,7
+N58,disability,disease,7
+N59,physical activity,Health_factors,7
+N60,men,Health_factors,7
+N61,obsessive-compulsive disorder,disease,7
+N62,sertraline,drug,7
+N63,death,disease,7
+N64,physicians,Health_factors,7
+N65,solution-focused brief therapy,method,7
+N66,healthy controls,method,6
+N67,anxiety symptoms,disease,6
+N68,bipolar depression,disease,6
+N69,autism,disease,6
+N70,pathogenesis,disease,6
+N71,musculoskeletal pain,disease,6
+N72,pain,disease,6
+N73,sex,Health_factors,6
+N74,mental health,Health_factors,6
+N75,cognitive behaviour therapy,method,6
+N76,drug,drug,6
+N77,dcg iv-induced ltd,disease,6
+N78,psilocybin,drug,6
+N79,pregnancy,physiology,6
+N80,treatment-resistant schizophrenia,disease,6
+N81,females,Health_factors,6
+N82,genes,gene,6
+N83,alcohol use disorders,disease,6
+N84,self-harm,disease,6
+N85,interpersonal violence,Health_factors,6
+N86,heavy drinking,Health_factors,6
+N87,ylls,Health_factors,6
+N88,fluvoxamine,drug,6
+N89,guided parent-delivered cbt,method,6
+N90,genetic biomarkers,signs,6
+N91,hr,method,5
+N92,mixed states,symptom,5
+N93,self-reported,method,5
+N94,mood disorders,disease,5
+N95,pdm,method,5
+N96,usual care,method,5
+N97,psycinfo,method,5
+N98,depression symptoms,disease,5
+N99,health anxiety,disease,5
+N100,standard care,method,5
+N101,odds ratio,method,5
+N102,sleep-wake disturbances,disease,5
+N103,positive symptoms,disease,5
+N104,antipsychotics,drug,5
+N105,treatment resistance,physiology,5
+N106,pacap,gene,5
+N107,acc,region,5
+N108,drug use disorders,disease,5
+N109,smi,method,5
+N110,neurogenesis,physiology,5
+N111,subthalamic nucleus,region,5
+N112,uc,Health_factors,5
+N113,calm,method,5
+N114,cannabis phenotypes,Health_factors,5
+N115,cardiovascular disease,disease,5
+N116,dalys,Health_factors,5
+N117,ylds,Health_factors,5
+N118,ui,method,5
+N119,rg transgenic mice,method,5
+N120,depressed,disease,4
+N121,confidence interval,method,4
+N122,neurobiology,method,4
+N123,human,Health_factors,4
+N124,sedative exposure,Health_factors,4
+N125,cbm,method,4
+N126,embase,method,4
+N127,randomised controlled trials,method,4
+N128,asd,disease,4
+N129,anticipatory nausea,disease,4
+N130,hcs,method,4
+N131,gaba,drug,4
+N132,older adults,Health_factors,4
+N133,general population,Health_factors,4
+N134,environmental exposures,Health_factors,4
+N135,cbt-ha,method,4
+N136,irr,method,4
+N137,social dysfunction,disease,4
+N138,depressive-like behavior,disease,4
+N139,dementia,disease,4
+N140,fear,disease,4
+N141,psychological treatments,method,4
+N142,randomized controlled trials,method,4
+N143,mm,drug,4
+N144,adolescents,Health_factors,4
+N145,fatigue,disease,4
+N146,hrqol,Health_factors,4
+N147,males,Health_factors,4
+N148,family psychoeducation,Health_factors,4
+N149,biomarkers,signs,4
+N150,anterior cingulate cortex,region,4
+N151,[ ( 3 ) h ] pirenzepine binding,physiology,4
+N152,mental illness,disease,4
+N153,early intervention,method,4
+N154,bsi-12,method,4
+N155,lifestyle factors,Health_factors,4
+N156,substance use,Health_factors,4
+N157,tspo vt,method,4
+N158,prolactin-increasing antipsychotics,drug,4
+N159,adjusted or,method,4
+N160,wlc,method,4
+N161,glycine transporters,gene,4
+N162,mixed states,disease,3
+N163,msi,method,3
+N164,stress,disease,3
+N165,cognitive function,physiology,3
+N166,mood,physiology,3
+N167,randomized clinical trial,method,3
+N168,female,Health_factors,3
+N169,nch,method,3
+N170,older,Health_factors,3
+N171,trials,method,3
+N172,psychotic symptoms,disease,3
+N173,autism spectrum disorder,disease,3
+N174,brains,region,3
+N175,pathophysiology,method,3
+N176,circadian rhythms,physiology,3
+N177,sleep,Health_factors,3
+N178,medication,drug,3
+N179,healthy control,method,3
+N180,mumol,drug,3
+N181,social disconnectedness,disease,3
+N182,perceived isolation,Health_factors,3
+N183,hazard ratio,method,3
+N184,prs-scz,signs,3
+N185,sensitivity analyses,method,3
+N186,inflammation,disease,3
+N187,mde,disease,3
+N188,followed up,method,3
+N189,deaths,disease,3
+N190,health-related quality of life,Health_factors,3
+N191,relative risk,method,3
+N192,genetic,gene,3
+N193,male,Health_factors,3
+N194,cannabis use,Health_factors,3
+N195,military veterans,Health_factors,3
+N196,ad,disease,3
+N197,screening,method,3
+N198,clinicaltrials . gov,method,3
+N199,adverse events,Health_factors,3
+N200,social brain,region,3
+N201,social withdrawal,disease,3
+N202,alzheimer's disease,disease,3
+N203,meta-analysis,method,3
+N204,single nucleotide polymorphisms,gene,3
+N205,ltd,disease,3
+N206,dcg iv,method,3
+N207,drugs,drug,3
+N208,paid work,Health_factors,3
+N209,heritability,Health_factors,3
+N210,lifetime prevalence,signs,3
+N211,psychological interventions,method,3
+N212,cognitive behavioural therapy,method,3
+N213,treatment as usual,method,3
+N214,neuroplasticity,physiology,3
+N215,severe mental illness,disease,3
+N216,suicide,disease,3
+N217,attention-deficit hyperactivity disorder,disease,3
+N218,loci,gene,3
+N219,snps,gene,3
+N220,separation anxiety disorder,disease,3
+N221,generalized anxiety disorder,disease,3
+N222,social phobia,disease,3
+N223,combination therapy,method,3
+N224,child,Health_factors,3
+N225,insomnia,disease,3
+N226,dbs,method,3
+N227,pharmacological and non-pharmacological interventions,method,3
+N228,aripiprazole augmentation,method,3
+N229,topiramate,drug,3
+N230,dietary interventions,method,3
+N231,metformin,drug,3
+N232,clozapine,drug,3
+N233,gmv,signs,3
+N234,clinical symptoms,disease,3
+N235,rtms,method,3
+N236,family interventions,method,3
+N237,family intervention models,method,3
+N238,psychosis,disease,3
+N239,intentional injuries,disease,3
+N240,unipolar depression,disease,3
+N241,all-cause mortality,disease,3
+N242,mental disorder,disease,3
+N243,active stimulation,method,3
+N244,sham stimulation,method,3
+N245,yale-brown obsessive compulsive scale,method,3
+N246,genetics,gene,3
+N247,umbrella reviews,method,3
+N248,genetic risk,gene,3
+N249,tobacco smoking,Health_factors,3
+N250,cognitive dysfunction,disease,3
+N251,young people,Health_factors,3
+N252,amitriptyline,drug,3
+N253,intervention,method,3
+N254,cbt,method,3
+N255,5-ht,drug,3
+N256,neuroinflammation,disease,3
+N257,personality traits,symptom,3
+N258,cancer,disease,3
+N259,shared loci,gene,3
+N260,younger breast cancer survivors,Health_factors,3
+N261,cgi-i,method,3
+N262,tsc,physiology,3
+N263,adult neurogenesis,physiology,2
+N264,female mice,method,2
+N265,mixed state,disease,2
+N266,clinical characteristics,Health_factors,2
+N267,cross-sectional study,method,2
+N268,questionnaires,method,2
+N269,synaptic plasticity,physiology,2
+N270,serotonin-reuptake inhibitors,drug,2
+N271,agents,drug,2
+N272,critically ill,disease,2
+N273,music,Health_factors,2
+N274,ventilatory support,Health_factors,2
+N275,attention bias modification,method,2
+N276,cbm interventions,method,2
+N277,standardised mean differences,method,2
+N278,circuits,region,2
+N279,epidemiology,method,2
+N280,antidepressant effect,physiology,2
+N281,vomiting,disease,2
+N282,randomized controlled trial,method,2
+N283,suicidal ideation,disease,2
+N284,serum glutamate,drug,2
+N285,depressive,disease,2
+N286,department of psychiatry,method,2
+N287,hamilton depression scale,method,2
+N288,mumol / l,drug,2
+N289,cognition,physiology,2
+N290,genomes,gene,2
+N291,brain function,physiology,2
+N292,cnv,signs,2
+N293,15q11 . 2,gene,2
+N294,bp1-bp2,gene,2
+N295,longitudinal mediation analysis,method,2
+N296,reviewers,Health_factors,2
+N297,amygdala lbs,gene,2
+N298,childhood,Health_factors,2
+N299,icbt,method,2
+N300,sf-12,method,2
+N301,il-6,gene,2
+N302,crp,gene,2
+N303,covid-19 pandemic,Health_factors,2
+N304,self-report,method,2
+N305,body,region,2
+N306,depression-like behavior,disease,2
+N307,poststroke depression,disease,2
+N308,pmdd,disease,2
+N309,ppd,disease,2
+N310,web of science,method,2
+N311,prevention,method,2
+N312,china-to-us immigrants,Health_factors,2
+N313,culture-gene co-evolutionary theory,method,2
+N314,education,Health_factors,2
+N315,prospective cohort study,method,2
+N316,adult,Health_factors,2
+N317,probable depression,disease,2
+N318,social unrest,Health_factors,2
+N319,depression-like behaviors,disease,2
+N320,stroke survivors,Health_factors,2
+N321,social functioning,Health_factors,2
+N322,birth,physiology,2
+N323,effect sizes,method,2
+N324,environmental risk factors,Health_factors,2
+N325,environmental factors,Health_factors,2
+N326,nightmares,disease,2
+N327,chronic ptsd,disease,2
+N328,caps,method,2
+N329,distressing dreams,disease,2
+N330,psqi,method,2
+N331,sleep quality,Health_factors,2
+N332,cgic,method,2
+N333,adverse event,Health_factors,2
+N334,trial,method,2
+N335,cohorts,method,2
+N336,scz,disease,2
+N337,long-term depression,disease,2
+N338,ltd,physiology,2
+N339,hippocampus,region,2
+N340,kcnh2,gene,2
+N341,human brain,region,2
+N342,phospholipase c,gene,2
+N343,cortex,region,2
+N344,ca2 + concentration,signs,2
+N345,factor analysis,method,2
+N346,family caregiving,Health_factors,2
+N347,leisure activities,Health_factors,2
+N348,exercise,Health_factors,2
+N349,psychiatrists,Health_factors,2
+N350,genetic factors,gene,2
+N351,diagnostic criteria,method,2
+N352,impairments,disease,2
+N353,positive symptoms of schizophrenia,disease,2
+N354,medline,method,2
+N355,biosis,method,2
+N356,psychological treatment,method,2
+N357,standardized mean difference,method,2
+N358,risk ratio,method,2
+N359,mindfulness meditation,physiology,2
+N360,mindfulness meditation,method,2
+N361,executive functioning,physiology,2
+N362,social skills,Health_factors,2
+N363,neuroendocrine,physiology,2
+N364,affective psychosis,disease,2
+N365,post-partum period,Health_factors,2
+N366,severe mental disorders,disease,2
+N367,genome-wide analysis,method,2
+N368,neurodevelopmental disorders,disease,2
+N369,cognitive impairment,disease,2
+N370,ages,Health_factors,2
+N371,anxiety severity,signs,2
+N372,impairment,disease,2
+N373,pediatric anxiety rating scale,method,2
+N374,deep brain stimulation,method,2
+N375,nac,region,2
+N376,anxiolytic action,physiology,2
+N377,benzodiazepines,drug,2
+N378,diazepam,drug,2
+N379,limbic system,region,2
+N380,perinatal mental disorders,disease,2
+N381,offspring outcomes,Health_factors,2
+N382,adolescence,Health_factors,2
+N383,parents,Health_factors,2
+N384,erk signaling,physiology,2
+N385,physical health outcomes,Health_factors,2
+N386,meta-review,method,2
+N387,exercise interventions,method,2
+N388,quetiapine,drug,2
+N389,aripiprazole,drug,2
+N390,triglycerides,drug,2
+N391,cholesterol,drug,2
+N392,population-based cohort study,method,2
+N393,animal models,method,2
+N394,hamd,method,2
+N395,cerebellum,region,2
+N396,treatment response,physiology,2
+N397,cancer survivors,Health_factors,2
+N398,quality of life,Health_factors,2
+N399,adherence,Health_factors,2
+N400,ors,method,2
+N401,range,drug,2
+N402,ethnicity,Health_factors,2
+N403,adcyap1r1,gene,2
+N404,snp,gene,2
+N405,deep laminae,region,2
+N406,died,disease,2
+N407,recovery,Health_factors,2
+N408,obesity,disease,2
+N409,us counties,Health_factors,2
+N410,type 2 diabetes mellitus,disease,2
+N411,matched controls,method,2
+N412,substance use disorder,disease,2
+N413,lifetime substance use disorder,disease,2
+N414,smrs,method,2
+N415,alcohol,drug,2
+N416,hard drugs,drug,2
+N417,serum,region,2
+N418,ubiquitin-proteasome system,region,2
+N419,y-bocs,method,2
+N420,gaf,method,2
+N421,serious adverse events,Health_factors,2
+N422,infections,disease,2
+N423,evidence-based atlas,method,2
+N424,systematic reviews,method,2
+N425,maternal overweight,disease,2
+N426,attention-deficit / hyperactivity disorder,disease,2
+N427,imid,disease,2
+N428,antidepressant medication,drug,2
+N429,genetic association,physiology,2
+N430,alleles,gene,2
+N431,c4,gene,2
+N432,web-based questionnaire,method,2
+N433,clinical practice,method,2
+N434,japanese physicians,Health_factors,2
+N435,physician-patient consultation,method,2
+N436,somatic symptoms,disease,2
+N437,imipramine,drug,2
+N438,maprotiline,drug,2
+N439,mental health care,Health_factors,2
+N440,primary care clinics,Health_factors,2
+N441,primary care clinicians,Health_factors,2
+N442,diet,Health_factors,2
+N443,dietary patterns,Health_factors,2
+N444,public health,Health_factors,2
+N445,mindfulness-based relapse prevention,method,2
+N446,cognitive-behavioral rp,method,2
+N447,drug use,Health_factors,2
+N448,serotonin,drug,2
+N449,neurocircuitry,region,2
+N450,basal ganglia,region,2
+N451,cortico-striato-thalamo-cortical circuit,region,2
+N452,orbitofrontal cortex,region,2
+N453,polymorphisms,gene,2
+N454,risk alleles,gene,2
+N455,mitbamp,method,2
+N456,k01626,gene,2
+N457,neuroticism,symptom,2
+N458,dmn,region,2
+N459,chd,disease,2
+N460,cannabis use disorder,disease,2
+N461,polygenic scores,signs,2
+N462,norwegian thematically organized psychosis cohort,method,2
+N463,psychotic disorder,disease,2
+N464,cardiovascular disease events,Health_factors,2
+N465,neurodevelopmental disorder,disease,2
+N466,elevated depressive symptoms,disease,2
+N467,vasomotor symptoms,disease,2
+N468,wlc,disease,2
+N469,gbd,method,2
+N470,eating disorders,disease,2
+N471,gbd,disease,2
+N472,guided parent-delivered cognitive behavioural therapy,method,2
+N473,randomised controlled trial,method,2
+N474,clinical outcomes,Health_factors,2
+N475,parent-delivered cbt,method,2
+N476,mean difference,method,2
+N477,metabotropic glutamate receptor-dependent long-term depression,disease,2
+N478,tuberous sclerosis complex,gene,2
+N479,fxs,disease,2
+N480,mglur-ltd,disease,2
+N481,rg mice,method,2
+N482,mglur-ltd impairment,disease,2
+N483,laboratory tests,method,2
+N484,emotional distress,disease,2
+N485,dyspnea,disease,2
+N486,systematic and critical review,method,2
+N487,alcohol dependence,disease,2
+N488,glyt1,gene,2
+N489,self-guided internet-based interventions,method,1
+N490,history of stroke,Health_factors,1
+N491,old people,Health_factors,1
+N492,antidepressant fluoxetine,drug,1
+N493,depressive states,disease,1
+N494,olfactory functions,physiology,1
+N495,history of depression,Health_factors,1
+N496,multivariate-adjusted hazard ratio,method,1
+N497,stroke,disease,1
+N498,selective serotonin reuptake inhibitor,drug,1
+N499,escitalopram,drug,1
+N500,sleep anomalies,disease,1
+N501,anhedonia,disease,1
+N502,helplessness,disease,1
+N503,chronic antidepressant treatment,method,1
+N504,acute stress,physiology,1
+N505,serotoninergic autoinhibitory feedback,physiology,1
+N506,depressive and manic mixed states,disease,1
+N507,quantitative measurement,method,1
+N508,bipolar mixed states,disease,1
+N509,dsm-iv criteria,method,1
+N510,combined depressive and manic syndromes,disease,1
+N511,depressive and manic features,symptom,1
+N512,dsm-iv,method,1
+N513,mixed state index,method,1
+N514,manic and depressive mixed states,disease,1
+N515,kraepelinian mixed states,disease,1
+N516,manic,disease,1
+N517,mania,disease,1
+N518,discriminant function analysis,method,1
+N519,hyperactivity,disease,1
+N520,negative cognitions,physiology,1
+N521,subjective depressive,disease,1
+N522,elevated mood,disease,1
+N523,depressive or manic episodes,disease,1
+N524,depressive and manic symptoms,disease,1
+N525,depressive or manic episode,disease,1
+N526,flavonoids,drug,1
+N527,flavonols,drug,1
+N528,flavones,drug,1
+N529,flavanones,drug,1
+N530,anthocyanins,drug,1
+N531,flavan-3-ols,drug,1
+N532,polymeric flavonoids,drug,1
+N533,proanthocyanidins,drug,1
+N534,validated food-frequency questionnaires,method,1
+N535,physician - or clinician-diagnosed,Health_factors,1
+N536,antidepressant use,Health_factors,1
+N537,rapid-acting antidepressants,drug,1
+N538,pharmacotherapies,method,1
+N539,antidepressant therapies,method,1
+N540,environmental events,Health_factors,1
+N541,molecular and cellular mechanisms,physiology,1
+N542,neuronal function,physiology,1
+N543,dysfunction of the circuitry,disease,1
+N544,mood regulation,physiology,1
+N545,synaptic deficits,disease,1
+N546,patient-directed music intervention,method,1
+N547,mechanical ventilatory support,Health_factors,1
+N548,sedative medications,drug,1
+N549,self-initiated patient-directed music,method,1
+N550,intensive care units,Health_factors,1
+N551,icus,Health_factors,1
+N552,respiratory failure,disease,1
+N553,white,Health_factors,1
+N554,acute physiology,method,1
+N555,chronic health evaluation iii,method,1
+N556,interventions self-initiated pdm,method,1
+N557,self-initiated pdm,method,1
+N558,music therapist,Health_factors,1
+N559,daily assessments,method,1
+N560,visual analog scale,method,1
+N561,mixed-models analysis,method,1
+N562,pdm,Health_factors,1
+N563,pdm,disease,1
+N564,sedation intensity,signs,1
+N565,cognitive bias modification interventions,method,1
+N566,cognitive bias modification,method,1
+N567,cognitive bias modification ( cbm ) therapies,method,1
+N568,interpretation bias modification,method,1
+N569,avoidance training,method,1
+N570,mechanistically derived treatments,method,1
+N571,anxious and depressive symptomatology,disease,1
+N572,cochrane central register,method,1
+N573,diagnostic interview,method,1
+N574,validated clinical scale,method,1
+N575,non-cbm active intervention,method,1
+N576,cochrane collaboration tool,method,1
+N577,validated clinical scales,method,1
+N578,smds,method,1
+N579,restricted maximum likelihood random effects model,method,1
+N580,anxiety trials,method,1
+N581,sham training,method,1
+N582,post-hoc sensitivity analyses,method,1
+N583,post-traumatic stress disorder trials,method,1
+N584,depression trials,method,1
+N585,"complex , heterogeneous behavioural and cognitive syndrome",disease,1
+N586,disruption of brain development,physiology,1
+N587,genetic or environmental factors,Health_factors,1
+N588,dysfunction of dopaminergic neurotransmission,disease,1
+N589,genesis,gene,1
+N590,brain areas,region,1
+N591,disturbances of synaptic function,physiology,1
+N592,synaptic function,physiology,1
+N593,abnormalities of neuronal connectivity,disease,1
+N594,interneurons,region,1
+N595,antipsychotic drugs combined with psychological therapies,method,1
+N596,social support,Health_factors,1
+N597,genomics,method,1
+N598,neuroscience,method,1
+N599,opportunities,Health_factors,1
+N600,human gut microbiota,Health_factors,1
+N601,behavioral symptoms,disease,1
+N602,complex human behaviors,Health_factors,1
+N603,social communication,Health_factors,1
+N604,stereotypies,Health_factors,1
+N605,genetic risks,gene,1
+N606,gut microbiome,Health_factors,1
+N607,td,disease,1
+N608,microbiome,Health_factors,1
+N609,human donors,Health_factors,1
+N610,td,physiology,1
+N611,germ-free mice,method,1
+N612,autistic behaviors,disease,1
+N613,asd microbiota,Health_factors,1
+N614,asd-relevant genes,gene,1
+N615,microbiome and metabolome profiles,physiology,1
+N616,human microbiota,Health_factors,1
+N617,metabolites,drug,1
+N618,asd mouse model,method,1
+N619,microbial metabolites,drug,1
+N620,behavioral abnormalities,disease,1
+N621,neuronal excitability,physiology,1
+N622,neuroactive metabolites,drug,1
+N623,gut-brain connections,region,1
+N624,animal models research,method,1
+N625,seasonal affective disorder,disease,1
+N626,circadian clock genes,gene,1
+N627,sleep disorders,disease,1
+N628,sleep deprivation,disease,1
+N629,bright light exposure,Health_factors,1
+N630,antidepressant drugs,drug,1
+N631,drug taste,Health_factors,1
+N632,cancer chemotherapy,method,1
+N633,cytotoxic chemotherapy,method,1
+N634,posttreatment nausea,disease,1
+N635,tastes of drugs,Health_factors,1
+N636,chemotherapy,method,1
+N637,spectral fingerprints,method,1
+N638,facial affect processing bias,signs,1
+N639,processing of facial affect,physiology,1
+N640,negative emotion,physiology,1
+N641,positive emotion,physiology,1
+N642,neuronal,region,1
+N643,facial affect judgment task,method,1
+N644,magnetoencephalography,method,1
+N645,slower response times,symptom,1
+N646,hc,method,1
+N647,less somatosensory beta activity,physiology,1
+N648,somatosensory beta activity,physiology,1
+N649,visual gamma activity,physiology,1
+N650,frontal gamma activity,physiology,1
+N651,positive facial expression judgment,physiology,1
+N652,depression severity,signs,1
+N653,spatio-spectral manifestations,symptom,1
+N654,aberrant pathways,physiology,1
+N655,facial emotion processing,physiology,1
+N656,fns treatment,method,1
+N657,depressive-like behaviors,disease,1
+N658,rcbf,physiology,1
+N659,psd rats model,method,1
+N660,cerebellar purkinje cells,region,1
+N661,mrna,gene,1
+N662,inflammatory cytokines,gene,1
+N663,rct,method,1
+N664,video-based transdiagnostic intervention fitmindkit,method,1
+N665,attention-matched control condition,method,1
+N666,healthwatch,Health_factors,1
+N667,ndp,drug,1
+N668,machine learning,method,1
+N669,morbidity,disease,1
+N670,diagnostic biomarkers,signs,1
+N671,bd,disease,1
+N672,early depressive episode,disease,1
+N673,translational biomarkers,signs,1
+N674,machine learning,physiology,1
+N675,machine-learning methods,method,1
+N676,brain imaging classification,method,1
+N677,magnetic resonance imaging,method,1
+N678,magnetic resonance imaging data,method,1
+N679,mdds,disease,1
+N680,treatment outcome,Health_factors,1
+N681,neuroimaging,method,1
+N682,clinical care,method,1
+N683,comparative analysis,method,1
+N684,gamma-aminobutyric acid,drug,1
+N685,bipolar depressive disorder,disease,1
+N686,glu,drug,1
+N687,gamma - aminobutyric acid,drug,1
+N688,- aminobutyric acid,drug,1
+N689,depressive episodes,disease,1
+N690,bipolar depressive episode,disease,1
+N691,hamd-17,method,1
+N692,hamilton anxiety scale,method,1
+N693,hama,method,1
+N694,"serum levels of glu , gaba",signs,1
+N695,glu decarboxylase,gene,1
+N696,gad,gene,1
+N697,enzyme-linked immunosorbent assay,method,1
+N698,elisa,method,1
+N699,serum glu level,signs,1
+N700,glu / gaba ratio,signs,1
+N701,gad,disease,1
+N702,glu / gaba,drug,1
+N703,serum gaba,drug,1
+N704,hamd sleep disorder factor,Health_factors,1
+N705,glu,gene,1
+N706,peripheral blood circulation,region,1
+N707,alleles of copy-number variants,gene,1
+N708,dysfunction,disease,1
+N709,manifest disease,disease,1
+N710,fecundity,physiology,1
+N711,population controls,method,1
+N712,cognitive deficits,disease,1
+N713,chromosome 15q11 . 2 deletion,gene,1
+N714,breakpoints 1 and 2,gene,1
+N715,history of dyslexia,Health_factors,1
+N716,iq,signs,1
+N717,cognitive traits,symptom,1
+N718,brain structure,region,1
+N719,first-episode psychosis,disease,1
+N720,dyslexia,disease,1
+N721,older americans,Health_factors,1
+N722,nshap,Health_factors,1
+N723,social isolation,Health_factors,1
+N724,isolation,Health_factors,1
+N725,social disconnectedness,Health_factors,1
+N726,small social network,Health_factors,1
+N727,social interaction,Health_factors,1
+N728,perceptions of social isolation,Health_factors,1
+N729,lack of support,Health_factors,1
+N730,depression symptom,disease,1
+N731,community-residing older adults,Health_factors,1
+N732,"national social life , health , and aging project",method,1
+N733,nshap,method,1
+N734,structural equation modelling,method,1
+N735,longitudinal path models,method,1
+N736,reverse pathways,physiology,1
+N737,social network structure and function,Health_factors,1
+N738,public health initiatives,Health_factors,1
+N739,social network integration,Health_factors,1
+N740,community activities,Health_factors,1
+N741,affective disorders,disease,1
+N742,google,method,1
+N743,yahoo,method,1
+N744,interactive web-based interventions,method,1
+N745,amygdala,region,1
+N746,lbs,signs,1
+N747,guided i-rfcbt,method,1
+N748,molecular genetic liability,physiology,1
+N749,eugei study,method,1
+N750,heritable complex phenotype,Health_factors,1
+N751,genetic variants,gene,1
+N752,early twin and family studies,method,1
+N753,proxy-genetic liability measures,method,1
+N754,gene-environment interaction,physiology,1
+N755,polygenic risk score,signs,1
+N756,polygenic risk score for schizophrenia,signs,1
+N757,gene-environment interaction,Health_factors,1
+N758,molecular genetic risk state,physiology,1
+N759,lifetime regular cannabis,drug,1
+N760,lifetime regular cannabis use,Health_factors,1
+N761,early-life adversities,Health_factors,1
+N762,sexual abuse,disease,1
+N763,emotional abuse,disease,1
+N764,emotional neglect,Health_factors,1
+N765,bullying,Health_factors,1
+N766,hearing impairment,disease,1
+N767,season of birth,Health_factors,1
+N768,winter birth,Health_factors,1
+N769,physical abuse,Health_factors,1
+N770,physical neglect,Health_factors,1
+N771,etiopathogenesis of schizophrenia,disease,1
+N772,phq-9,method,1
+N773,paid,disease,1
+N774,k-10,method,1
+N775,gad-7,method,1
+N776,hba1c,gene,1
+N777,physical well-being,Health_factors,1
+N778,phq-15,method,1
+N779,il-8,gene,1
+N780,il-10,gene,1
+N781,tumor necrosis factor,gene,1
+N782,tnf,gene,1
+N783,c-reactive protein,gene,1
+N784,ect,method,1
+N785,multimodal multi-center analysis,method,1
+N786,electroconvulsive therapy,method,1
+N787,brainwide gray matter,region,1
+N788,functional changes,symptom,1
+N789,inactive adults,Health_factors,1
+N790,covid-19 quarantine,Health_factors,1
+N791,social media,Health_factors,1
+N792,structured online questionnaire,method,1
+N793,quarantine,drug,1
+N794,nordic questionnaire,method,1
+N795,covid-19,disease,1
+N796,logistic binary regression,method,1
+N797,physically inactive,Health_factors,1
+N798,crocin,drug,1
+N799,da projection neurons,region,1
+N800,vta,region,1
+N801,mtor,physiology,1
+N802,neural synaptic plasticity,physiology,1
+N803,neural synaptic plasticity of mpfc,physiology,1
+N804,pd mice,method,1
+N805,genotypes,gene,1
+N806,serotonin transporter gene,gene,1
+N807,slc6a4,gene,1
+N808,s / s homozygotes,gene,1
+N809,neural correlates,method,1
+N810,reproductive lifespan,Health_factors,1
+N811,fmri review,method,1
+N812,reproductive aging cycle,physiology,1
+N813,internal endocrine,physiology,1
+N814,emotion-associated brain circuits,region,1
+N815,female puberty,physiology,1
+N816,premenstrual dysphoric disorder,disease,1
+N817,postpartum depression disorder,disease,1
+N818,perimenopausal depression disorder,disease,1
+N819,psychinfo databases,method,1
+N820,functional brain imaging studies,method,1
+N821,reproductive cycle-related mood disorder,disease,1
+N822,theoretical framework,method,1
+N823,reproductive-sensitive phases,physiology,1
+N824,affective symptoms,disease,1
+N825,neural activation patterns,physiology,1
+N826,female reproductive cycle,physiology,1
+N827,puberty depression,disease,1
+N828,hypoactivation,physiology,1
+N829,depression disorders,disease,1
+N830,heterogeneous experimental protocols,method,1
+N831,reproductive aging stages,physiology,1
+N832,hormonal fluctuations,signs,1
+N833,reproductive cycle-related depression,disease,1
+N834,hormonal and neural patterns,physiology,1
+N835,mood disorder,disease,1
+N836,phase specific biotypes,disease,1
+N837,neural functioning,physiology,1
+N838,female cycle-related mood disorders,disease,1
+N839,neuroendocrine,drug,1
+N840,treatment approaches,method,1
+N841,women ' reproductive-related depressions,disease,1
+N842,automated messaging,method,1
+N843,clinical settings,method,1
+N844,psychotherapy,method,1
+N845,moderate heritability,Health_factors,1
+N846,us-born chinese americans,Health_factors,1
+N847,us-born adult chinese americans,Health_factors,1
+N848,collaborative psychiatric epidemiology surveys,method,1
+N849,cpes,method,1
+N850,secondary data analyses,method,1
+N851,major depressive episode,disease,1
+N852,china-to-us immigrant,Health_factors,1
+N853,us-born chinese,Health_factors,1
+N854,income,Health_factors,1
+N855,bmi,signs,1
+N856,marital status,Health_factors,1
+N857,income-to-needs ratio,Health_factors,1
+N858,china-to-us immigrant women,Health_factors,1
+N859,life time major depression,disease,1
+N860,us-born chinese american women,Health_factors,1
+N861,collectivist culture,Health_factors,1
+N862,post-traumatic stress,disease,1
+N863,major social unrest,Health_factors,1
+N864,hong kong,Health_factors,1
+N865,violent social unrest,Health_factors,1
+N866,health-care needs,Health_factors,1
+N867,population-based prospective cohort,method,1
+N868,patient health questionnaire-9,method,1
+N869,traumatic events,Health_factors,1
+N870,multivariable logistic regression,method,1
+N871,doctor-diagnosed,Health_factors,1
+N872,unrest,Health_factors,1
+N873,routine service statistics,method,1
+N874,professional care,method,1
+N875,ambulatory specialist psychiatric visits,Health_factors,1
+N876,baseline surveys,method,1
+N877,occupy central movement,Health_factors,1
+N878,current unrest,Health_factors,1
+N879,educational attainment,Health_factors,1
+N880,household income,Health_factors,1
+N881,heavy social media use,Health_factors,1
+N882,political attitude,Health_factors,1
+N883,protest participation,Health_factors,1
+N884,family support,Health_factors,1
+N885,service surge capacity,Health_factors,1
+N886,health-care,Health_factors,1
+N887,social care professionals,Health_factors,1
+N888,ifn-gamma,gene,1
+N889,adult hippocampal neurogenesis,physiology,1
+N890,cognitive defects,disease,1
+N891,post stroke depression,disease,1
+N892,medical patients,Health_factors,1
+N893,multicentre randomised controlled trial,method,1
+N894,therapists,Health_factors,1
+N895,psychological services,Health_factors,1
+N896,hospital care,Health_factors,1
+N897,pilot trial,method,1
+N898,randomised study,method,1
+N899,hospital medical clinics,Health_factors,1
+N900,"multicentre , randomised trial",method,1
+N901,cardiac,disease,1
+N902,endocrine,physiology,1
+N903,gastroenterological,method,1
+N904,neurological,method,1
+N905,secondary care,method,1
+N906,excessive health anxiety,disease,1
+N907,pathology,method,1
+N908,computer-generated random scheme,method,1
+N909,hospital-based therapists,Health_factors,1
+N910,health anxiety symptoms,disease,1
+N911,health anxiety inventory,method,1
+N912,health,Health_factors,1
+N913,social care costs,Health_factors,1
+N914,generalised anxiety,disease,1
+N915,adjusted mean difference,method,1
+N916,medical care,method,1
+N917,nationwide study,method,1
+N918,etiological factors,gene,1
+N919,clinicians,Health_factors,1
+N920,family history of ocd,Health_factors,1
+N921,longitudinal nationwide danish registers,Health_factors,1
+N922,survival analyses,method,1
+N923,calendar year,Health_factors,1
+N924,parental age,Health_factors,1
+N925,place of residence,Health_factors,1
+N926,schizophrenia spectrum disorder,disease,1
+N927,psychiatrist,Health_factors,1
+N928,hospital,Health_factors,1
+N929,outpatient clinic,Health_factors,1
+N930,emergency department setting,Health_factors,1
+N931,incidence rate ratios,method,1
+N932,irrs,method,1
+N933,confidence intervals,method,1
+N934,offspring of parents,Health_factors,1
+N935,family history of psychiatric disorders,Health_factors,1
+N936,etiological pathway,physiology,1
+N937,microrna-34a,gene,1
+N938,chronic stress,disease,1
+N939,mouse raphe nuclei,region,1
+N940,depression-like behavioral alterations,symptom,1
+N941,serotonergic system,region,1
+N942,coronary angiography,method,1
+N943,cad,disease,1
+N944,environmental risk,Health_factors,1
+N945,deep phenotyping-based study,method,1
+N946,genetic and environmental factors,Health_factors,1
+N947,twin studies,method,1
+N948,large genome-wide association studies,method,1
+N949,individual markers,signs,1
+N950,genome-wide association study-derived,method,1
+N951,genome-wide association study-derived genetic,method,1
+N952,socioeconomic measures,Health_factors,1
+N953,parallel analysis,method,1
+N954,gttingen research association for schizophrenia,method,1
+N955,gras,method,1
+N956,single-nucleotide polymorphisms,gene,1
+N957,schizophrenia risk alleles,gene,1
+N958,large genome-wide association study,method,1
+N959,environmental hazards,Health_factors,1
+N960,perinatal brain insults,disease,1
+N961,neurotrauma,disease,1
+N962,psychotrauma,disease,1
+N963,urbanicity,Health_factors,1
+N964,migration,Health_factors,1
+N965,prodrome,disease,1
+N966,symptom expression,physiology,1
+N967,early schizophrenia,disease,1
+N968,avoidable environmental risk factor-is,Health_factors,1
+N969,polygenic genome-wide association study,method,1
+N970,polygenic genome-wide association study risk scores,method,1
+N971,schizophrenia phenotypes,disease,1
+N972,preventive measures,method,1
+N973,randomized trials,method,1
+N974,1-adrenoreceptor antagonist,drug,1
+N975,veterans,Health_factors,1
+N976,department of veterans affairs medical centers,method,1
+N977,clinician-administered ptsd scale,method,1
+N978,recurrent distressing dreams,disease,1
+N979,pittsburgh sleep quality index,method,1
+N980,clinical global impression of change,method,1
+N981,caps item b2,method,1
+N982,caps item b2 score,method,1
+N983,supine systolic blood pressure,signs,1
+N984,pact clinicaltrials . gov,method,1
+N985,postmortem studies,method,1
+N986,corticosteroids,drug,1
+N987,ad neuropathology,disease,1
+N988,massive cell loss,disease,1
+N989,loss of plasticity,symptom,1
+N990,apoptosis,physiology,1
+N991,cholinergic m4 receptors,gene,1
+N992,"two-part , randomised , phase 1b trial",method,1
+N993,diagnostic and statistical manual of mental disorders 5th edition,method,1
+N994,mini international neuropsychiatric interview,method,1
+N995,extrapyramidal symptom assessments,method,1
+N996,mild symptoms,disease,1
+N997,"double-blind , randomised , placebo-controlled study",method,1
+N998,acute schizophrenia,disease,1
+N999,clinical assessments,method,1
+N1000,weight changes,symptom,1
+N1001,headache,disease,1
+N1002,blood pressure,signs,1
+N1003,heart rate,signs,1
+N1004,cerevel therapeutics,method,1
+N1005,neurobiological processes,physiology,1
+N1006,social behaviour,Health_factors,1
+N1007,system-level phenomena,physiology,1
+N1008,pathogenic interventions,method,1
+N1009,social deficits,disease,1
+N1010,neuropsychiatric disorders,disease,1
+N1011,neurobiological substrates,physiology,1
+N1012,major psychiatric disorders,disease,1
+N1013,targeted interventions,method,1
+N1014,long-term potentiation,physiology,1
+N1015,ltp,physiology,1
+N1016,information storage,physiology,1
+N1017,ca1,region,1
+N1018,chronic systemic administration,method,1
+N1019,hdac inhibitor,drug,1
+N1020,saha,drug,1
+N1021,crtc1 ( - / - ) mice,method,1
+N1022,standard error,method,1
+N1023,heritable traits,symptom,1
+N1024,cortical physiology,physiology,1
+N1025,neuronal repolarization,physiology,1
+N1026,organized neuronal firing,physiology,1
+N1027,cortical processing,physiology,1
+N1028,rapid amplification,physiology,1
+N1029,5 ' complementary dna,gene,1
+N1030,primate-specific isoform,gene,1
+N1031,3 . 1,gene,1
+N1032,ether-a-go-go-related k ( + ) channel kcnh2,gene,1
+N1033,neuronal firing,physiology,1
+N1034,kcnh2-3 . 1 messenger rna,gene,1
+N1035,full-length kcnh2 ( 1a ),gene,1
+N1036,heart,region,1
+N1037,kcnh2-3 . 1 expression,physiology,1
+N1038,kcnh2-1a expression,physiology,1
+N1039,clinical data sets,method,1
+N1040,risk-associated alleles,gene,1
+N1041,intelligence quotient scores,signs,1
+N1042,cognitive processing,physiology,1
+N1043,memory-linked functional magnetic resonance imaging signals,physiology,1
+N1044,kcnh2-3 . 1 mrna,gene,1
+N1045,postmortem hippocampus,region,1
+N1046,kcnh2-3 . 1,gene,1
+N1047,slow channel deactivation,physiology,1
+N1048,postsynaptic group ii metabotropic glutamate receptors,gene,1
+N1049,intracellular calcium,gene,1
+N1050,rat prefrontal cortex,region,1
+N1051,otani,drug,1
+N1052,dcg iv,gene,1
+N1053,group ii metabotropic glutamate receptors,gene,1
+N1054,metabotropic glutamate receptors,gene,1
+N1055,mglurs,gene,1
+N1056,postsynaptic ca2 + - dependent long-term depression,physiology,1
+N1057,rat medial prefrontal cortex,region,1
+N1058,mglur antagonist,drug,1
+N1059,rs,drug,1
+N1060,- alpha-methylserine-o-phosphate monophenyl ester,drug,1
+N1061,alpha-methylserine-o-phosphate monophenyl ester,drug,1
+N1062,agonist,drug,1
+N1063,2s,drug,1
+N1064,carboxycyclopropyl,drug,1
+N1065,group ii mglurs,gene,1
+N1066,nmda receptor antagonist,drug,1
+N1067,ap-5,gene,1
+N1068,nmda receptor-mediated synaptic responses,physiology,1
+N1069,small nmda receptor-mediated responses,physiology,1
+N1070,single synaptic stimuli,physiology,1
+N1071,phospholipase c inhibitor,drug,1
+N1072,u-73122,drug,1
+N1073,postsynaptically injected ip3 receptor blocker heparin,drug,1
+N1074,phospholipase d-linked mglur blocker,drug,1
+N1075,phospholipase d-linked mglur blocker pccg-13,drug,1
+N1076,pkc inhibitor,drug,1
+N1077,ro318220,drug,1
+N1078,postsynaptically injected pkc inhibitor,drug,1
+N1079,pkc,drug,1
+N1080,pka inhibitor,drug,1
+N1081,kt-5720,drug,1
+N1082,fluorescent ca2 + analysis techniques,method,1
+N1083,prefrontal layer v pyramidal neurons,region,1
+N1084,ca2 + rises,symptom,1
+N1085,postsynaptic heparin,drug,1
+N1086,cells,region,1
+N1087,postsynaptic group ii mglurs,gene,1
+N1088,phospholipase d,gene,1
+N1089,postsynaptic pkc activation,physiology,1
+N1090,sem analysis,method,1
+N1091,community-dwelling chinese elders,Health_factors,1
+N1092,recreational activities,Health_factors,1
+N1093,group artistic and learning activities,Health_factors,1
+N1094,sportive activities,Health_factors,1
+N1095,volunteering,Health_factors,1
+N1096,structural equation modeling,method,1
+N1097,multidimensional productive engagement,symptom,1
+N1098,intervention programs,method,1
+N1099,social work practice,method,1
+N1100,cort,drug,1
+N1101,environment,Health_factors,1
+N1102,psychotic syndromes,disease,1
+N1103,disorders of adaptation to social context,Health_factors,1
+N1104,social context,Health_factors,1
+N1105,early life adversity,Health_factors,1
+N1106,urban environment,Health_factors,1
+N1107,minority group position,Health_factors,1
+N1108,genetic influence,Health_factors,1
+N1109,social effects,Health_factors,1
+N1110,longitudinal research,method,1
+N1111,psychopathology,method,1
+N1112,cross-sectional epidemiological study,method,1
+N1113,china mental health survey,method,1
+N1114,nationally representative survey,method,1
+N1115,service use,Health_factors,1
+N1116,social and psychological risk factors,Health_factors,1
+N1117,cross-sectional epidemiological survey,method,1
+N1118,alcohol-use and drug-use disorders,disease,1
+N1119,eating disorder,disease,1
+N1120,impulse-control disorder,disease,1
+N1121,multistage clustered-area probability sample,method,1
+N1122,face-to-face interviews,method,1
+N1123,composite international diagnostic interview,method,1
+N1124,community screening instrument,method,1
+N1125,dementia diagnostic package,method,1
+N1126,geriatric mental state examination,method,1
+N1127,data-quality control procedures,method,1
+N1128,logic check,method,1
+N1129,sequential recording check,method,1
+N1130,phone-call check,method,1
+N1131,reinterview check,method,1
+N1132,interview,method,1
+N1133,policy makers,Health_factors,1
+N1134,health-care professionals,Health_factors,1
+N1135,national health commission of health,Health_factors,1
+N1136,ministry of health,Health_factors,1
+N1137,western societies,Health_factors,1
+N1138,avoidance of perceived threats,Health_factors,1
+N1139,panic attacks,disease,1
+N1140,alterations in the limbic system,symptom,1
+N1141,dysfunction of the hypothalamic-pituitary-adrenal axis,disease,1
+N1142,female sex,Health_factors,1
+N1143,family history of anxiety,Health_factors,1
+N1144,classification systems,method,1
+N1145,"diagnostic and statistical manual of mental disorders , fifth edition",method,1
+N1146,dsm-5,method,1
+N1147,"international classification of diseases , tenth edition",method,1
+N1148,icd-10,method,1
+N1149,health care systems,Health_factors,1
+N1150,economically advanced countries,Health_factors,1
+N1151,waxing and waning symptoms,disease,1
+N1152,severe disabilities,disease,1
+N1153,psd,disease,1
+N1154,functional outcomes,Health_factors,1
+N1155,poststroke mortality,disease,1
+N1156,current positive symptoms,disease,1
+N1157,network meta-analysis approach,method,1
+N1158,cochrane library,method,1
+N1159,world health organization's international clinical trials registry platform,method,1
+N1160,validated rating scales,method,1
+N1161,ill,disease,1
+N1162,supportive therapy,method,1
+N1163,cognitive behavior therapy,method,1
+N1164,moderately ill,disease,1
+N1165,beck depression inventory,method,1
+N1166,bdi,method,1
+N1167,dyadic adjustment scale,method,1
+N1168,das,method,1
+N1169,relationship satisfaction,Health_factors,1
+N1170,short sexual functioning scale,method,1
+N1171,ssfs,method,1
+N1172,sexual functioning,physiology,1
+N1173,laparoscopic surgery,method,1
+N1174,lufc,region,1
+N1175,fertility exploration,method,1
+N1176,surgery,method,1
+N1177,mindfulness,physiology,1
+N1178,possible complementary effects,physiology,1
+N1179,public health problem,disease,1
+N1180,global population,Health_factors,1
+N1181,psychotherapies,method,1
+N1182,mm,physiology,1
+N1183,psychological and biological processes,physiology,1
+N1184,core neural networks,region,1
+N1185,neuroimmunological,physiology,1
+N1186,online databases,method,1
+N1187,google scholar,method,1
+N1188,neural core networks,region,1
+N1189,neuroimmune system markers,signs,1
+N1190,mm's,gene,1
+N1191,affective self-regulation,physiology,1
+N1192,mental strategies,method,1
+N1193,stress reactivity,physiology,1
+N1194,prefrontal and limbic areas,region,1
+N1195,psilocybin's,drug,1
+N1196,cognitive associations,physiology,1
+N1197,cognitive disinhibition,physiology,1
+N1198,global neural network disintegration,physiology,1
+N1199,mutual positive effects,physiology,1
+N1200,placebo-controlled double-blind randomized trials,method,1
+N1201,psilocybin-assisted mindfulness-based therapy,method,1
+N1202,combination of therapies,method,1
+N1203,depressive symptomatology,disease,1
+N1204,perinatal period,Health_factors,1
+N1205,childbirth,physiology,1
+N1206,chronic conditions,disease,1
+N1207,post-partum psychosis,disease,1
+N1208,perinatal episodes,disease,1
+N1209,maternal death,disease,1
+N1210,individual risk-benefit analysis,method,1
+N1211,woman,Health_factors,1
+N1212,rare chromosomal deletions and duplications,gene,1
+N1213,copy number variants,gene,1
+N1214,ethnically matched,Health_factors,1
+N1215,british birth cohort,method,1
+N1216,children of white uk origin,Health_factors,1
+N1217,white uk origin,Health_factors,1
+N1218,hyperkinetic disorder,disease,1
+N1219,community child psychiatry,method,1
+N1220,paediatric outpatient clinics,Health_factors,1
+N1221,control groups,method,1
+N1222,cnv analysis,method,1
+N1223,comparative genomic hybridisation,method,1
+N1224,icelandic controls,method,1
+N1225,"large , rare cnvs",gene,1
+N1226,intellectual disability,disease,1
+N1227,chromosome 16p13 . 11 duplications,gene,1
+N1228,multiple testing,method,1
+N1229,adhd cohort,method,1
+N1230,large cnvs,gene,1
+N1231,social construct,Health_factors,1
+N1232,epsilon4 allele,gene,1
+N1233,epsilon4 allele of,gene,1
+N1234,epsilon4 allele of the,gene,1
+N1235,epsilon4 allele of the apolipoproteine,gene,1
+N1236,the apolipoproteine,gene,1
+N1237,apolipoproteine,gene,1
+N1238,apoe,gene,1
+N1239,genetic risk factor,gene,1
+N1240,older persons,Health_factors,1
+N1241,oral second-generation antipsychotics,drug,1
+N1242,second-generation antipsychotics,drug,1
+N1243,sgas,drug,1
+N1244,maintenance treatment,method,1
+N1245,evo,method,1
+N1246,cognitive training app,method,1
+N1247,cognitive control,physiology,1
+N1248,ipst,method,1
+N1249,evidence-based psychotherapy,method,1
+N1250,health tips,method,1
+N1251,treatment control,method,1
+N1252,childhood anxiety,disease,1
+N1253,psychiatric conditions,disease,1
+N1254,selective serotonin-reuptake inhibitors,drug,1
+N1255,"randomized , controlled trial",method,1
+N1256,combination of sertraline,method,1
+N1257,combination of sertraline and cognitive behavioral therapy,method,1
+N1258,clinician global impression-improvement scale,method,1
+N1259,monotherapies,method,1
+N1260,suicidal,disease,1
+N1261,homicidal ideation,disease,1
+N1262,child attempted suicide,disease,1
+N1263,sedation,disease,1
+N1264,restlessness,disease,1
+N1265,mtsm,method,1
+N1266,frontostriatal network activity,physiology,1
+N1267,neural mechanism,physiology,1
+N1268,nucleus accumbens,region,1
+N1269,nac activity,physiology,1
+N1270,excessive connectivity,physiology,1
+N1271,nac and prefrontal cortex,region,1
+N1272,frontal low-frequency oscillations,physiology,1
+N1273,symptom provocation,disease,1
+N1274,stimulated region,region,1
+N1275,molecular and neuronal substrate,region,1
+N1276,benzodiazepine tranquilizers,drug,1
+N1277,mouse lines,method,1
+N1278,alpha2,gene,1
+N1279,h101r,gene,1
+N1280,alpha3,gene,1
+N1281,h126r,gene,1
+N1282,anxiolytic effect,physiology,1
+N1283,benzodiazepine drugs,drug,1
+N1284,alpha2 gabaa receptors,gene,1
+N1285,alpha3 gabaa receptors,gene,1
+N1286,reticular activating system,region,1
+N1287,fetus,Health_factors,1
+N1288,psychological and developmental disturbances,disease,1
+N1289,parental disorders,disease,1
+N1290,fetal development,physiology,1
+N1291,"high-income , middle-income , and low-income countries",Health_factors,1
+N1292,disturbance,disease,1
+N1293,parent psychopathology,method,1
+N1294,parenting quality,Health_factors,1
+N1295,social,Health_factors,1
+N1296,partner,Health_factors,1
+N1297,material support,Health_factors,1
+N1298,parental disorder,disease,1
+N1299,maternal depression,disease,1
+N1300,parent's disorder,disease,1
+N1301,caregiving difficulties,disease,1
+N1302,early interventions,method,1
+N1303,prevention research,method,1
+N1304,socioeconomically disadvantaged populations,Health_factors,1
+N1305,low-income countries,Health_factors,1
+N1306,depression-implicated brain regions,region,1
+N1307,long-lasting and transcription-dependent neuroadaptations,physiology,1
+N1308,search engine hits,method,1
+N1309,meta-analyzed trials,method,1
+N1310,meta-analyzed studies,method,1
+N1311,weight reduction interventions,method,1
+N1312,individual lifestyle counseling,method,1
+N1313,psychoeducation,Health_factors,1
+N1314,d-fenfluramine,drug,1
+N1315,metformin,method,1
+N1316,waist circumference reduction,symptom,1
+N1317,olanzapine,drug,1
+N1318,glucagon-like peptide-1 receptor agonists,drug,1
+N1319,insulin resistance,physiology,1
+N1320,rosiglitazone,drug,1
+N1321,low-density lipoprotein,gene,1
+N1322,ldl,gene,1
+N1323,high-density lipoprotein,gene,1
+N1324,hdl,gene,1
+N1325,lifestyle interventions,method,1
+N1326,ldl-cholesterol,drug,1
+N1327,exercise capacity,Health_factors,1
+N1328,physical comorbidities,disease,1
+N1329,physical health risks,Health_factors,1
+N1330,non-clozapine antipsychotics,drug,1
+N1331,treatment-based proxy,method,1
+N1332,danish national registry data,method,1
+N1333,hospital admission,Health_factors,1
+N1334,antipsychotic monotherapy,method,1
+N1335,multivariable cox proportional hazards regression analysis,method,1
+N1336,multivariable complete-case analyses,method,1
+N1337,iqr,method,1
+N1338,younger age,Health_factors,1
+N1339,urban area,Health_factors,1
+N1340,rural,Health_factors,1
+N1341,primary education,Health_factors,1
+N1342,bed-days,Health_factors,1
+N1343,psychiatric hospital,Health_factors,1
+N1344,paranoid subtype,symptom,1
+N1345,comorbid personality disorder,disease,1
+N1346,psychotropic drug,drug,1
+N1347,suicide attempt,disease,1
+N1348,prediction models,method,1
+N1349,treatment-resistant disease,disease,1
+N1350,mg-depletion,physiology,1
+N1351,ses,disease,1
+N1352,vagus nerve stimulation antidepressant response,physiology,1
+N1353,treatment-resistant depression,disease,1
+N1354,volumetric deficit,signs,1
+N1355,fronto-limbic-striatal circuit,region,1
+N1356,major psychiatric disorder,disease,1
+N1357,structural alterations,symptom,1
+N1358,early impairment of fronto-limbic-striatal circuit,disease,1
+N1359,"first-episode , drug naive mdd",disease,1
+N1360,neuroimaging biomarker,signs,1
+N1361,illness severity,signs,1
+N1362,whole-brain voxel-based morphometry,method,1
+N1363,voxel-based morphometry,method,1
+N1364,vbm,method,1
+N1365,first-episode medication-naive mdd,disease,1
+N1366,vbm,signs,1
+N1367,gray matter volume,signs,1
+N1368,post-hoc analysis,method,1
+N1369,gmv structural alteration,disease,1
+N1370,brain gray matter volume,signs,1
+N1371,prefrontal lobe,region,1
+N1372,striatum,region,1
+N1373,temporal lobe,region,1
+N1374,bilateral lingual gyri,region,1
+N1375,hamd scores,method,1
+N1376,right insula,region,1
+N1377,right lingual gyrus,region,1
+N1378,gray matter structural abnormalities,disease,1
+N1379,prefronto-limbic-striatal circuit,region,1
+N1380,lingual gyrus,region,1
+N1381,fusiform gyrus,region,1
+N1382,brain alterations,symptom,1
+N1383,individual neuroimaging studies,method,1
+N1384,statistical analysis,method,1
+N1385,burdensome disorder,disease,1
+N1386,limited bedding and nesting material paradigm,method,1
+N1387,sex differences,Health_factors,1
+N1388,region-specific alterations of monoamine neurotransmission,physiology,1
+N1389,brain activity patterns,physiology,1
+N1390,brain activity,physiology,1
+N1391,brain circuits,region,1
+N1392,information provision,Health_factors,1
+N1393,patient satisfaction,Health_factors,1
+N1394,predefined inclusion criteria,method,1
+N1395,intervention studies,method,1
+N1396,health care providers,Health_factors,1
+N1397,information interventions,method,1
+N1398,cancer survivorship,Health_factors,1
+N1399,diabetes,disease,1
+N1400,high-burden non-communicable conditions,disease,1
+N1401,years of life lived with disability,Health_factors,1
+N1402,central,method,1
+N1403,who international clinical trials registry platform,method,1
+N1404,blinded and open-label randomised controlled trials,method,1
+N1405,acutely ill,disease,1
+N1406,concurrent medical or psychiatric disorder,disease,1
+N1407,depressive symptoms of schizophrenia,disease,1
+N1408,overall functioning,Health_factors,1
+N1409,family burden,Health_factors,1
+N1410,expressed emotion,disease,1
+N1411,operationalised criteria,method,1
+N1412,psychiatric hospital admissions,Health_factors,1
+N1413,clinical judgement,Health_factors,1
+N1414,"frequentist , random-effects , network meta-analysis",method,1
+N1415,odds ratios,method,1
+N1416,cis,method,1
+N1417,crisis-oriented interventions,method,1
+N1418,community-based interventions,method,1
+N1419,sensitivity and subgroup analyses,method,1
+N1420,behavioural or skills training,Health_factors,1
+N1421,financial constraints,Health_factors,1
+N1422,pac1 receptor,gene,1
+N1423,pituitary adenylate cyclase-activating polypeptide,drug,1
+N1424,cellular stress response,physiology,1
+N1425,pacap-pac1 receptor pathway,physiology,1
+N1426,human psychological stress responses,physiology,1
+N1427,psychological stress responses,physiology,1
+N1428,heavily traumatized subjects,Health_factors,1
+N1429,fear physiology,physiology,1
+N1430,adcyap1,gene,1
+N1431,pac1,gene,1
+N1432,oestrogen response element,gene,1
+N1433,rs2267735,gene,1
+N1434,fear discrimination,Health_factors,1
+N1435,adcyap1r1 messenger rna expression,physiology,1
+N1436,methylation of adcyap1r1,physiology,1
+N1437,peripheral blood,region,1
+N1438,adcyap1r1 mrna,gene,1
+N1439,fear conditioning,method,1
+N1440,oestrogen replacement,method,1
+N1441,rodent models,method,1
+N1442,perturbations in the pacap-pac1 pathway,physiology,1
+N1443,pacap-pac1 pathway,physiology,1
+N1444,abnormal stress responses,physiology,1
+N1445,sex-specific effects,physiology,1
+N1446,oestrogen regulation,physiology,1
+N1447,oestrogen regulation of adcyap1r1,physiology,1
+N1448,adcyap1r1 snps,gene,1
+N1449,m1 / m4 muscarinic receptors,gene,1
+N1450,abnormal cholinergic neurotransmission,disease,1
+N1451,psychiatric illness,disease,1
+N1452,cholinergic muscarinic receptors,gene,1
+N1453,quantitative autoradiography,method,1
+N1454,m1 and m4 receptors,gene,1
+N1455,brain tissue,region,1
+N1456,stanley foundation neuropathology consortium,method,1
+N1457,superficial laminae,region,1
+N1458,i-ii,region,1
+N1459,iii-vi,region,1
+N1460,[ ( 3 ) h ] pirenzepine,drug,1
+N1461,upper laminae,region,1
+N1462,acc,method,1
+N1463,bipolar or major depression,disease,1
+N1464,control group,method,1
+N1465,decreased [ ( 3 ) h ] pirenzepine binding,symptom,1
+N1466,decreased muscarinic receptor density,symptom,1
+N1467,bipolar and major depression,disease,1
+N1468,dysfunctional acc neural circuits,disease,1
+N1469,impaired adult neurogenesis,disease,1
+N1470,current smoking,Health_factors,1
+N1471,lower educational attainment,Health_factors,1
+N1472,moderate incontinence,symptom,1
+N1473,severe incontinence,symptom,1
+N1474,urinary incontinence,Health_factors,1
+N1475,medical comorbidity,disease,1
+N1476,geographic variation,physiology,1
+N1477,early death,disease,1
+N1478,early death and disability,disease,1
+N1479,diabetes mellitus,disease,1
+N1480,large scale meta-analysis,method,1
+N1481,cardiovascular diseases,disease,1
+N1482,smi,disease,1
+N1483,demographic,Health_factors,1
+N1484,t2dm assessment methods,method,1
+N1485,antipsychotic-nave participants,Health_factors,1
+N1486,comparative meta-analysis,method,1
+N1487,multi-episode persons,Health_factors,1
+N1488,multivariable meta-regression analysis,method,1
+N1489,aripriprazole,drug,1
+N1490,amisulpride,drug,1
+N1491,routine screening,method,1
+N1492,multidisciplinary management,method,1
+N1493,antipsychotic medications,drug,1
+N1494,alcohol and substance use disorders,disease,1
+N1495,all-cause and cause-specific mortality,disease,1
+N1496,"nationwide , prospective , register-based study",method,1
+N1497,"prospective , register-based cohort study",method,1
+N1498,nationwide registers,Health_factors,1
+N1499,"alcohol , cannabis , or hard drug misuse",disease,1
+N1500,hazard ratios,method,1
+N1501,hrs,method,1
+N1502,subhazard ratios,method,1
+N1503,shrs,method,1
+N1504,cause-specific mortality,disease,1
+N1505,standardised mortality ratios,method,1
+N1506,smr,method,1
+N1507,substance use disorders of alcohol,disease,1
+N1508,alcohol,disease,1
+N1509,mortality-reducing interventions,method,1
+N1510,lundbeck foundation,method,1
+N1511,ifn-alpha,gene,1
+N1512,ubiquitin proteasome system,physiology,1
+N1513,neural development,physiology,1
+N1514,brain structure and function,physiology,1
+N1515,synaptogenesis,physiology,1
+N1516,neurotransmission,physiology,1
+N1517,localisation,physiology,1
+N1518,turnover of scaffolding,physiology,1
+N1519,presynaptic,region,1
+N1520,postsynaptic proteins,gene,1
+N1521,ubiquitin-proteasome system signalling,physiology,1
+N1522,neurons,region,1
+N1523,protein degradation,physiology,1
+N1524,brain conditions,disease,1
+N1525,ubiquitin-proteasome system dysfunction,disease,1
+N1526,neurodegenerative disorders,disease,1
+N1527,molecular changes,symptom,1
+N1528,rostral anterior cingulate cortex,region,1
+N1529,repetitive tms treatment response,physiology,1
+N1530,3xtg-ad mouse brains,region,1
+N1531,ryanodine receptor,gene,1
+N1532,ryr,gene,1
+N1533,synaptic depression,physiology,1
+N1534,presynaptic vesicle stores,gene,1
+N1535,postsynaptic outward currents,physiology,1
+N1536,small-conductance calcium-activated potassium sk2 channels,physiology,1
+N1537,tppu treatment,method,1
+N1538,se,physiology,1
+N1539,srs,disease,1
+N1540,epilepsy-associated depressive behaviours,disease,1
+N1541,licl-pilocarpine induced post-se rat model,method,1
+N1542,anti-inflammatory effects,physiology,1
+N1543,subthalamic nucleus stimulation,method,1
+N1544,severe obsessive-compulsive disorder,disease,1
+N1545,"severe , refractory obsessive-compulsive disorder",disease,1
+N1546,disabling condition,disease,1
+N1547,movement disorders,disease,1
+N1548,"crossover , double-blind , multicenter study",method,1
+N1549,standardized psychiatric scales,method,1
+N1550,global assessment of functioning,method,1
+N1551,neuropsychological tests,method,1
+N1552,neuropsychological measures,signs,1
+N1553,intracerebral hemorrhage,disease,1
+N1554,nonserious adverse events,Health_factors,1
+N1555,' meta-umbrella ' systematic synthesis,method,1
+N1556,icd / dsm,method,1
+N1557,prospective studies,method,1
+N1558,transd criteria,method,1
+N1559,measurement tool to assess systematic reviews,method,1
+N1560,amstar,method,1
+N1561,prospective designs,method,1
+N1562,social contacts,Health_factors,1
+N1563,opioid use disorders,disease,1
+N1564,non-organic psychotic disorders,disease,1
+N1565,childhood adversities,Health_factors,1
+N1566,widowhood,Health_factors,1
+N1567,sexual dysfunction,disease,1
+N1568,metabolic factors,gene,1
+N1569,childhood physical,Health_factors,1
+N1570,sexual,Health_factors,1
+N1571,abuse,disease,1
+N1572,job strain,Health_factors,1
+N1573,sleep disturbances,disease,1
+N1574,maternal pre-pregnancy obesity,disease,1
+N1575,maternal smoking,Health_factors,1
+N1576,high physical activity,Health_factors,1
+N1577,early neurodevelopmental period,Health_factors,1
+N1578,preventive strategies,method,1
+N1579,antidepressant treatment,method,1
+N1580,viral suppression,physiology,1
+N1581,cd4 t cells / mul,region,1
+N1582,plwha,method,1
+N1583,social and occupational decline,Health_factors,1
+N1584,"positive , negative , and disorganisation syndromes",disease,1
+N1585,catatonic symptoms,disease,1
+N1586,first rank symptoms,disease,1
+N1587,lateral ventricular enlargement,disease,1
+N1588,brain volume reductions,symptom,1
+N1589,brain functional changes,symptom,1
+N1590,frontal cortex,region,1
+N1591,disturbed interaction,disease,1
+N1592,large-scale brain networks,region,1
+N1593,neurochemical disturbance,disease,1
+N1594,dopamine function,physiology,1
+N1595,polygenic,gene,1
+N1596,dopamine receptor-blocking drugs,drug,1
+N1597,psychological intervention,method,1
+N1598,childhood adversity,Health_factors,1
+N1599,progressive brain change,symptom,1
+N1600,ms,disease,1
+N1601,ibd,disease,1
+N1602,ra,disease,1
+N1603,activate-initiate-monitor intervention,method,1
+N1604,care management program,method,1
+N1605,heritable brain illness,disease,1
+N1606,pathogenic mechanisms,physiology,1
+N1607,schizophrenia's,disease,1
+N1608,major histocompatibility complex,gene,1
+N1609,mhc,gene,1
+N1610,molecular mechanisms,physiology,1
+N1611,c4a and c4b expression,physiology,1
+N1612,c4 allele,gene,1
+N1613,expression of c4a,physiology,1
+N1614,c4 protein,gene,1
+N1615,neuronal synapses,region,1
+N1616,dendrites,region,1
+N1617,axons,region,1
+N1618,cell bodies,region,1
+N1619,synapse elimination,physiology,1
+N1620,postnatal development,physiology,1
+N1621,excessive complement activity,physiology,1
+N1622,synapses,region,1
+N1623,clinical practices,method,1
+N1624,psychiatry,method,1
+N1625,psychosomatic medicine,method,1
+N1626,questionnaire,method,1
+N1627,physician's,Health_factors,1
+N1628,hospital based,Health_factors,1
+N1629,japanese society of psychiatry and neurology,method,1
+N1630,psychological assessments,method,1
+N1631,cognition evaluation test,method,1
+N1632,hasegawa dementia scale-revised,method,1
+N1633,hospital-based physicians,Health_factors,1
+N1634,general practitioners,Health_factors,1
+N1635,digital tools,method,1
+N1636,thinc-it,method,1
+N1637,circadian rhythm sleep-wake disturbances,disease,1
+N1638,pathophysiological pathway,physiology,1
+N1639,disturbance in the 24 h sleep-wake cycle,physiology,1
+N1640,circadian system,region,1
+N1641,abnormalities in circadian rhythms,disease,1
+N1642,unstable mood,disease,1
+N1643,daytime fatigue,disease,1
+N1644,non-restorative sleep,Health_factors,1
+N1645,reduced motor activity,symptom,1
+N1646,appetite and weight change,symptom,1
+N1647,basic circadian biology,method,1
+N1648,circadian disturbances,disease,1
+N1649,adolescent-onset depressive syndromes,disease,1
+N1650,community and clinical studies,method,1
+N1651,h sleep-wake cycle disturbances,disease,1
+N1652,clinical trials,method,1
+N1653,circadian-based treatments,method,1
+N1654,"personalised , early intervention model",method,1
+N1655,circadian-linked depression,disease,1
+N1656,anxiolytic properties,physiology,1
+N1657,tianeptine,drug,1
+N1658,coexisting depression and anxiety,disease,1
+N1659,fluoxetine,drug,1
+N1660,supar,gene,1
+N1661,evidence-based treatment,method,1
+N1662,multiple anxiety disorders,disease,1
+N1663,primary care,method,1
+N1664,clinical interventions,method,1
+N1665,real-world practice settings,method,1
+N1666,treatment-delivery model,method,1
+N1667,multiple primary care anxiety disorders,disease,1
+N1668,panic,disease,1
+N1669,generalized anxiety,disease,1
+N1670,social anxiety,disease,1
+N1671,posttraumatic stress disorders,disease,1
+N1672,randomized controlled effectiveness trial,method,1
+N1673,coordinated anxiety learning and management,method,1
+N1674,english - or spanish-speaking,Health_factors,1
+N1675,blinded follow-up assessments,method,1
+N1676,intervention calm,method,1
+N1677,real-time web-based outcomes monitoring,method,1
+N1678,computer-assisted program,method,1
+N1679,nonexpert care managers,Health_factors,1
+N1680,medications,drug,1
+N1681,twelve-item brief symptom inventory,method,1
+N1682,functional disability,disease,1
+N1683,quality of care,Health_factors,1
+N1684,lifestyle psychiatry,method,1
+N1685,smoking,Health_factors,1
+N1686,physical health,Health_factors,1
+N1687,psychological well-being,Health_factors,1
+N1688,international and national health bodies,Health_factors,1
+N1689,health behaviors,Health_factors,1
+N1690,systematic meta-review,method,1
+N1691,treatment outcomes,Health_factors,1
+N1692,prospective / cohort studies,method,1
+N1693,mendelian randomization studies,method,1
+N1694,meta-reviews,method,1
+N1695,anxiety and stress-related disorders,disease,1
+N1696,primary prevention,method,1
+N1697,clinical treatment,method,1
+N1698,common and severe mental illness,disease,1
+N1699,poor sleep,Health_factors,1
+N1700,non-pharmacological sleep-focused interventions,method,1
+N1701,neurobiological pathways,physiology,1
+N1702,standard relapse prevention,method,1
+N1703,substance abuse treatments,method,1
+N1704,aftercare interventions,method,1
+N1705,group-based psychosocial aftercare,method,1
+N1706,evidence-based practices,method,1
+N1707,mindfulness-based interventions,method,1
+N1708,cognitive-behavioral relapse prevention,method,1
+N1709,12-step programming,method,1
+N1710,tau aftercare,method,1
+N1711,continuing care,method,1
+N1712,ethnic / racial minority,Health_factors,1
+N1713,relapse to drug use,Health_factors,1
+N1714,urinalysis drug,drug,1
+N1715,alcohol screenings,method,1
+N1716,aftercare,method,1
+N1717,heavy drinking days,Health_factors,1
+N1718,targeted mindfulness practices,method,1
+N1719,discomfort,disease,1
+N1720,negative affect,physiology,1
+N1721,psychiatric care,method,1
+N1722,primary care settings,method,1
+N1723,psychiatric symptom,disease,1
+N1724,untreated depression,disease,1
+N1725,up-to-date guidance,method,1
+N1726,fear-promoting circuit,region,1
+N1727,extended amygdala,region,1
+N1728,5-hydroxytryptamine,drug,1
+N1729,neurotransmitter,drug,1
+N1730,emotion,physiology,1
+N1731,dorsal raphe nucleus,region,1
+N1732,5-htdrn,gene,1
+N1733,corticotropin-releasing factor,gene,1
+N1734,crf,gene,1
+N1735,bed nucleus of the stria terminalis,region,1
+N1736,crfbnst,region,1
+N1737,5-htdrn projections,physiology,1
+N1738,bnst,region,1
+N1739,5-ht2c receptors,gene,1
+N1740,5-ht2crs,gene,1
+N1741,crfbnst inhibitory microcircuit,gene,1
+N1742,anxiolytic bnst,physiology,1
+N1743,ventral tegmental area,region,1
+N1744,lateral hypothalamus,region,1
+N1745,crfbnst inhibitory circuit,region,1
+N1746,aversive behaviour,symptom,1
+N1747,selective serotonin reuptake inhibitors,drug,1
+N1748,ssris,drug,1
+N1749,corticotrophin-releasing factor type 1 receptor,gene,1
+N1750,crf1r,gene,1
+N1751,crhr1,gene,1
+N1752,crf1r antagonism,physiology,1
+N1753,5-htdrncrfbnst circuit,region,1
+N1754,clinical observation,method,1
+N1755,early adverse events,Health_factors,1
+N1756,ssri treatment,method,1
+N1757,cognitive-behavioral therapy,method,1
+N1758,older individuals,Health_factors,1
+N1759,neuropsychiatric symptoms,disease,1
+N1760,autoimmune response,physiology,1
+N1761,brain inflammation,disease,1
+N1762,positron emission tomography,method,1
+N1763,pet,method,1
+N1764,translocator protein,gene,1
+N1765,tspo,gene,1
+N1766,translocator protein density,signs,1
+N1767,microglia,region,1
+N1768,tspo distribution volume,signs,1
+N1769,vt,signs,1
+N1770,tspo,signs,1
+N1771,tspo density,signs,1
+N1772,dorsal caudate,region,1
+N1773,thalamus,region,1
+N1774,ventral striatum,region,1
+N1775,dorsal putamen,region,1
+N1776,gray matter,region,1
+N1777,gray matter regions,region,1
+N1778,distress,disease,1
+N1779,compulsive behaviors,disease,1
+N1780,autoimmune / neuroinflammatory theories,method,1
+N1781,twins,Health_factors,1
+N1782,genome-wide association studies,method,1
+N1783,genes cacna1c,gene,1
+N1784,cacna1c,gene,1
+N1785,odz4,gene,1
+N1786,ncan,gene,1
+N1787,polygenic risk,gene,1
+N1788,genomic structural variation,physiology,1
+N1789,aetiology,method,1
+N1790,clinical management,method,1
+N1791,shotgun metagenomics,method,1
+N1792,microbiota-gut-brain axis,region,1
+N1793,microbial tryptophan,drug,1
+N1794,trp,drug,1
+N1795,metabolism pathway,physiology,1
+N1796,mitbamp,physiology,1
+N1797,gut microbiota composition,physiology,1
+N1798,shotgun metagenomic sequencing,method,1
+N1799,stool,region,1
+N1800,microbiota community,Health_factors,1
+N1801,mitbamp analyses,method,1
+N1802,random forests,method,1
+N1803,rf,method,1
+N1804,boruta algorithm,method,1
+N1805,actinobacteria,disease,1
+N1806,bifidobacterium,drug,1
+N1807,probiotic,drug,1
+N1808,kyoto encyclopedia of genes,method,1
+N1809,kegg,gene,1
+N1810,kos,gene,1
+N1811,k01817,gene,1
+N1812,k11358,gene,1
+N1813,k01667,gene,1
+N1814,mitbamp,gene,1
+N1815,rf classification,method,1
+N1816,receiver operating characteristic curve,method,1
+N1817,trp pathway,physiology,1
+N1818,three-d study,method,1
+N1819,itbs,method,1
+N1820,angiotensin agents,drug,1
+N1821,enalapril,drug,1
+N1822,ramipril,drug,1
+N1823,calcium antagonists,drug,1
+N1824,amlodipine,drug,1
+N1825,verapamil,drug,1
+N1826,beta-blockers,drug,1
+N1827,propranolol,drug,1
+N1828,atenolol,drug,1
+N1829,bisoprolol,drug,1
+N1830,carvedilol,drug,1
+N1831,reboxetine,drug,1
+N1832,selective norepinephrine inhibitor,drug,1
+N1833,dynamic functional connectivity,physiology,1
+N1834,resting-state analysis,method,1
+N1835,psychiatric disorders,disease,1
+N1836,"damage to people's normal cognitive , emotional and social functions",physiology,1
+N1837,personality,symptom,1
+N1838,thinking,physiology,1
+N1839,behavior style,symptom,1
+N1840,dynamic neural mechanism,physiology,1
+N1841,brain connectivity pattern,physiology,1
+N1842,dynamic functional network connectivity,physiology,1
+N1843,dfnc,physiology,1
+N1844,fmri,method,1
+N1845,state-based dynamic measures,signs,1
+N1846,extraversion,symptom,1
+N1847,eysenck personality questionnaire,method,1
+N1848,epq,method,1
+N1849,low modularity,symptom,1
+N1850,sensory-related regions,region,1
+N1851,weak connections,physiology,1
+N1852,subcortical areas,region,1
+N1853,positive emotions,physiology,1
+N1854,dynamic functional connectivity mechanism,physiology,1
+N1855,logistic regression model,method,1
+N1856,antipsychotic,drug,1
+N1857,nationwide nested case-control study,method,1
+N1858,finnish nationwide registers,Health_factors,1
+N1859,hospital treatment,method,1
+N1860,prescription drug purchases,Health_factors,1
+N1861,nested case-control study,method,1
+N1862,organ transplant,method,1
+N1863,mastectomy,method,1
+N1864,hiv,disease,1
+N1865,prolactin-increasing drugs,drug,1
+N1866,conditional logistic regression,method,1
+N1867,comorbid conditions,disease,1
+N1868,adjusted odds ratio,method,1
+N1869,prolactin-sparing antipsychotics,drug,1
+N1870,lobular adenocarcinoma,disease,1
+N1871,ductal adenocarcinoma,disease,1
+N1872,prolactin-increasing,gene,1
+N1873,prolactinemia,disease,1
+N1874,hyperprolactinemia,disease,1
+N1875,finnish ministry of social affairs and health,Health_factors,1
+N1876,lifetime cannabis use,Health_factors,1
+N1877,genome-wide association summary statistics,method,1
+N1878,european ancestry,Health_factors,1
+N1879,psychiatric genomics consortium,method,1
+N1880,uk biobank,method,1
+N1881,international cannabis consortium,method,1
+N1882,polygenicity,physiology,1
+N1883,genome-wide,method,1
+N1884,causal analyses,method,1
+N1885,heritable,Health_factors,1
+N1886,polygenic,drug,1
+N1887,positive and negative local genetic correlations,physiology,1
+N1888,cannabis phenotype,Health_factors,1
+N1889,neuronal and olfactory cells,region,1
+N1890,drug-gene targets,physiology,1
+N1891,nicotine,drug,1
+N1892,duloxetine,drug,1
+N1893,lifetime cannabis,drug,1
+N1894,european,Health_factors,1
+N1895,polygenic risk score analyses,method,1
+N1896,cannabis phenotypes,drug,1
+N1897,polygenic score,signs,1
+N1898,us national institutes of health,Health_factors,1
+N1899,south-east regional health authority,Health_factors,1
+N1900,prognostic risk,Health_factors,1
+N1901,national institutes of health,Health_factors,1
+N1902,us veterans administration,Health_factors,1
+N1903,psychiatric,disease,1
+N1904,behavioural and physiological mechanisms,physiology,1
+N1905,early phase intervention development,method,1
+N1906,individual and environmental interventions,method,1
+N1907,cardiovascular disease events,disease,1
+N1908,geriatric depression,disease,1
+N1909,dysfunction of the limbic-hypothalamic-pituitary-adrenal axis,disease,1
+N1910,depressive illness,disease,1
+N1911,trazodone,drug,1
+N1912,anticholinergic side effects,physiology,1
+N1913,tricyclic antidepressants,drug,1
+N1914,antidepressant agomelatine,drug,1
+N1915,potent melatonin mt1 and mt2 receptor agonist,drug,1
+N1916,serotonin 5ht2c receptor antagonist,drug,1
+N1917,chronic epileptic phase,physiology,1
+N1918,inflammatory response,physiology,1
+N1919,"chronic , frequently disabling mental disorder",disease,1
+N1920,pharmacological treatments,method,1
+N1921,wellness randomized controlled trial,method,1
+N1922,survivorship education,method,1
+N1923,younger women,Health_factors,1
+N1924,pathways to wellness study,method,1
+N1925,"randomized , multi-institution , three-arm trial",method,1
+N1926,behavioral interventions,method,1
+N1927,breast cancer survivors,Health_factors,1
+N1928,mindful awareness practices,method,1
+N1929,survivorship education,Health_factors,1
+N1930,clincaltrials . gov,method,1
+N1931,wait-list control,method,1
+N1932,linear mixed models,method,1
+N1933,center for epidemiologic studies-depression scale,method,1
+N1934,virtual platforms,method,1
+N1935,survivorship,Health_factors,1
+N1936,beta-catenin,drug,1
+N1937,wnt signaling pathway,physiology,1
+N1938,global burden of diseases,method,1
+N1939,injuries,disease,1
+N1940,risk factors study,method,1
+N1941,autism spectrum disorders,disease,1
+N1942,conduct disorder,disease,1
+N1943,idiopathic developmental intellectual disability,disease,1
+N1944,disability-adjusted life-years,Health_factors,1
+N1945,years lived with disability,Health_factors,1
+N1946,years of life lost,Health_factors,1
+N1947,global health data exchange,method,1
+N1948,bayesian meta-regression analysis,method,1
+N1949,cause-specific deaths,disease,1
+N1950,mortality surveillance databases,method,1
+N1951,death ensemble modelling strategy,method,1
+N1952,years of life,Health_factors,1
+N1953,anorexia nervosa,disease,1
+N1954,bulimia nervosa,disease,1
+N1955,uncertainty interval,method,1
+N1956,age-standardised daly,Health_factors,1
+N1957,global ylds,Health_factors,1
+N1958,age-standardised daly,method,1
+N1959,fatal health outcomes,Health_factors,1
+N1960,gbd study,method,1
+N1961,treatment programmes,method,1
+N1962,global health community,Health_factors,1
+N1963,pediatric psychopharmacology anxiety study group,method,1
+N1964,serotonin reuptake,physiology,1
+N1965,mood and anxiety disorders,disease,1
+N1966,rating scales,method,1
+N1967,clinical global impressions-improvement scale,method,1
+N1968,rumination,physiology,1
+N1969,aberrant default-mode network,region,1
+N1970,childhood anxiety disorders,disease,1
+N1971,lifetime anxiety disorders,disease,1
+N1972,evidence-based psychological therapies,method,1
+N1973,affected children,Health_factors,1
+N1974,routine child mental health settings,Health_factors,1
+N1975,parent-delivered cognitive behavioural therapy,method,1
+N1976,national health service primary child,Health_factors,1
+N1977,mental health services,Health_factors,1
+N1978,anxiety difficulties,disease,1
+N1979,online minimisation tool,method,1
+N1980,parental anxiety,disease,1
+N1981,assessors,Health_factors,1
+N1982,research staff,Health_factors,1
+N1983,clinical staff,Health_factors,1
+N1984,clinical global impressions of improvement,method,1
+N1985,quality-adjusted life-years,Health_factors,1
+N1986,qalys,Health_factors,1
+N1987,cost-utility analysis,method,1
+N1988,child health utility 9d,method,1
+N1989,primary endpoint assessment,method,1
+N1990,economic,Health_factors,1
+N1991,qaly,Health_factors,1
+N1992,treatment-related or trial-related adverse events,Health_factors,1
+N1993,first-line treatment,method,1
+N1994,anxiety problems,disease,1
+N1995,rg mouse model,method,1
+N1996,tsc,gene,1
+N1997,fragile x syndrome,disease,1
+N1998,mutations in negative regulators of translation,physiology,1
+N1999,fxs model mice,method,1
+N2000,mouse model,method,1
+N2001,tsc2-gap mutations,gene,1
+N2002,mtorc1 and erk signaling pathways,physiology,1
+N2003,protein synthesis-dependent hippocampal synaptic plasticity,physiology,1
+N2004,dominant / negative tsc2,gene,1
+N2005,tsc1,gene,1
+N2006,deletion and substitution mutation,gene,1
+N2007,gap-domain,gene,1
+N2008,tsc model mice,method,1
+N2009,elevated s6 phosphorylation,physiology,1
+N2010,upregulated translation,physiology,1
+N2011,mek-erk inhibitor,drug,1
+N2012,u0126,drug,1
+N2013,aberrant tsc1 / 2-erk signaling,physiology,1
+N2014,terminally ill cancer,disease,1
+N2015,self-rated anxiety and depression,disease,1
+N2016,palliative cancer,disease,1
+N2017,objective prognostic factors,Health_factors,1
+N2018,pfs,Health_factors,1
+N2019,individual psychological coping,Health_factors,1
+N2020,institutional tumor board,method,1
+N2021,c,method,1
+N2022,palliative radiotherapy,method,1
+N2023,hospital anxiety and depression scale,method,1
+N2024,kappa statistic,method,1
+N2025,accuracy,method,1
+N2026,univariate analysis,method,1
+N2027,survival,Health_factors,1
+N2028,performance status,symptom,1
+N2029,primary cancer,disease,1
+N2030,brain metastases,disease,1
+N2031,leukocytosis,disease,1
+N2032,lactate dehydrogenase,gene,1
+N2033,ldh,gene,1
+N2034,multivariate analysis,method,1
+N2035,colorectal and breast cancer,disease,1
+N2036,prognosis,Health_factors,1
+N2037,brain metastases,drug,1
+N2038,analgesics,method,1
+N2039,ldh,disease,1
+N2040,leukocytosis,physiology,1
+N2041,pfs,method,1
+N2042,gdm,disease,1
+N2043,supportive interventions,method,1
+N2044,depressive mood state,disease,1
+N2045,prisma-p method,method,1
+N2046,scopus,method,1
+N2047,depress,disease,1
+N2048,bipolar,disease,1
+N2049,genetic *,gene,1
+N2050,biomark,signs,1
+N2051,gene,gene,1
+N2052,mirna,gene,1
+N2053,lcnrna,gene,1
+N2054,protein expressions,physiology,1
+N2055,methylation,physiology,1
+N2056,genetic analyses,method,1
+N2057,methodological care,method,1
+N2058,mood control,physiology,1
+N2059,brain ageing,Health_factors,1
+N2060,immune-inflammatory processes,physiology,1
+N2061,mitochondrial respiratory chain,physiology,1
+N2062,bdnf gene expression,physiology,1
+N2063,chronic corticosterone,drug,1
+N2064,isolation rearing,physiology,1
+N2065,ru-43044,drug,1
+N2066,antidepressant-like effect,physiology,1
+N2067,prefrontal dopaminergic neurotransmission,physiology,1
+N2068,mouse models,method,1
+N2069,endogenous regulators,physiology,1
+N2070,glycine,drug,1
+N2071,classical inhibitory neurotransmitter,drug,1
+N2072,glycinergic synapses,region,1
+N2073,neuronal excitation,physiology,1
+N2074,nmda,gene,1
+N2075,n-methyl-d-aspartate,gene,1
+N2076,glutamatergic synapses,region,1
+N2077,glyt2,gene,1
+N2078,central and peripheral nervous system disorders,disease,1
+N2079,related affective and cognitive disturbances,disease,1
+N2080,epilepsy,disease,1
+N2081,breathing disorders,disease,1
+N2082,startle disease,disease,1
+N2083,hyperekplexia,disease,1
+N2084,glyt1 and glyt2 inhibition,physiology,1
+N2085,biology,method,1
+N2086,glycine reuptake and transport,physiology,1
+N2087,compounds,drug,1
+N2088,treatment adherence,Health_factors,1
+N2089,remote collaborative care program,method,1
+N2090,technology-assisted interventions,method,1
+N2091,rural primary care teams,Health_factors,1

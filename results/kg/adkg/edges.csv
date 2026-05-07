@@ -1,0 +1,525 @@
+source_id,source_text_normalized,source_type,relation,target_id,target_text_normalized,target_type,edge_count
+N1,ad,disease,abbreviation_for,N2,alzheimer's disease,disease,47
+N8,mci,disease,abbreviation_for,N21,mild cognitive impairment,disease,6
+N3,abeta,gene,abbreviation_for,N22,amyloid-beta,gene,4
+N3,abeta,gene,abbreviation_for,N27,amyloid beta,gene,4
+N2,alzheimer's disease,disease,hyponym_of,N14,neurodegenerative disease,disease,3
+N2,alzheimer's disease,disease,hyponym_of,N4,dementia,disease,2
+N2,alzheimer's disease,disease,risk_factor_of,N4,dementia,disease,2
+N2,alzheimer's disease,disease,hyponym_of,N128,neurodegenerative disorder,disease,2
+N23,amci,disease,abbreviation_for,N205,amnestic mild cognitive impairment,disease,2
+N19,mmse,method,abbreviation_for,N210,mini-mental state examination,method,2
+N132,bmi,other,abbreviation_for,N122,body mass index,other,2
+N136,npi,method,abbreviation_for,N135,neuropsychiatric inventory,method,2
+N125,csf,other,abbreviation_for,N226,cerebrospinal fluid,other,2
+N2,alzheimer's disease,disease,hyponym_of,N12,neurodegenerative diseases,disease,2
+N237,cns,other,abbreviation_for,N143,central nervous system,other,2
+N15,load,disease,abbreviation_for,N246,late-onset ad,disease,2
+N9,apoe,gene,abbreviation_for,N80,apolipoprotein e,gene,2
+N254,popc,drug,abbreviation_for,N253,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,drug,2
+N2,alzheimer's disease,disease,hyponym_of,N256,neurological disorders,disease,2
+N31,stress-related disorders,disease,associated_with,N12,neurodegenerative diseases,disease,2
+N3,abeta,gene,abbreviation_for,N262,amyloid beta-protein,gene,2
+N759,amyloid imaging,method,help_diagnose,N1,ad,disease,2
+N67,tgfbeta,gene,abbreviation_for,N272,transforming growth factor-beta,gene,2
+N903,genetic network,method,help_diagnose,N2,alzheimer's disease,disease,2
+N175,kami guibi-tang,drug,treatment_for,N21,mild cognitive impairment,disease,2
+N1228,s4309,mutation,associated_with,N1,ad,disease,2
+N72,rs4343,mutation,associated_with,N1,ad,disease,2
+N367,alpha-amylase 1a,gene,associated_with,N368,memory performance,other,1
+N367,alpha-amylase 1a,gene,associated_with,N56,alzheimer's dementia,disease,1
+N370,alpha ( alpha ) - amylase gene,gene,associated_with,N122,body mass index,other,1
+N42,amy1a,gene,associated_with,N122,body mass index,other,1
+N42,amy1a,gene,abbreviation_for,N370,alpha ( alpha ) - amylase gene,gene,1
+N191,insulin resistance,disease,risk_factor_of,N56,alzheimer's dementia,disease,1
+N57,glucose,drug,risk_factor_of,N56,alzheimer's dementia,disease,1
+N1,ad,disease,abbreviation_for,N56,alzheimer's dementia,disease,1
+N192,amy1a,disease,associated_with,N1,ad,disease,1
+N194,moca,method,abbreviation_for,N193,montreal cognitive assessment,method,1
+N43,alpha-amylase,gene,associated_with,N42,amy1a,gene,1
+N42,amy1a,gene,associated_with,N373,decreased hazard ratio of ad,other,1
+N77,beta-secretase,gene,treatment_for,N2,alzheimer's disease,disease,1
+N44,bace1,gene,abbreviation_for,N77,beta-secretase,gene,1
+N393,deposition of the beta-amyloid peptide,other,risk_factor_of,N1,ad,disease,1
+N393,deposition of the beta-amyloid peptide,other,characteristic_of,N1,ad,disease,1
+N3,abeta,gene,abbreviation_for,N394,beta-amyloid peptide,gene,1
+N3,abeta,gene,abbreviation_for,N393,deposition of the beta-amyloid peptide,other,1
+N395,mds-oabeta,gene,abbreviation_for,N22,amyloid-beta,gene,1
+N399,sec,method,abbreviation_for,N398,size exclusion chromatography,method,1
+N403,apoe epsilon4 allele,gene,risk_factor_of,N404,sporadic alzheimer's disease,disease,1
+N79,coconut oil,drug,treatment_for,N2,alzheimer's disease,disease,1
+N409,mcfas,drug,abbreviation_for,N408,medium-chain fatty acids,drug,1
+N80,apolipoprotein e,gene,help_diagnose,N2,alzheimer's disease,disease,1
+N124,apoe4,gene,abbreviation_for,N423,apolipoprotein e4,gene,1
+N424,enhanced dementia,disease,associated_with,N2,alzheimer's disease,disease,1
+N124,apoe4,gene,associated_with,N1,ad,disease,1
+N125,csf,other,abbreviation_for,N426,cerebral spinal fluid,other,1
+N430,dti,method,abbreviation_for,N429,diffusion tensor imaging,method,1
+N126,ga,other,abbreviation_for,N437,golgi apparatus,other,1
+N202,phospho-tau,gene,associated_with,N126,ga,other,1
+N29,cathepsin d,gene,hyponym_of,N445,lysosomal enzyme,gene,1
+N457,hhc,other,abbreviation_for,N456,hca hospice care,other,1
+N459,emr,other,abbreviation_for,N458,electronic medical records,other,1
+N467,solanezumab,drug,hyponym_of,N3,abeta,gene,1
+N468,gantenerumab,drug,hyponym_of,N3,abeta,gene,1
+N469,crenezumab,drug,hyponym_of,N3,abeta,gene,1
+N470,aadvac1,gene,hyponym_of,N204,tau protein,gene,1
+N471,aci-35,gene,hyponym_of,N204,tau protein,gene,1
+N475,idalopirdine,drug,abbreviation_for,N474,5-ht6 antagonist,drug,1
+N46,apathy,disease,hyponym_of,N494,multidimensional syndrome,disease,1
+N495,c-reactive protein,gene,associated_with,N18,alzheimer disease,disease,1
+N496,crp,gene,abbreviation_for,N495,c-reactive protein,gene,1
+N497,crp,method,associated_with,N208,poststroke apathy,disease,1
+N131,psa,disease,abbreviation_for,N208,poststroke apathy,disease,1
+N499,aes-c,method,abbreviation_for,N498,apathy evaluation scale-clinical,method,1
+N501,nihss,method,abbreviation_for,N500,national institutes of health stroke scale,method,1
+N502,bi,method,abbreviation_for,N209,barthel index,method,1
+N504,hamd,method,abbreviation_for,N503,hamilton depression scale,method,1
+N506,hama,method,abbreviation_for,N505,hamilton anxiety scale,method,1
+N46,apathy,disease,associated_with,N508,nihss,disease,1
+N46,apathy,disease,associated_with,N509,bi,other,1
+N46,apathy,disease,associated_with,N19,mmse,method,1
+N46,apathy,disease,associated_with,N212,hamd,disease,1
+N46,apathy,disease,associated_with,N213,crp,disease,1
+N46,apathy,disease,associated_with,N122,body mass index,other,1
+N131,psa,disease,associated_with,N510,crp concentrations,other,1
+N213,crp,disease,associated_with,N46,apathy,disease,1
+N132,bmi,other,associated_with,N46,apathy,disease,1
+N512,mmse,other,associated_with,N46,apathy,disease,1
+N13,depression,disease,associated_with,N46,apathy,disease,1
+N214,disability,disease,associated_with,N46,apathy,disease,1
+N46,apathy,disease,risk_factor_of,N131,psa,disease,1
+N514,immunotherapy targeting abeta42,method,treatment_for,N2,alzheimer's disease,disease,1
+N85,24b3,drug,treatment_for,N133,memory deficit,disease,1
+N216,nasa-tlx,method,abbreviation_for,N517,national aeronautics and space administration task load index,method,1
+N519,ica,other,abbreviation_for,N518,index of cognitive activity,method,1
+N521,erps,other,abbreviation_for,N520,event-related potentials,other,1
+N523,icc,other,abbreviation_for,N522,intraclass correlation coefficients,other,1
+N218,sarcopenia,disease,hyponym_of,N525,age-related loss of skeletal muscle mass,disease,1
+N527,skeletal muscle loss,disease,risk_factor_of,N528,hyperglycemia,disease,1
+N527,skeletal muscle loss,disease,risk_factor_of,N191,insulin resistance,disease,1
+N531,insulin-like growth factor,gene,associated_with,N535,poor cognitive performance,other,1
+N532,igf-1,gene,abbreviation_for,N531,insulin-like growth factor,gene,1
+N533,insulin receptor substrate,other,associated_with,N535,poor cognitive performance,other,1
+N534,irs-1,other,abbreviation_for,N533,insulin receptor substrate,other,1
+N13,depression,disease,hyponym_of,N537,psychiatric symptom,disease,1
+N13,depression,disease,characteristic_of,N2,alzheimer's disease,disease,1
+N13,depression,disease,risk_factor_of,N16,cognitive decline,disease,1
+N1,ad,disease,risk_factor_of,N16,cognitive decline,disease,1
+N539,hamd-17,method,abbreviation_for,N538,hamilton depression rating scale,method,1
+N137,nd-ad,disease,abbreviation_for,N540,non-depressed ad,disease,1
+N543,acg,other,abbreviation_for,N542,anterior cingulate gyrus,other,1
+N15,load,disease,abbreviation_for,N220,late-onset alzheimer's disease,disease,1
+N551,proactive semantic interference deficits,disease,associated_with,N552,functional magnetic resonance imaging,method,1
+N123,fmri,method,abbreviation_for,N552,functional magnetic resonance imaging,method,1
+N86,o-load,disease,abbreviation_for,N15,load,disease,1
+N553,cs,disease,abbreviation_for,N24,neurodegenerative disorders,disease,1
+N554,lassi-l,method,help_diagnose,N24,neurodegenerative disorders,disease,1
+N559,limbic circuit dysfunction,disease,characteristic_of,N15,load,disease,1
+N222,metabolomics,method,help_diagnose,N2,alzheimer's disease,disease,1
+N223,oa,disease,abbreviation_for,N87,osteoarthritis,disease,1
+N223,oa,disease,risk_factor_of,N4,dementia,disease,1
+N87,osteoarthritis,disease,associated_with,N4,dementia,disease,1
+N11,bvftd,disease,abbreviation_for,N574,behavioral variant frontotemporal dementia,disease,1
+N577,discriminability,other,associated_with,N578,language,other,1
+N36,echinacoside,drug,treatment_for,N47,memory impairment,disease,1
+N36,echinacoside,drug,treatment_for,N579,cholinergic deficit,disease,1
+N36,echinacoside,drug,hyponym_of,N580,phenylethanoid glycoside,drug,1
+N36,echinacoside,drug,treatment_for,N45,cognitive deficits,disease,1
+N36,echinacoside,drug,treatment_for,N585,amyloid deposition,disease,1
+N36,echinacoside,drug,treatment_for,N586,cortical cholinergic dysfunction,disease,1
+N61,abeta 1-42,gene,risk_factor_of,N586,cortical cholinergic dysfunction,disease,1
+N36,echinacoside,drug,treatment_for,N63,cognitive dysfunction,disease,1
+N36,echinacoside,drug,treatment_for,N588,amyloid neurotoxicity,disease,1
+N61,abeta 1-42,gene,risk_factor_of,N63,cognitive dysfunction,disease,1
+N589,structural neuroimaging,method,help_diagnose,N590,cerebral atrophy,disease,1
+N591,functional imaging,method,help_diagnose,N30,neurodegeneration,disease,1
+N591,functional imaging,method,help_diagnose,N4,dementia,disease,1
+N227,amyloid beta1-42,gene,help_diagnose,N1,ad,disease,1
+N593,csf total-tau,gene,help_diagnose,N1,ad,disease,1
+N202,phospho-tau,gene,help_diagnose,N1,ad,disease,1
+N5,tau,gene,associated_with,N230,tip5,gene,1
+N5,tau,gene,associated_with,N598,ribosomal,gene,1
+N89,rdna,gene,abbreviation_for,N598,ribosomal,gene,1
+N89,rdna,gene,abbreviation_for,N599,ribosomal dna,gene,1
+N5,tau,gene,associated_with,N231,heterochromatin,gene,1
+N5,tau,gene,associated_with,N600,dna,gene,1
+N5,tau,gene,associated_with,N601,dna methylation,other,1
+N89,rdna,gene,associated_with,N601,dna methylation,other,1
+N5,tau,gene,associated_with,N89,rdna,gene,1
+N141,glutamate,drug,associated_with,N5,tau,gene,1
+N141,glutamate,drug,risk_factor_of,N602,nucleolar stress,disease,1
+N602,nucleolar stress,disease,associated_with,N5,tau,gene,1
+N603,thr231,gene,abbreviation_for,N5,tau,gene,1
+N233,soluble phospho-tau,gene,risk_factor_of,N234,microglial degeneration,disease,1
+N608,accumulation of intraneuronal soluble phospho-tau,other,risk_factor_of,N234,microglial degeneration,disease,1
+N609,multi-target-directed ligands,method,treatment_for,N2,alzheimer's disease,disease,1
+N235,memory loss,disease,characteristic_of,N2,alzheimer's disease,disease,1
+N6,cognitive impairment,disease,characteristic_of,N2,alzheimer's disease,disease,1
+N4,dementia,disease,characteristic_of,N2,alzheimer's disease,disease,1
+N236,nmda,drug,abbreviation_for,N614,n-methyl-daspartate,drug,1
+N617,loss of cholinergic transmission,other,risk_factor_of,N1,ad,disease,1
+N238,tacrine-based,drug,treatment_for,N2,alzheimer's disease,disease,1
+N129,cholinesterase inhibitors,drug,treatment_for,N2,alzheimer's disease,disease,1
+N622,nd,disease,abbreviation_for,N14,neurodegenerative disease,disease,1
+N90,alpha-synuclein,gene,hyponym_of,N625,nd-causing proteins,gene,1
+N239,tdp-43,gene,hyponym_of,N625,nd-causing proteins,gene,1
+N240,atxn1,gene,hyponym_of,N625,nd-causing proteins,gene,1
+N12,neurodegenerative diseases,disease,risk_factor_of,N145,inflammation,disease,1
+N12,neurodegenerative diseases,disease,risk_factor_of,N631,impairments in cognition,disease,1
+N65,amd,disease,abbreviation_for,N632,age-related macular degeneration,disease,1
+N3,abeta,gene,abbreviation_for,N633,amyloid beta-peptide,gene,1
+N636,erg,gene,abbreviation_for,N635,functional deficiencies,disease,1
+N638,prc,other,abbreviation_for,N637,photoreceptor cell,other,1
+N640,npd1,gene,abbreviation_for,N639,neuroprotectin d1,gene,1
+N641,elvs,drug,abbreviation_for,N242,elovanoids,drug,1
+N146,rpe,gene,abbreviation_for,N642,retinal pigment epithelium,other,1
+N92,oabeta,gene,abbreviation_for,N59,beta-amyloid,gene,1
+N245,pd,disease,abbreviation_for,N82,parkinson's disease,disease,1
+N247,snps,mutation,abbreviation_for,N649,single-nucleotide polymorphisms,mutation,1
+N653,rs17649553,mutation,associated_with,N654,mapt,gene,1
+N657,rs356182,mutation,associated_with,N658,snca,gene,1
+N95,rs76904798,mutation,associated_with,N147,lrrk2,gene,1
+N147,lrrk2,gene,associated_with,N661,rs823118,mutation,1
+N661,rs823118,mutation,associated_with,N662,rab7l1-nucks1,gene,1
+N95,rs76904798,mutation,risk_factor_of,N15,load,disease,1
+N149,functional decline,disease,associated_with,N670,brain pathology,disease,1
+N4,dementia,disease,associated_with,N670,brain pathology,disease,1
+N672,ages,gene,abbreviation_for,N671,advanced glycation end-products,gene,1
+N676,age-levels,other,associated_with,N248,mobility,other,1
+N676,age-levels,other,associated_with,N678,adl,disease,1
+N676,age-levels,other,associated_with,N677,timed up and go,other,1
+N248,mobility,other,associated_with,N678,adl,disease,1
+N677,timed up and go,other,hyponym_of,N248,mobility,other,1
+N677,timed up and go,other,associated_with,N678,adl,disease,1
+N679,groningen activity restriction scale,method,help_diagnose,N678,adl,disease,1
+N96,age,gene,associated_with,N248,mobility,other,1
+N248,mobility,other,associated_with,N96,age,gene,1
+N96,age,gene,risk_factor_of,N680,impaired mobility,disease,1
+N682,physical activity programs,method,treatment_for,N149,functional decline,disease,1
+N687,short-term exposure to dim light at night,other,risk_factor_of,N30,neurodegeneration,disease,1
+N693,fly model,method,treatment_for,N98,tauopathy,disease,1
+N695,idiopathic normal pressure hydrocephalus,disease,hyponym_of,N696,neurological disorder,disease,1
+N49,inph,disease,abbreviation_for,N695,idiopathic normal pressure hydrocephalus,disease,1
+N702,42-mer amyloid-beta protein,gene,risk_factor_of,N703,synaptic dysfunction,disease,1
+N7,abeta42,gene,abbreviation_for,N702,42-mer amyloid-beta protein,gene,1
+N703,synaptic dysfunction,disease,characteristic_of,N2,alzheimer's disease,disease,1
+N7,abeta42,gene,associated_with,N704,oligomers,gene,1
+N251,uncaria rhynchophylla,drug,treatment_for,N1,ad,disease,1
+N251,uncaria rhynchophylla,drug,hyponym_of,N706,kampo medicine,drug,1
+N705,yokukansan,drug,treatment_for,N1,ad,disease,1
+N82,parkinson's disease,disease,hyponym_of,N256,neurological disorders,disease,1
+N714,huntington disease,disease,hyponym_of,N256,neurological disorders,disease,1
+N3,abeta,gene,abbreviation_for,N715,beta amyloid,gene,1
+N718,posttraumatic stress disorder,disease,associated_with,N4,dementia,disease,1
+N257,ptsd,disease,abbreviation_for,N718,posttraumatic stress disorder,disease,1
+N257,ptsd,disease,abbreviation_for,N31,stress-related disorders,disease,1
+N719,acute stress reaction,disease,hyponym_of,N31,stress-related disorders,disease,1
+N720,adjustment disorder,disease,hyponym_of,N31,stress-related disorders,disease,1
+N725,aging,other,risk_factor_of,N24,neurodegenerative disorders,disease,1
+N725,aging,other,risk_factor_of,N726,neuropathological aging,disease,1
+N727,lf,drug,abbreviation_for,N260,lipofuscin,drug,1
+N730,lf,other,risk_factor_of,N24,neurodegenerative disorders,disease,1
+N733,nc,other,abbreviation_for,N732,normal cognition,other,1
+N737,roc,method,abbreviation_for,N736,receiver operating characteristic,method,1
+N261,olfactory function tests,method,help_diagnose,N16,cognitive decline,disease,1
+N743,ga,drug,abbreviation_for,N742,glatiramer acetate,drug,1
+N264,od,disease,abbreviation_for,N747,oculus dexter,disease,1
+N3,abeta,gene,abbreviation_for,N753,- beta,gene,1
+N3,abeta,gene,abbreviation_for,N752,amyloid - beta,gene,1
+N100,tle,disease,abbreviation_for,N760,temporal lobe epilepsy,disease,1
+N23,amci,disease,abbreviation_for,N6,cognitive impairment,disease,1
+N23,amci,disease,hyponym_of,N6,cognitive impairment,disease,1
+N762,actuarial neuropsychological method,method,help_diagnose,N8,mci,disease,1
+N762,actuarial neuropsychological method,method,help_diagnose,N100,tle,disease,1
+N6,cognitive impairment,disease,characteristic_of,N266,epilepsy,disease,1
+N27,amyloid beta,gene,associated_with,N2,alzheimer's disease,disease,1
+N772,dmpc,drug,abbreviation_for,N771,"lipid 1 , 2-dimyristoyl-sn-glycero-3-phosphocholine",drug,1
+N774,beta-d-glucoside,drug,hyponym_of,N38,cholesterol,drug,1
+N775,beta-cg,drug,abbreviation_for,N774,beta-d-glucoside,drug,1
+N775,beta-cg,drug,abbreviation_for,N773,cholesterol beta-d-glucoside,drug,1
+N780,adversity,other,associated_with,N781,late-life dementia,disease,1
+N782,childhood trauma questionnaire,method,help_diagnose,N18,alzheimer disease,disease,1
+N783,ctq,method,abbreviation_for,N782,childhood trauma questionnaire,method,1
+N785,childhood stress,other,associated_with,N4,dementia,disease,1
+N785,childhood stress,other,associated_with,N786,emotional health,other,1
+N788,hrqol,other,abbreviation_for,N787,health-related quality of life,other,1
+N268,gds,method,abbreviation_for,N791,geriatric depression scale,method,1
+N269,adcs-adl,method,abbreviation_for,N792,alzheimer's disease cooperative study-activities of daily living scale,method,1
+N268,gds,method,abbreviation_for,N793,depressive symptoms,disease,1
+N270,interleukin17a,gene,treatment_for,N271,postoperative cognitive dysfunction,disease,1
+N102,pocd,disease,abbreviation_for,N271,postoperative cognitive dysfunction,disease,1
+N155,il17a,gene,abbreviation_for,N270,interleukin17a,gene,1
+N25,abeta1-42,gene,abbreviation_for,N798,beta-amyloid1-42,gene,1
+N800,smad3,gene,abbreviation_for,N799,decapentaplegic peptide 3,gene,1
+N807,neuropsychiatric inventory-clinician,method,help_diagnose,N4,dementia,disease,1
+N103,npi-c,method,abbreviation_for,N807,neuropsychiatric inventory-clinician,method,1
+N808,turkish version of the npi-c scale,method,help_diagnose,N18,alzheimer disease,disease,1
+N1,ad,disease,abbreviation_for,N18,alzheimer disease,disease,1
+N19,mmse,method,abbreviation_for,N811,mini mental state examination,method,1
+N273,iadl,other,abbreviation_for,N812,instrumental activities of daily living,other,1
+N814,dad,method,abbreviation_for,N813,disability assessment of dementia,method,1
+N19,mmse,method,associated_with,N66,anxiety,disease,1
+N103,npi-c,method,associated_with,N815,iadl,method,1
+N821,gwas,method,abbreviation_for,N820,genome-wide association studies,method,1
+N247,snps,mutation,abbreviation_for,N822,single nucleotide polymorphisms,other,1
+N39,l-norvaline,drug,treatment_for,N2,alzheimer's disease,disease,1
+N156,arginase,gene,risk_factor_of,N30,neurodegeneration,disease,1
+N39,l-norvaline,drug,hyponym_of,N834,arginase inhibitor,drug,1
+N39,l-norvaline,drug,treatment_for,N16,cognitive decline,disease,1
+N838,l-norvaline treatment,method,treatment_for,N16,cognitive decline,disease,1
+N39,l-norvaline,drug,treatment_for,N1,ad,disease,1
+N39,l-norvaline,drug,treatment_for,N24,neurodegenerative disorders,disease,1
+N22,amyloid-beta,gene,characteristic_of,N2,alzheimer's disease,disease,1
+N105,cpla2,gene,abbreviation_for,N847,cytoplasmic phospholipase a2,gene,1
+N158,prpc,gene,abbreviation_for,N848,cellular prion proteins,gene,1
+N105,cpla2,gene,risk_factor_of,N849,synapse degeneration,disease,1
+N3,abeta,gene,risk_factor_of,N278,synapse damage,disease,1
+N10,insulin,gene,treatment_for,N106,alzheimer's,disease,1
+N34,acetylcholine,drug,hyponym_of,N854,neurotransmitters,drug,1
+N855,monoamines,drug,hyponym_of,N854,neurotransmitters,drug,1
+N867,cardiovascular disease,disease,hyponym_of,N866,ageing-associated chronic disorders,disease,1
+N868,type ii diabetes,disease,hyponym_of,N866,ageing-associated chronic disorders,disease,1
+N869,osteoporosis,disease,hyponym_of,N866,ageing-associated chronic disorders,disease,1
+N2,alzheimer's disease,disease,hyponym_of,N866,ageing-associated chronic disorders,disease,1
+N282,nicotinic acetylcholine receptors,gene,treatment_target_for,N63,cognitive dysfunction,disease,1
+N283,nachrs,gene,abbreviation_for,N282,nicotinic acetylcholine receptors,gene,1
+N50,adas-cog,method,abbreviation_for,N882,alzheimer's disease assessment scale - cognitive subscale,method,1
+N108,cdr-sb,method,abbreviation_for,N884,clinical dementia rating - sum of boxes,method,1
+N885,alzheimer's disease assessment scale's cognitive subscale,method,help_diagnose,N2,alzheimer's disease,disease,1
+N50,adas-cog,method,abbreviation_for,N885,alzheimer's disease assessment scale's cognitive subscale,method,1
+N108,cdr-sb,method,abbreviation_for,N887,clinical dementia rating-sum of boxes,method,1
+N90,alpha-synuclein,gene,hyponym_of,N285,proteopathic lesions,disease,1
+N5,tau,gene,hyponym_of,N285,proteopathic lesions,disease,1
+N3,abeta,gene,hyponym_of,N285,proteopathic lesions,disease,1
+N40,nfl,gene,abbreviation_for,N284,neurofilament light chain,gene,1
+N894,rnfl,other,abbreviation_for,N893,peripapillary retinal nerve fiber layer,other,1
+N289,poag,disease,abbreviation_for,N287,primary open-angle glaucoma,disease,1
+N162,ppg,disease,abbreviation_for,N288,preperimetric glaucoma,disease,1
+N896,sd-oct,method,abbreviation_for,N895,spectral domain optical coherence tomography,method,1
+N901,ggi,other,abbreviation_for,N900,gene-gene interaction,other,1
+N292,ggis,method,help_diagnose,N2,alzheimer's disease,disease,1
+N910,hyperexcitability of neuronal networks,other,risk_factor_of,N290,neuronal damage,disease,1
+N141,glutamate,drug,risk_factor_of,N290,neuronal damage,disease,1
+N35,stroke,disease,hyponym_of,N912,neurological conditions,disease,1
+N2,alzheimer's disease,disease,hyponym_of,N24,neurodegenerative disorders,disease,1
+N914,cell-based assay,method,help_diagnose,N51,excitotoxicity,disease,1
+N922,py18,drug,abbreviation_for,N921,tyrosine 18,drug,1
+N926,py18-tau,gene,treatment_for,N51,excitotoxicity,disease,1
+N166,cholinesterase,gene,treatment_for,N2,alzheimer's disease,disease,1
+N299,bche,gene,abbreviation_for,N298,butyrylcholinesterase,gene,1
+N941,anti-bche,gene,abbreviation_for,N940,pulegone,drug,1
+N2,alzheimer's disease,disease,hyponym_of,N960,morbidity-leading disorders,disease,1
+N1,ad,disease,associated_with,N206,comorbidities,disease,1
+N961,diabetes mellitus,disease,hyponym_of,N206,comorbidities,disease,1
+N962,obesity,disease,hyponym_of,N206,comorbidities,disease,1
+N963,dyslipidemia,disease,hyponym_of,N206,comorbidities,disease,1
+N967,glcnac,drug,abbreviation_for,N966,n-acetylglucosamine,drug,1
+N968,n-acetylglucosaminyltransferase iii,gene,hyponym_of,N969,glycosyltransferase,gene,1
+N32,gnt-iii,gene,abbreviation_for,N968,n-acetylglucosaminyltransferase iii,gene,1
+N971,glp-1,gene,abbreviation_for,N970,glucagon-like peptide-1,gene,1
+N972,exendin-4,gene,treatment_for,N279,memory deficits,disease,1
+N68,glp-1ra,gene,abbreviation_for,N974,glp-1 receptor agonists,drug,1
+N68,glp-1ra,gene,hyponym_of,N974,glp-1 receptor agonists,drug,1
+N976,ser9,gene,abbreviation_for,N169,gsk-3beta,gene,1
+N979,smc,disease,abbreviation_for,N301,subjective memory complaints,disease,1
+N983,pss,method,abbreviation_for,N982,psychosocial stimulation intervention,method,1
+N987,cmt,other,abbreviation_for,N986,charcot-marie-tooth,other,1
+N989,ar,other,abbreviation_for,N988,autosomal-recessive,other,1
+N992,mme,gene,abbreviation_for,N991,membrane metalloendopeptidase,gene,1
+N308,neprilysin,gene,hyponym_of,N59,beta-amyloid,gene,1
+N994,nep,gene,abbreviation_for,N308,neprilysin,gene,1
+N3,abeta,gene,abbreviation_for,N59,beta-amyloid,gene,1
+N1005,netpage,method,abbreviation_for,N1004,network propagation-based assessment of genetic events,method,1
+N1008,adni,method,abbreviation_for,N1007,ad neuroimaging initiative,method,1
+N1010,adsp,method,abbreviation_for,N1009,ad sequencing project,method,1
+N1015,illiteracy,disease,risk_factor_of,N1016,alzheimer's disease dementia,disease,1
+N172,apoe-epsilon4,gene,risk_factor_of,N1016,alzheimer's disease dementia,disease,1
+N1,ad,disease,abbreviation_for,N1016,alzheimer's disease dementia,disease,1
+N309,chd,disease,abbreviation_for,N1017,coronary heart disease,disease,1
+N1019,cdr-sob,method,abbreviation_for,N1018,clinical dementia rating sum-of-boxes,method,1
+N1021,adl,other,abbreviation_for,N1020,index of independence in activities of daily living,other,1
+N273,iadl,other,abbreviation_for,N1022,lawton's scale for instrumental activities of daily living,other,1
+N1025,protein-induced pluripotent stem cells,other,treatment_for,N63,cognitive dysfunction,disease,1
+N1028,ipscs,other,abbreviation_for,N1027,induced pluripotent stem cells,other,1
+N1030,transplanted protein-ipscs,other,treatment_for,N63,cognitive dysfunction,disease,1
+N1031,protein-ipscs,method,treatment_for,N1,ad,disease,1
+N18,alzheimer disease,disease,hyponym_of,N4,dementia,disease,1
+N1044,lps,gene,abbreviation_for,N1043,lipopolysaccharide,gene,1
+N69,curcumin,drug,treatment_for,N2,alzheimer's disease,disease,1
+N1064,chelation therapy,method,treatment_for,N2,alzheimer's disease,disease,1
+N1065,major surgery,disease,associated_with,N1066,perioperative neurocognitive disorders,disease,1
+N1067,pnd,disease,abbreviation_for,N1066,perioperative neurocognitive disorders,disease,1
+N2,alzheimer's disease,disease,risk_factor_of,N314,cognitive deterioration,disease,1
+N22,amyloid-beta,gene,associated_with,N1069,postoperative impairment,disease,1
+N1077,can,gene,abbreviation_for,N1076,calcineurin,drug,1
+N1078,neurogranin,gene,associated_with,N13,depression,disease,1
+N1078,neurogranin,gene,hyponym_of,N1079,calmodulin binding protein,gene,1
+N1081,mglur,gene,abbreviation_for,N1080,regulating glutamate receptors,gene,1
+N1082,nmdar,gene,abbreviation_for,N1080,regulating glutamate receptors,gene,1
+N70,calmodulin,drug,associated_with,N1085,stromal interaction molecule 2,gene,1
+N1086,stim2,gene,abbreviation_for,N1085,stromal interaction molecule 2,gene,1
+N64,galantamine,drug,abbreviation_for,N1107,nicotinic receptor-cholinesterase inhibitor,drug,1
+N173,rs-67333,drug,hyponym_of,N1108,5-ht4 receptor agonist,drug,1
+N174,5-ht4r,gene,abbreviation_for,N1110,type 4 serotonin receptor,gene,1
+N23,amci,disease,abbreviation_for,N318,amnestic mci,disease,1
+N175,kami guibi-tang,drug,treatment_for,N1115,amnesia,disease,1
+N175,kami guibi-tang,drug,treatment_for,N319,insomnia,disease,1
+N175,kami guibi-tang,drug,treatment_for,N13,depression,disease,1
+N175,kami guibi-tang,drug,hyponym_of,N1114,herbal drug,drug,1
+N175,kami guibi-tang,drug,treatment_for,N1116,loss of appetite,disease,1
+N1113,kgt,drug,abbreviation_for,N175,kami guibi-tang,drug,1
+N1114,herbal drug,drug,treatment_for,N1115,amnesia,disease,1
+N1114,herbal drug,drug,treatment_for,N319,insomnia,disease,1
+N1114,herbal drug,drug,treatment_for,N13,depression,disease,1
+N1118,snsb,method,abbreviation_for,N1117,seoul neuropsychological screening battery,method,1
+N153,mri,method,abbreviation_for,N211,magnetic resonance imaging,method,1
+N175,kami guibi-tang,drug,treatment_for,N320,amnestic,disease,1
+N176,kgt,method,treatment_for,N8,mci,disease,1
+N321,npss,disease,abbreviation_for,N200,neuropsychiatric symptoms,disease,1
+N1121,citalopram,drug,treatment_for,N322,agitation,disease,1
+N45,cognitive deficits,disease,associated_with,N12,neurodegenerative diseases,disease,1
+N221,cognitive tests,method,help_diagnose,N106,alzheimer's,disease,1
+N1124,mtor,drug,abbreviation_for,N1123,rapamycin,drug,1
+N177,gpcrs,gene,abbreviation_for,N1125,g-protein-coupled receptors,gene,1
+N1127,pi3k,gene,abbreviation_for,N1126,"phosphatidylinositol-4 , 5-bisphosphate 3-kinase",gene,1
+N1129,map,gene,abbreviation_for,N1128,mitogen-activated protein,gene,1
+N177,gpcrs,gene,treatment_target_for,N24,neurodegenerative disorders,disease,1
+N177,gpcrs,gene,treatment_target_for,N2,alzheimer's disease,disease,1
+N28,aak1,gene,abbreviation_for,N1132,adaptor-associated kinase 1,gene,1
+N179,ap-2,gene,abbreviation_for,N1133,adaptor protein complex 2,gene,1
+N28,aak1,gene,associated_with,N207,decline in cognition,disease,1
+N28,aak1,gene,help_diagnose,N2,alzheimer's disease,disease,1
+N80,apolipoprotein e,gene,risk_factor_of,N2,alzheimer's disease,disease,1
+N148,apoe epsilon4,gene,abbreviation_for,N80,apolipoprotein e,gene,1
+N148,apoe epsilon4,gene,risk_factor_of,N2,alzheimer's disease,disease,1
+N1139,heterozygote,gene,risk_factor_of,N4,dementia,disease,1
+N1140,homozygote,gene,risk_factor_of,N4,dementia,disease,1
+N148,apoe epsilon4,gene,risk_factor_of,N4,dementia,disease,1
+N84,donepezil,drug,hyponym_of,N1142,cholinesterase inhibitor,drug,1
+N84,donepezil,drug,treatment_for,N2,alzheimer's disease,disease,1
+N1142,cholinesterase inhibitor,drug,treatment_for,N2,alzheimer's disease,disease,1
+N1143,cholinergic activity,other,associated_with,N1144,adverse effects,other,1
+N1146,nausea,disease,hyponym_of,N1145,gastrointestinal symptoms,disease,1
+N1147,vomiting,disease,hyponym_of,N1145,gastrointestinal symptoms,disease,1
+N1148,diarrhea,disease,hyponym_of,N1145,gastrointestinal symptoms,disease,1
+N84,donepezil,drug,treatment_for,N6,cognitive impairment,disease,1
+N1150,e'jiao,drug,abbreviation_for,N325,colla corii asini,gene,1
+N1152,deposition of amyloid beta,other,characteristic_of,N2,alzheimer's disease,disease,1
+N1153,deposition of amyloid beta ( abeta ),other,characteristic_of,N2,alzheimer's disease,disease,1
+N27,amyloid beta,gene,characteristic_of,N2,alzheimer's disease,disease,1
+N1154,oxidative stress,disease,characteristic_of,N2,alzheimer's disease,disease,1
+N145,inflammation,disease,characteristic_of,N2,alzheimer's disease,disease,1
+N1155,dysfunction,disease,characteristic_of,N2,alzheimer's disease,disease,1
+N1156,loss of cholinergic neurons,disease,characteristic_of,N2,alzheimer's disease,disease,1
+N1157,colla corii asini,drug,treatment_for,N1158,feebleness-related diseases,disease,1
+N111,cca,disease,abbreviation_for,N1157,colla corii asini,drug,1
+N326,ccad,gene,abbreviation_for,N325,colla corii asini,gene,1
+N1160,orac,other,abbreviation_for,N1159,oxygen radical absorbance capacity,other,1
+N1166,fgd,other,abbreviation_for,N1165,cold water fish skin,other,1
+N1168,h2o2,drug,abbreviation_for,N1167,hydrogen peroxide,drug,1
+N20,ache,gene,abbreviation_for,N62,acetylcholinesterase,gene,1
+N1174,cca,method,treatment_for,N2,alzheimer's disease,disease,1
+N2,alzheimer's disease,disease,hyponym_of,N1176,neurological dementias,disease,1
+N327,lewy body dementia,disease,hyponym_of,N1176,neurological dementias,disease,1
+N182,alphasyn,gene,abbreviation_for,N90,alpha-synuclein,gene,1
+N112,sme,method,abbreviation_for,N1177,spearmint extract,drug,1
+N1179,ra,drug,abbreviation_for,N1178,rosmarinic acid,drug,1
+N1181,tem,method,abbreviation_for,N1180,transmission electron microscopy,method,1
+N26,tacrine,drug,treatment_for,N1184,infected wounds,disease,1
+N1183,antibacterial drugs,drug,treatment_for,N1184,infected wounds,disease,1
+N26,tacrine,drug,hyponym_of,N62,acetylcholinesterase,gene,1
+N26,tacrine,drug,treatment_for,N1189,anticholinergic syndrome,disease,1
+N26,tacrine,drug,treatment_for,N1188,acute anticholinergic syndrome,disease,1
+N1193,rnp,gene,abbreviation_for,N1192,ribonucleoprotein,gene,1
+N150,amyotrophic lateral sclerosis,disease,hyponym_of,N165,neurological diseases,disease,1
+N330,als,disease,abbreviation_for,N150,amyotrophic lateral sclerosis,disease,1
+N140,frontotemporal dementia,disease,hyponym_of,N12,neurodegenerative diseases,disease,1
+N18,alzheimer disease,disease,hyponym_of,N12,neurodegenerative diseases,disease,1
+N1195,ecog,other,abbreviation_for,N1194,everyday cognition,other,1
+N1197,adas13,method,abbreviation_for,N1196,alzheimer's disease assessment scale 13-item cognitive subscale,method,1
+N332,lme,method,abbreviation_for,N1198,random forest and linear mixed effects,method,1
+N183,emvi,gene,associated_with,N183,emvi,gene,1
+N1203,epps,drug,abbreviation_for,N1202,4 - ( 2-hydroxyethyl ) - 1-piperazinepropanesulfonic acid,drug,1
+N11,bvftd,disease,abbreviation_for,N140,frontotemporal dementia,disease,1
+N19,mmse,method,abbreviation_for,N1208,mini-mental state exam,method,1
+N1211,pbm,method,abbreviation_for,N1209,near-infrared photobiomodulation,method,1
+N1212,dysregulation of the brain's default mode network,disease,associated_with,N1,ad,disease,1
+N1213,dmn,disease,abbreviation_for,N1212,dysregulation of the brain's default mode network,disease,1
+N50,adas-cog,method,abbreviation_for,N1214,alzheimer's disease assessment scale,method,1
+N17,memantine,drug,treatment_for,N6,cognitive impairment,disease,1
+N17,memantine,drug,treatment_for,N2,alzheimer's disease,disease,1
+N236,nmda,drug,abbreviation_for,N1216,n-methyl-d-aspartate,drug,1
+N17,memantine,drug,treatment_for,N99,cognitive disorders,disease,1
+N184,pasat,method,abbreviation_for,N1218,paced auditory serial addition test,method,1
+N1220,itt,method,abbreviation_for,N1219,intent-to-treat,method,1
+N1222,angiotensin converting enzyme,gene,associated_with,N2,alzheimer's disease,disease,1
+N336,ace,gene,abbreviation_for,N1222,angiotensin converting enzyme,gene,1
+N1223,case-control study,method,help_diagnose,N1,ad,disease,1
+N185,ata,disease,associated_with,N1,ad,disease,1
+N1239,c . sinica,drug,treatment_for,N2,alzheimer's disease,disease,1
+N186,alpha-viniferin,gene,treatment_for,N2,alzheimer's disease,disease,1
+N73,adam10 gene,gene,treatment_for,N2,alzheimer's disease,disease,1
+N1240,neuronal degeneration,disease,associated_with,N2,alzheimer's disease,disease,1
+N1240,neuronal degeneration,disease,associated_with,N1242,calcium-binding proteins,gene,1
+N1240,neuronal degeneration,disease,associated_with,N1241,impaired calcium homeostasis,other,1
+N1243,cbps,gene,abbreviation_for,N1242,calcium-binding proteins,gene,1
+N138,cr,drug,abbreviation_for,N339,calretinin,drug,1
+N1244,pv,drug,abbreviation_for,N340,parvalbumin,drug,1
+N1252,pde-5,gene,abbreviation_for,N1251,phosphodiesterase-5,gene,1
+N336,ace,gene,abbreviation_for,N1253,angiotensin i-converting enzyme,gene,1
+N159,mao,gene,abbreviation_for,N1254,monoamine oxidase a,gene,1
+N1256,e-ntdase,gene,abbreviation_for,N1255,ecto-5 ' nucleotidase,gene,1
+N1265,chronic cerebral hypoperfusion,disease,associated_with,N16,cognitive decline,disease,1
+N1265,chronic cerebral hypoperfusion,disease,associated_with,N165,neurological diseases,disease,1
+N1265,chronic cerebral hypoperfusion,disease,associated_with,N88,vascular dementia,disease,1
+N1265,chronic cerebral hypoperfusion,disease,associated_with,N2,alzheimer's disease,disease,1
+N347,cch,disease,abbreviation_for,N1265,chronic cerebral hypoperfusion,disease,1
+N88,vascular dementia,disease,hyponym_of,N16,cognitive decline,disease,1
+N88,vascular dementia,disease,hyponym_of,N165,neurological diseases,disease,1
+N187,vad,disease,abbreviation_for,N88,vascular dementia,disease,1
+N2,alzheimer's disease,disease,hyponym_of,N16,cognitive decline,disease,1
+N2,alzheimer's disease,disease,hyponym_of,N165,neurological diseases,disease,1
+N188,exercise,method,treatment_for,N1266,cognitive deficit,disease,1
+N348,treadmill exercise,method,treatment_for,N6,cognitive impairment,disease,1
+N350,bdnf,gene,abbreviation_for,N1268,brain-derived neurotrophic factor,gene,1
+N188,exercise,method,treatment_for,N187,vad,disease,1
+N188,exercise,method,treatment_for,N16,cognitive decline,disease,1
+N1270,ci,method,abbreviation_for,N1269,confidence interval,method,1
+N1272,shorter telomere length,other,associated_with,N351,health outcomes,other,1
+N189,lvppa,disease,abbreviation_for,N1273,logopenic variant primary progressive aphasia,disease,1
+N117,nph,disease,abbreviation_for,N250,normal pressure hydrocephalus,disease,1
+N354,intraventricular pressure monitoring,method,help_diagnose,N117,nph,disease,1
+N1278,sleep problem,disease,risk_factor_of,N4,dementia,disease,1
+N4,dementia,disease,associated_with,N319,insomnia,disease,1
+N4,dementia,disease,associated_with,N1279,hypersomnia,disease,1
+N4,dementia,disease,associated_with,N130,sleep disorders,disease,1
+N4,dementia,disease,associated_with,N1281,sleep debt,other,1
+N4,dementia,disease,associated_with,N1280,circadian rhythm sleep disorders,disease,1
+N319,insomnia,disease,hyponym_of,N130,sleep disorders,disease,1
+N1279,hypersomnia,disease,hyponym_of,N130,sleep disorders,disease,1
+N1280,circadian rhythm sleep disorders,disease,hyponym_of,N130,sleep disorders,disease,1
+N1281,sleep debt,other,hyponym_of,N130,sleep disorders,disease,1
+N1282,sleep deterioration,disease,risk_factor_of,N4,dementia,disease,1
+N355,salvia miltiorrhiza,drug,treatment_for,N1286,cardiovascular diseases,disease,1
+N355,salvia miltiorrhiza,drug,treatment_for,N1287,central nervous system disturbances,disease,1
+N1285,lamiaceae,other,abbreviation_for,N355,salvia miltiorrhiza,drug,1
+N20,ache,gene,hyponym_of,N1289,cholinesterases,gene,1
+N356,buche,gene,hyponym_of,N1289,cholinesterases,gene,1
+N262,amyloid beta-protein,gene,risk_factor_of,N2,alzheimer's disease,disease,1
+N118,abeta25-35,gene,associated_with,N1298,cellular apoptosis,other,1
+N54,arrb1,gene,abbreviation_for,N1299,beta-arrestin 1,gene,1
+N120,m30,drug,associated_with,N1306,transgene-related cognitive decline,disease,1
+N190,age,other,risk_factor_of,N1310,ccr2 / 5-mediated,gene,1
+N363,traumatic brain injury,disease,hyponym_of,N12,neurodegenerative diseases,disease,1
+N363,traumatic brain injury,disease,risk_factor_of,N12,neurodegenerative diseases,disease,1
+N55,tbi,disease,abbreviation_for,N363,traumatic brain injury,disease,1
+N190,age,other,risk_factor_of,N1311,acquired brain injury,disease,1
+N1312,tbi-induced inflammatory response,disease,associated_with,N1314,loss of neurological function,disease,1
+N1323,cenicriviroc,drug,treatment_for,N55,tbi,disease,1
+N1323,cenicriviroc,drug,hyponym_of,N1324,ccr2 / 5 antagonist,drug,1
+N75,dlb,disease,abbreviation_for,N1328,dementia with lewy bodies,disease,1
+N121,alpha-syn,gene,abbreviation_for,N90,alpha-synuclein,gene,1
+N7,abeta42,gene,abbreviation_for,N227,amyloid beta1-42,gene,1
+N1334,glm,method,abbreviation_for,N1333,age-corrected general linear models,method,1
+N365,rbd,disease,abbreviation_for,N1337,rem sleep behavior disorder,disease,1

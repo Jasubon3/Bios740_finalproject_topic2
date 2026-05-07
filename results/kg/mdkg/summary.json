@@ -1,0 +1,19 @@
+{
+  "dataset": "MDKG",
+  "prediction_file": "external/spert/data/log/mdkg_eval/2026-04-19_14:19:19.447506/predictions_test_epoch_0.json",
+  "num_examples": 912,
+  "num_nodes": 2091,
+  "num_edges": 1198,
+  "num_triplets": 1272,
+  "top_relations": {
+    "associated_with": 317,
+    "hyponym_of": 158,
+    "abbreviation_for": 146,
+    "occurs_in": 143,
+    "risk_factor_of": 129,
+    "treatment_for": 123,
+    "help_diagnose": 65,
+    "characteristic_of": 59,
+    "located_in": 58
+  }
+}

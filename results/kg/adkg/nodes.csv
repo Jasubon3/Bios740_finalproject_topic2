@@ -1,0 +1,1340 @@
+node_id,node_text_normalized,node_type,mention_count
+N1,ad,disease,226
+N2,alzheimer's disease,disease,145
+N3,abeta,gene,71
+N4,dementia,disease,66
+N5,tau,gene,30
+N6,cognitive impairment,disease,21
+N7,abeta42,gene,18
+N8,mci,disease,17
+N9,apoe,gene,16
+N10,insulin,gene,16
+N11,bvftd,disease,16
+N12,neurodegenerative diseases,disease,16
+N13,depression,disease,13
+N14,neurodegenerative disease,disease,12
+N15,load,disease,12
+N16,cognitive decline,disease,11
+N17,memantine,drug,11
+N18,alzheimer disease,disease,10
+N19,mmse,method,10
+N20,ache,gene,10
+N21,mild cognitive impairment,disease,10
+N22,amyloid-beta,gene,9
+N23,amci,disease,9
+N24,neurodegenerative disorders,disease,9
+N25,abeta1-42,gene,9
+N26,tacrine,drug,9
+N27,amyloid beta,gene,9
+N28,aak1,gene,9
+N29,cathepsin d,gene,8
+N30,neurodegeneration,disease,8
+N31,stress-related disorders,disease,8
+N32,gnt-iii,gene,8
+N33,lauric acid,drug,7
+N34,acetylcholine,drug,7
+N35,stroke,disease,7
+N36,echinacoside,drug,7
+N37,compound 7d,drug,7
+N38,cholesterol,drug,7
+N39,l-norvaline,drug,7
+N40,nfl,gene,7
+N41,ps1,gene,7
+N42,amy1a,gene,6
+N43,alpha-amylase,gene,6
+N44,bace1,gene,6
+N45,cognitive deficits,disease,6
+N46,apathy,disease,6
+N47,memory impairment,disease,6
+N48,amyloid,gene,6
+N49,inph,disease,6
+N50,adas-cog,method,6
+N51,excitotoxicity,disease,6
+N52,app,gene,6
+N53,iron,drug,6
+N54,arrb1,gene,6
+N55,tbi,disease,6
+N56,alzheimer's dementia,disease,5
+N57,glucose,drug,5
+N58,ad-tg,disease,5
+N59,beta-amyloid,gene,5
+N60,d-ad,disease,5
+N61,abeta 1-42,gene,5
+N62,acetylcholinesterase,gene,5
+N63,cognitive dysfunction,disease,5
+N64,galantamine,drug,5
+N65,amd,disease,5
+N66,anxiety,disease,5
+N67,tgfbeta,gene,5
+N68,glp-1ra,gene,5
+N69,curcumin,drug,5
+N70,calmodulin,drug,5
+N71,hypokalemia,disease,5
+N72,rs4343,mutation,5
+N73,adam10 gene,gene,5
+N74,meta-analyses,method,5
+N75,dlb,disease,5
+N76,cancer,disease,4
+N77,beta-secretase,gene,4
+N78,mds,method,4
+N79,coconut oil,drug,4
+N80,apolipoprotein e,gene,4
+N81,ga,gene,4
+N82,parkinson's disease,disease,4
+N83,lung cancer,disease,4
+N84,donepezil,drug,4
+N85,24b3,drug,4
+N86,o-load,disease,4
+N87,osteoarthritis,disease,4
+N88,vascular dementia,disease,4
+N89,rdna,gene,4
+N90,alpha-synuclein,gene,4
+N91,neuroinflammation,disease,4
+N92,oabeta,gene,4
+N93,il-6,gene,4
+N94,ad-related,disease,4
+N95,rs76904798,mutation,4
+N96,age,gene,4
+N97,akt,gene,4
+N98,tauopathy,disease,4
+N99,cognitive disorders,disease,4
+N100,tle,disease,4
+N101,smad,gene,4
+N102,pocd,disease,4
+N103,npi-c,method,4
+N104,lung adenocarcinoma,disease,4
+N105,cpla2,gene,4
+N106,alzheimer's,disease,4
+N107,nachr,gene,4
+N108,cdr-sb,method,4
+N109,creatinine,drug,4
+N110,mtor,gene,4
+N111,cca,disease,4
+N112,sme,method,4
+N113,morphine,drug,4
+N114,fvad,disease,4
+N115,rs4291,mutation,4
+N116,rs4309,mutation,4
+N117,nph,disease,4
+N118,abeta25-35,gene,4
+N119,arrb2,gene,4
+N120,m30,drug,4
+N121,alpha-syn,gene,4
+N122,body mass index,other,3
+N123,fmri,method,3
+N124,apoe4,gene,3
+N125,csf,other,3
+N126,ga,other,3
+N127,end-stage renal failure,disease,3
+N128,neurodegenerative disorder,disease,3
+N129,cholinesterase inhibitors,drug,3
+N130,sleep disorders,disease,3
+N131,psa,disease,3
+N132,bmi,other,3
+N133,memory deficit,disease,3
+N134,ica,method,3
+N135,neuropsychiatric inventory,method,3
+N136,npi,method,3
+N137,nd-ad,disease,3
+N138,cr,drug,3
+N139,meta-analysis,method,3
+N140,frontotemporal dementia,disease,3
+N141,glutamate,drug,3
+N142,scopolamine-induced,drug,3
+N143,central nervous system,other,3
+N144,anticholinesterase,gene,3
+N145,inflammation,disease,3
+N146,rpe,gene,3
+N147,lrrk2,gene,3
+N148,apoe epsilon4,gene,3
+N149,functional decline,disease,3
+N150,amyotrophic lateral sclerosis,disease,3
+N151,pet,method,3
+N152,tle-mci,disease,3
+N153,mri,method,3
+N154,diabetes,disease,3
+N155,il17a,gene,3
+N156,arginase,gene,3
+N157,abeta oligomer-induced,gene,3
+N158,prpc,gene,3
+N159,mao,gene,3
+N160,il-1beta,gene,3
+N161,tnfalpha,gene,3
+N162,ppg,disease,3
+N163,opa 1,gene,3
+N164,ca2 +,drug,3
+N165,neurological diseases,disease,3
+N166,cholinesterase,gene,3
+N167,alcohol,drug,3
+N168,methanol,drug,3
+N169,gsk-3beta,gene,3
+N170,beta-catenin,gene,3
+N171,glcnac,gene,3
+N172,apoe-epsilon4,gene,3
+N173,rs-67333,drug,3
+N174,5-ht4r,gene,3
+N175,kami guibi-tang,drug,3
+N176,kgt,method,3
+N177,gpcrs,gene,3
+N178,abeta1-42-induced,gene,3
+N179,ap-2,gene,3
+N180,ccad,disease,3
+N181,fgd,disease,3
+N182,alphasyn,gene,3
+N183,emvi,gene,3
+N184,pasat,method,3
+N185,ata,disease,3
+N186,alpha-viniferin,gene,3
+N187,vad,disease,3
+N188,exercise,method,3
+N189,lvppa,disease,3
+N190,age,other,3
+N191,insulin resistance,disease,2
+N192,amy1a,disease,2
+N193,montreal cognitive assessment,method,2
+N194,moca,method,2
+N195,c13 norisoprenoids,drug,2
+N196,geranyl acetone,drug,2
+N197,abeta peptides,gene,2
+N198,walnuts,drug,2
+N199,ros,drug,2
+N200,neuropsychiatric symptoms,disease,2
+N201,neurofibrillary tangle,disease,2
+N202,phospho-tau,gene,2
+N203,colorectal cancer,disease,2
+N204,tau protein,gene,2
+N205,amnestic mild cognitive impairment,disease,2
+N206,comorbidities,disease,2
+N207,decline in cognition,disease,2
+N208,poststroke apathy,disease,2
+N209,barthel index,method,2
+N210,mini-mental state examination,method,2
+N211,magnetic resonance imaging,method,2
+N212,hamd,disease,2
+N213,crp,disease,2
+N214,disability,disease,2
+N215,neurotoxicity,disease,2
+N216,nasa-tlx,method,2
+N217,chronic disease,disease,2
+N218,sarcopenia,disease,2
+N219,creatine,drug,2
+N220,late-onset alzheimer's disease,disease,2
+N221,cognitive tests,method,2
+N222,metabolomics,method,2
+N223,oa,disease,2
+N224,amyloid beta peptides,gene,2
+N225,scopolamine,drug,2
+N226,cerebrospinal fluid,other,2
+N227,amyloid beta1-42,gene,2
+N228,tauopathies,disease,2
+N229,neuroblastoma,disease,2
+N230,tip5,gene,2
+N231,heterochromatin,gene,2
+N232,fibrillarin,gene,2
+N233,soluble phospho-tau,gene,2
+N234,microglial degeneration,disease,2
+N235,memory loss,disease,2
+N236,nmda,drug,2
+N237,cns,other,2
+N238,tacrine-based,drug,2
+N239,tdp-43,gene,2
+N240,atxn1,gene,2
+N241,nds,disease,2
+N242,elovanoids,drug,2
+N243,oabeta-induced,gene,2
+N244,inflammatory,disease,2
+N245,pd,disease,2
+N246,late-onset ad,disease,2
+N247,snps,mutation,2
+N248,mobility,other,2
+N249,erk,gene,2
+N250,normal pressure hydrocephalus,disease,2
+N251,uncaria rhynchophylla,drug,2
+N252,u . rhynchophylla,drug,2
+N253,1-palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,drug,2
+N254,popc,drug,2
+N255,molecular dynamics simulation,method,2
+N256,neurological disorders,disease,2
+N257,ptsd,disease,2
+N258,parkinson disease,disease,2
+N259,vascular neurodegenerative diseases,disease,2
+N260,lipofuscin,drug,2
+N261,olfactory function tests,method,2
+N262,amyloid beta-protein,gene,2
+N263,os,disease,2
+N264,od,disease,2
+N265,abeta plaques,gene,2
+N266,epilepsy,disease,2
+N267,dmpc,gene,2
+N268,gds,method,2
+N269,adcs-adl,method,2
+N270,interleukin17a,gene,2
+N271,postoperative cognitive dysfunction,disease,2
+N272,transforming growth factor-beta,gene,2
+N273,iadl,other,2
+N274,the turkish version of the npi-c scale,method,2
+N275,egfr mutations,mutation,2
+N276,3xtg-ad,mutation,2
+N277,beta-amyloidosis,disease,2
+N278,synapse damage,disease,2
+N279,memory deficits,disease,2
+N280,degenerative disease,disease,2
+N281,chi,method,2
+N282,nicotinic acetylcholine receptors,gene,2
+N283,nachrs,gene,2
+N284,neurofilament light chain,gene,2
+N285,proteopathic lesions,disease,2
+N286,alpha-synucleinopathies,disease,2
+N287,primary open-angle glaucoma,disease,2
+N288,preperimetric glaucoma,disease,2
+N289,poag,disease,2
+N290,neuronal damage,disease,2
+N291,glaucoma,disease,2
+N292,ggis,method,2
+N293,acupuncture,method,2
+N294,fis 1,gene,2
+N295,ca2 +,gene,2
+N296,fyn,gene,2
+N297,ethanol,drug,2
+N298,butyrylcholinesterase,gene,2
+N299,bche,gene,2
+N300,age-related cognitive decline,disease,2
+N301,subjective memory complaints,disease,2
+N302,cognitive impairments,disease,2
+N303,smc,method,2
+N304,ar-cmt,drug,2
+N305,whole-exome sequencing,method,2
+N306,cmt,gene,2
+N307,mme mutation,mutation,2
+N308,neprilysin,gene,2
+N309,chd,disease,2
+N310,cognitive and functional decline,disease,2
+N311,cognitive or functional decline,disease,2
+N312,curen-mn2 +,gene,2
+N313,curen-fe2 +,gene,2
+N314,cognitive deterioration,disease,2
+N315,orthopedic surgery,method,2
+N316,brain atrophy,disease,2
+N317,app / ps1,gene,2
+N318,amnestic mci,disease,2
+N319,insomnia,disease,2
+N320,amnestic,disease,2
+N321,npss,disease,2
+N322,agitation,disease,2
+N323,nps,disease,2
+N324,rab5,gene,2
+N325,colla corii asini,gene,2
+N326,ccad,gene,2
+N327,lewy body dementia,disease,2
+N328,ra,disease,2
+N329,rna,gene,2
+N330,als,disease,2
+N331,anti-abeta,gene,2
+N332,lme,method,2
+N333,random forest models,method,2
+N334,epps,gene,2
+N335,rr-ms,disease,2
+N336,ace,gene,2
+N337,aca,disease,2
+N338,caragana sinica,drug,2
+N339,calretinin,drug,2
+N340,parvalbumin,drug,2
+N341,cr,disease,2
+N342,erectile dysfunction,disease,2
+N343,hplc / ms analysis,method,2
+N344,chlorogenic acid,drug,2
+N345,lutein,drug,2
+N346,zeaxanthin,drug,2
+N347,cch,disease,2
+N348,treadmill exercise,method,2
+N349,2vo,disease,2
+N350,bdnf,gene,2
+N351,health outcomes,other,2
+N352,gastric cancer,disease,2
+N353,amnestic alzheimer's dementia,disease,2
+N354,intraventricular pressure monitoring,method,2
+N355,salvia miltiorrhiza,drug,2
+N356,buche,gene,2
+N357,hu,drug,2
+N358,c-terminal,drug,2
+N359,cbtau-22 . 1,gene,2
+N360,alpha7nach receptor,gene,2
+N361,abeta25-35-induced,gene,2
+N362,ad-like,disease,2
+N363,traumatic brain injury,disease,2
+N364,pathway analysis,method,2
+N365,rbd,disease,2
+N366,hallucinations,disease,2
+N367,alpha-amylase 1a,gene,1
+N368,memory performance,other,1
+N369,cnv,gene,1
+N370,alpha ( alpha ) - amylase gene,gene,1
+N371,amy1a,drug,1
+N372,alpha-amylase gene,gene,1
+N373,decreased hazard ratio of ad,other,1
+N374,monoterpenes,gene,1
+N375,sesquiterpenes,gene,1
+N376,monoterpenes,drug,1
+N377,sesquiterpenes,drug,1
+N378,( + ) - camphor,drug,1
+N379,+ ) - camphor,drug,1
+N380,) - camphor,drug,1
+N381,- camphor,drug,1
+N382,( - ) - fenchone,drug,1
+N383,( + ) - fenchone,drug,1
+N384,+ ) - fenchone,drug,1
+N385,) - fenchone,drug,1
+N386,- fenchone,drug,1
+N387,( - ) - camphor,drug,1
+N388,ic50,other,1
+N389,dixon kinetics,method,1
+N390,cornish-bowden plots,method,1
+N391,aroma compounds,drug,1
+N392,anti-bace1,gene,1
+N393,deposition of the beta-amyloid peptide,other,1
+N394,beta-amyloid peptide,gene,1
+N395,mds-oabeta,gene,1
+N396,abeta peptide,gene,1
+N397,non-ad,disease,1
+N398,size exclusion chromatography,method,1
+N399,sec,method,1
+N400,abeta42 peptides,gene,1
+N401,alphalisa,method,1
+N402,abeta-depleted,gene,1
+N403,apoe epsilon4 allele,gene,1
+N404,sporadic alzheimer's disease,disease,1
+N405,multiple regression models,method,1
+N406,alzheimer's disease-relevant,disease,1
+N407,epsilon4,gene,1
+N408,medium-chain fatty acids,drug,1
+N409,mcfas,drug,1
+N410,fatty acid,drug,1
+N411,mcfa,drug,1
+N412,fatty acids,drug,1
+N413,kt-5,drug,1
+N414,oleic acid,drug,1
+N415,oxidative damage,disease,1
+N416,reactive oxygen species,drug,1
+N417,lipid peroxidation,disease,1
+N418,superoxide dismutase,gene,1
+N419,catalase,gene,1
+N420,glutathione peroxidase,gene,1
+N421,wt mice,method,1
+N422,walnut-enriched,drug,1
+N423,apolipoprotein e4,gene,1
+N424,enhanced dementia,disease,1
+N425,elisa assays,method,1
+N426,cerebral spinal fluid,other,1
+N427,npns,other,1
+N428,avlt scale,method,1
+N429,diffusion tensor imaging,method,1
+N430,dti,method,1
+N431,cranial nerve diseases,disease,1
+N432,physiological brain lesions,disease,1
+N433,hc,other,1
+N434,education,other,1
+N435,impaired capacity,disease,1
+N436,capacity impairment,disease,1
+N437,golgi apparatus,other,1
+N438,cellular proteins,gene,1
+N439,p301s tauopathy mouse model,method,1
+N440,p301s,mutation,1
+N441,double immunofluorescence techniques,method,1
+N442,confocal microscopy,method,1
+N443,quantitative analysis,method,1
+N444,mouse model,method,1
+N445,lysosomal enzyme,gene,1
+N446,carcinomas,disease,1
+N447,circular dichroism spectroscopy,method,1
+N448,circular dichroism technique,method,1
+N449,pepstatin agarose,drug,1
+N450,k2d dichroweb software,method,1
+N451,alpha helix,gene,1
+N452,hospice care,method,1
+N453,end-stage cancer,disease,1
+N454,end-stage heart disease,disease,1
+N455,aids,disease,1
+N456,hca hospice care,other,1
+N457,hhc,other,1
+N458,electronic medical records,other,1
+N459,emr,other,1
+N460,liver cancers,disease,1
+N461,renal failure,disease,1
+N462,liver cancer,disease,1
+N463,breast cancer,disease,1
+N464,gamma - and beta-secretase,gene,1
+N465,serotoninergic 5-ht6,drug,1
+N466,histaminergic h3,drug,1
+N467,solanezumab,drug,1
+N468,gantenerumab,drug,1
+N469,crenezumab,drug,1
+N470,aadvac1,gene,1
+N471,aci-35,gene,1
+N472,mk-8931,drug,1
+N473,e2609,drug,1
+N474,5-ht6 antagonist,drug,1
+N475,idalopirdine,drug,1
+N476,advanced glycation end product receptors,gene,1
+N477,azeliragon,drug,1
+N478,alpha-7 nicotinic acetylcholine receptors,gene,1
+N479,encenicline,drug,1
+N480,age-related cognitive impairment,disease,1
+N481,accelerated cognitive aging,disease,1
+N482,mini-mental-state - examination,method,1
+N483,computerised tests,method,1
+N484,cantabeclipse,method,1
+N485,"psychiatric , neurological , sleep disorders",disease,1
+N486,anti-dementia,disease,1
+N487,jupiter sleep questionnaire,method,1
+N488,pittsburgh sleep quality index,method,1
+N489,wrist-worn actigraph,method,1
+N490,amcis,disease,1
+N491,sundown syndrome,disease,1
+N492,sleep disturbances,disease,1
+N493,acute ischemic stroke,disease,1
+N494,multidimensional syndrome,disease,1
+N495,c-reactive protein,gene,1
+N496,crp,gene,1
+N497,crp,method,1
+N498,apathy evaluation scale-clinical,method,1
+N499,aes-c,method,1
+N500,national institutes of health stroke scale,method,1
+N501,nihss,method,1
+N502,bi,method,1
+N503,hamilton depression scale,method,1
+N504,hamd,method,1
+N505,hamilton anxiety scale,method,1
+N506,hama,method,1
+N507,infarcts,disease,1
+N508,nihss,disease,1
+N509,bi,other,1
+N510,crp concentrations,other,1
+N511,aes-c,gene,1
+N512,mmse,other,1
+N513,ischemic stroke,disease,1
+N514,immunotherapy targeting abeta42,method,1
+N515,synaptotoxicity,disease,1
+N516,senile plaques,gene,1
+N517,national aeronautics and space administration task load index,method,1
+N518,index of cognitive activity,method,1
+N519,ica,other,1
+N520,event-related potentials,other,1
+N521,erps,other,1
+N522,intraclass correlation coefficients,other,1
+N523,icc,other,1
+N524,chronic diseases,disease,1
+N525,age-related loss of skeletal muscle mass,disease,1
+N526,chronic inflammation,disease,1
+N527,skeletal muscle loss,disease,1
+N528,hyperglycemia,disease,1
+N529,vascular disease,disease,1
+N530,diabetic brain,disease,1
+N531,insulin-like growth factor,gene,1
+N532,igf-1,gene,1
+N533,insulin receptor substrate,other,1
+N534,irs-1,other,1
+N535,poor cognitive performance,other,1
+N536,chronic hyperglycemia,disease,1
+N537,psychiatric symptom,disease,1
+N538,hamilton depression rating scale,method,1
+N539,hamd-17,method,1
+N540,non-depressed ad,disease,1
+N541,proton magnetic resonance spectroscopy,method,1
+N542,anterior cingulate gyrus,other,1
+N543,acg,other,1
+N544,n-acetylaspartate,drug,1
+N545,naa,drug,1
+N546,myo-inositol,drug,1
+N547,acg,drug,1
+N548,acg,method,1
+N549,neurometabolic alterations,disease,1
+N550,limbic dysfunction,disease,1
+N551,proactive semantic interference deficits,disease,1
+N552,functional magnetic resonance imaging,method,1
+N553,cs,disease,1
+N554,lassi-l,method,1
+N555,lassi-l measures of frpsi,method,1
+N556,frpsi,disease,1
+N557,semantic interference deficits,disease,1
+N558,connectivity abnormalities,disease,1
+N559,limbic circuit dysfunction,disease,1
+N560,combined use of complementary metabolomic platforms,method,1
+N561,nuclear magnetic resonance,method,1
+N562,direct infusion mass spectrometry,method,1
+N563,orthogonal separation mechanisms,method,1
+N564,gas chromatography,method,1
+N565,mass spectrometry,method,1
+N566,case-control,method,1
+N567,cross-sectional studies,method,1
+N568,random-effect size model,method,1
+N569,sensitivity-analysis,method,1
+N570,data analysis and statistical software version 14 . 2,method,1
+N571,strobe quality score,method,1
+N572,cohort studies,method,1
+N573,alzheimer's disease ( ad ) dementia,disease,1
+N574,behavioral variant frontotemporal dementia,disease,1
+N575,rey auditory verbal learning test,method,1
+N576,age - and education-adjusted between-group analysis,method,1
+N577,discriminability,other,1
+N578,language,other,1
+N579,cholinergic deficit,disease,1
+N580,phenylethanoid glycoside,drug,1
+N581,amyloid beta peptide 1-42,gene,1
+N582,abeta 1-42-infused,gene,1
+N583,sh-sy5y,drug,1
+N584,dopamine,drug,1
+N585,amyloid deposition,disease,1
+N586,cortical cholinergic dysfunction,disease,1
+N587,morris water maze,method,1
+N588,amyloid neurotoxicity,disease,1
+N589,structural neuroimaging,method,1
+N590,cerebral atrophy,disease,1
+N591,functional imaging,method,1
+N592,neuritic plaque burden,disease,1
+N593,csf total-tau,gene,1
+N594,ad-type,disease,1
+N595,disease-modifying treatments,method,1
+N596,subtype,disease,1
+N597,pre-dementia,disease,1
+N598,ribosomal,gene,1
+N599,ribosomal dna,gene,1
+N600,dna,gene,1
+N601,dna methylation,other,1
+N602,nucleolar stress,disease,1
+N603,thr231,gene,1
+N604,nucleolar tau,gene,1
+N605,app-based models,method,1
+N606,soluble fractions,drug,1
+N607,at100,gene,1
+N608,accumulation of intraneuronal soluble phospho-tau,other,1
+N609,multi-target-directed ligands,method,1
+N610,genistein-o-alkylamines,drug,1
+N611,hache,gene,1
+N612,hache-induced,gene,1
+N613,gpx4 protein,gene,1
+N614,n-methyl-daspartate,drug,1
+N615,small molecule natural products,drug,1
+N616,mtdls,drug,1
+N617,loss of cholinergic transmission,other,1
+N618,enhancement of cholinergic system,other,1
+N619,rivastigmine,drug,1
+N620,"9-amino-1 , 2 , 3 , 4-tetrahydroacridine",drug,1
+N621,interactome map,method,1
+N622,nd,disease,1
+N623,yeast two-hybrid interaction screening,method,1
+N624,nd-related,disease,1
+N625,nd-causing proteins,gene,1
+N626,htt,gene,1
+N627,arf-gep100,method,1
+N628,nd-specific,disease,1
+N629,mkl1,gene,1
+N630,photoreceptors,gene,1
+N631,impairments in cognition,disease,1
+N632,age-related macular degeneration,disease,1
+N633,amyloid beta-peptide,gene,1
+N634,5xfad,gene,1
+N635,functional deficiencies,disease,1
+N636,erg,gene,1
+N637,photoreceptor cell,other,1
+N638,prc,other,1
+N639,neuroprotectin d1,gene,1
+N640,npd1,gene,1
+N641,elvs,drug,1
+N642,retinal pigment epithelium,other,1
+N643,p16ink4a,gene,1
+N644,mmp1,gene,1
+N645,p53,gene,1
+N646,p21,gene,1
+N647,p27,gene,1
+N648,pd-related,disease,1
+N649,single-nucleotide polymorphisms,mutation,1
+N650,rs11724635,mutation,1
+N651,rs12637471,mutation,1
+N652,rs15553999,mutation,1
+N653,rs17649553,mutation,1
+N654,mapt,gene,1
+N655,rs34311866,mutation,1
+N656,tmem175-gak-dgkq,gene,1
+N657,rs356182,mutation,1
+N658,snca,gene,1
+N659,rs6430538,mutation,1
+N660,acmsd-tmem163,gene,1
+N661,rs823118,mutation,1
+N662,rab7l1-nucks1,gene,1
+N663,sporadic load,disease,1
+N664,multivariate analysis,method,1
+N665,abandonment,disease,1
+N666,functional performance,other,1
+N667,mixed dementia,disease,1
+N668,loss of cognitive functions,disease,1
+N669,mobility impairment,disease,1
+N670,brain pathology,disease,1
+N671,advanced glycation end-products,gene,1
+N672,ages,gene,1
+N673,mixed alzheimer's,disease,1
+N674,mixed alzheimer's / vascular dementia,disease,1
+N675,linear mixed model analyses,method,1
+N676,age-levels,other,1
+N677,timed up and go,other,1
+N678,adl,disease,1
+N679,groningen activity restriction scale,method,1
+N680,impaired mobility,disease,1
+N681,adl decline,disease,1
+N682,physical activity programs,method,1
+N683,caspase,gene,1
+N684,"octanoic , decanoic and lauric acids",drug,1
+N685,pi3-kinase,gene,1
+N686,cooil,drug,1
+N687,short-term exposure to dim light at night,other,1
+N688,fly models,method,1
+N689,crs,other,1
+N690,dysregulation of locomotion,disease,1
+N691,memory defects,disease,1
+N692,locomotion defects,disease,1
+N693,fly model,method,1
+N694,ptau proteins,gene,1
+N695,idiopathic normal pressure hydrocephalus,disease,1
+N696,neurological disorder,disease,1
+N697,csf proteins,gene,1
+N698,subcortical degeneration,disease,1
+N699,vascular dysfunction,disease,1
+N700,uncarinic acid c,drug,1
+N701,amyloid beta42,gene,1
+N702,42-mer amyloid-beta protein,gene,1
+N703,synaptic dysfunction,disease,1
+N704,oligomers,gene,1
+N705,yokukansan,drug,1
+N706,kampo medicine,drug,1
+N707,uncarinic acid c ( 3 ),drug,1
+N708,compound 3,drug,1
+N709,saponin a ( 10 ),drug,1
+N710,rutin,drug,1
+N711,c-27 ferulate,drug,1
+N712,c-28 carboxylic acid,drug,1
+N713,phospholipid membranes,other,1
+N714,huntington disease,disease,1
+N715,beta amyloid,gene,1
+N716,abeta ( 11-42 ) peptide,gene,1
+N717,abeta ( 11-42 ) peptide oligomers,gene,1
+N718,posttraumatic stress disorder,disease,1
+N719,acute stress reaction,disease,1
+N720,adjustment disorder,disease,1
+N721,cox proportional hazards regression models,method,1
+N722,hrs,method,1
+N723,stress-related disorder,disease,1
+N724,age-related neurodegeneration,disease,1
+N725,aging,other,1
+N726,neuropathological aging,disease,1
+N727,lf,drug,1
+N728,metals,drug,1
+N729,neuronal loss,disease,1
+N730,lf,other,1
+N731,olfactory function test,method,1
+N732,normal cognition,other,1
+N733,nc,other,1
+N734,neurocognitive and olfactory function tests,method,1
+N735,k-means cluster analysis,method,1
+N736,receiver operating characteristic,method,1
+N737,roc,method,1
+N738,nc,disease,1
+N739,mouse models,method,1
+N740,advanced disease,disease,1
+N741,ps1 e9,gene,1
+N742,glatiramer acetate,drug,1
+N743,ga,drug,1
+N744,age-dependent disease,disease,1
+N745,abeta1-40,gene,1
+N746,abeta1-38,gene,1
+N747,oculus dexter,disease,1
+N748,cerebral vascular and parenchymal abeta deposits,other,1
+N749,mass spectrometry analysis,method,1
+N750,glutamine synthetase,gene,1
+N751,[ 18f ] flutemetamol,drug,1
+N752,amyloid - beta,gene,1
+N753,- beta,gene,1
+N754,striatal plaques,gene,1
+N755,striatal plaques,disease,1
+N756,striatal amyloid imaging,method,1
+N757,[ 18f ] flutemetamol striatal,drug,1
+N758,[ 18f ] flutemetamol pet striatal amyloid imaging,method,1
+N759,amyloid imaging,method,1
+N760,temporal lobe epilepsy,disease,1
+N761,nacs,other,1
+N762,actuarial neuropsychological method,method,1
+N763,multiple regression,method,1
+N764,deficits in both memory and language,disease,1
+N765,seizure,disease,1
+N766,neuropsychological scores,method,1
+N767,leukoaraiosis,disease,1
+N768,tof-sims analysis,method,1
+N769,beta-sheet,gene,1
+N770,abeta ( 1-40 ),gene,1
+N771,"lipid 1 , 2-dimyristoyl-sn-glycero-3-phosphocholine",drug,1
+N772,dmpc,drug,1
+N773,cholesterol beta-d-glucoside,drug,1
+N774,beta-d-glucoside,drug,1
+N775,beta-cg,drug,1
+N776,time-of-flight secondary ion mass spectrometry,method,1
+N777,beta-cg,gene,1
+N778,amino acid,drug,1
+N779,n-terminal,drug,1
+N780,adversity,other,1
+N781,late-life dementia,disease,1
+N782,childhood trauma questionnaire,method,1
+N783,ctq,method,1
+N784,alcohol abuse,disease,1
+N785,childhood stress,other,1
+N786,emotional health,other,1
+N787,health-related quality of life,other,1
+N788,hrqol,other,1
+N789,dementia-specific,disease,1
+N790,qol-ad,method,1
+N791,geriatric depression scale,method,1
+N792,alzheimer's disease cooperative study-activities of daily living scale,method,1
+N793,depressive symptoms,disease,1
+N794,alzheimers disease,disease,1
+N795,hippocampal inflammation,disease,1
+N796,hepatectomy surgery,method,1
+N797,hippocampal neuroinflammation,disease,1
+N798,beta-amyloid1-42,gene,1
+N799,decapentaplegic peptide 3,gene,1
+N800,smad3,gene,1
+N801,il17a receptor,gene,1
+N802,il17a receptor small interfering rna,gene,1
+N803,tgfbeta receptor,gene,1
+N804,il17a-related,gene,1
+N805,hippocampal damage,disease,1
+N806,the turkish version of the neuropsychiatric inventory-clinician,method,1
+N807,neuropsychiatric inventory-clinician,method,1
+N808,turkish version of the npi-c scale,method,1
+N809,npi-c scale,method,1
+N810,behavioral pathology in alzheimer's disease,other,1
+N811,mini mental state examination,method,1
+N812,instrumental activities of daily living,other,1
+N813,disability assessment of dementia,method,1
+N814,dad,method,1
+N815,iadl,method,1
+N816,aggression,disease,1
+N817,euphoria,disease,1
+N818,dysphoria,disease,1
+N819,egfr mutation,mutation,1
+N820,genome-wide association studies,method,1
+N821,gwas,method,1
+N822,single nucleotide polymorphisms,other,1
+N823,rs7216064,mutation,1
+N824,rs3817963,mutation,1
+N825,btnl2,mutation,1
+N826,egfr,method,1
+N827,rs9387478,mutation,1
+N828,ros1,gene,1
+N829,dcbld1,gene,1
+N830,rs2179920,mutation,1
+N831,hla-dpb1,gene,1
+N832,egfr-positive,method,1
+N833,egfr-negative,method,1
+N834,arginase inhibitor,drug,1
+N835,triple-transgenic model,method,1
+N836,appswe,gene,1
+N837,quantitative polymerase chain reaction assays,method,1
+N838,l-norvaline treatment,method,1
+N839,microgliosis,disease,1
+N840,tumor necrosis factor transcription,gene,1
+N841,postsynaptic density protein 95,gene,1
+N842,abeta-induced,gene,1
+N843,soluble abeta oligomers,gene,1
+N844,alzheimer's-affected,disease,1
+N845,cysteine string protein,gene,1
+N846,synaptophysin,gene,1
+N847,cytoplasmic phospholipase a2,gene,1
+N848,cellular prion proteins,gene,1
+N849,synapse degeneration,disease,1
+N850,beta-strands,gene,1
+N851,abeta fibril-like oligomers,gene,1
+N852,chain a,gene,1
+N853,che,drug,1
+N854,neurotransmitters,drug,1
+N855,monoamines,drug,1
+N856,monoamine neurotransmitters,drug,1
+N857,central nervous system pathologies,disease,1
+N858,cns disease,disease,1
+N859,psychiatric disturbances,disease,1
+N860,cns diseases,disease,1
+N861,che enzymes,other,1
+N862,chi,disease,1
+N863,nonsmooth convex optimization problem,method,1
+N864,block coordinate descent algorithm,method,1
+N865,surgical site infection,disease,1
+N866,ageing-associated chronic disorders,disease,1
+N867,cardiovascular disease,disease,1
+N868,type ii diabetes,disease,1
+N869,osteoporosis,disease,1
+N870,epidermal dysfunction,disease,1
+N871,cytokine,gene,1
+N872,luminex 200,drug,1
+N873,chronic inflammatory disorders,disease,1
+N874,al zheimer's disease,disease,1
+N875,zheimer's disease,disease,1
+N876,gamma,gene,1
+N877,lynx proteins,gene,1
+N878,nmda-receptors,gene,1
+N879,wnt / beta-catenin,gene,1
+N880,nachr protein,gene,1
+N881,cognitive symptoms,disease,1
+N882,alzheimer's disease assessment scale - cognitive subscale,method,1
+N883,clinical dementia,disease,1
+N884,clinical dementia rating - sum of boxes,method,1
+N885,alzheimer's disease assessment scale's cognitive subscale,method,1
+N886,ad dementia,disease,1
+N887,clinical dementia rating-sum of boxes,method,1
+N888,age-related neurodegenerative diseases,disease,1
+N889,murine models,method,1
+N890,alpha-synuclein lesions,disease,1
+N891,abeta lesions,disease,1
+N892,proteopathic neurodegenerative diseases,disease,1
+N893,peripapillary retinal nerve fiber layer,other,1
+N894,rnfl,other,1
+N895,spectral domain optical coherence tomography,method,1
+N896,sd-oct,method,1
+N897,ppg,drug,1
+N898,poag,method,1
+N899,machine learning-based,method,1
+N900,gene-gene interaction,other,1
+N901,ggi,other,1
+N902,random forest-based method,method,1
+N903,genetic network,method,1
+N904,govenor vessel-regulating,method,1
+N905,moxibustion,disease,1
+N906,manual acupuncture,method,1
+N907,acupuncture plus moxibustion intervention,method,1
+N908,tau-fyn,gene,1
+N909,nmda receptor-dependent,gene,1
+N910,hyperexcitability of neuronal networks,other,1
+N911,nmda-type glutamate receptors,gene,1
+N912,neurological conditions,disease,1
+N913,microtubule-associated protein tau,gene,1
+N914,cell-based assay,method,1
+N915,exicitotoxicity,disease,1
+N916,anti-tau shrna,gene,1
+N917,shrna-mediated,gene,1
+N918,glutamate-induced,drug,1
+N919,tau-deficient,gene,1
+N920,tau-related,gene,1
+N921,tyrosine 18,drug,1
+N922,py18,drug,1
+N923,nmda receptors,gene,1
+N924,tau's,gene,1
+N925,pxxp,gene,1
+N926,py18-tau,gene,1
+N927,terpenes,drug,1
+N928,phenylpropanoids,drug,1
+N929,acetyl,drug,1
+N930,ellman's colorimetric method,method,1
+N931,methyl jasmonate,drug,1
+N932,1r - ( - ) - nopol,drug,1
+N933,"1 , 4-cineole",drug,1
+N934,4-cineole,drug,1
+N935,allo - aromadendrene,drug,1
+N936,- aromadendrene,drug,1
+N937,aromadendrene,drug,1
+N938,nerolidol,drug,1
+N939,beta-ionone,drug,1
+N940,pulegone,drug,1
+N941,anti-bche,gene,1
+N942,oleanolic acid,drug,1
+N943,( + ) - beta-citronellene,drug,1
+N944,- beta-citronellene,drug,1
+N945,nerol,drug,1
+N946,( - ) - menthol,drug,1
+N947,- ) - menthol,drug,1
+N948,) - menthol,drug,1
+N949,- menthol,drug,1
+N950,menthol,drug,1
+N951,( + ) - menthol,drug,1
+N952,isoborneol,drug,1
+N953,( - ) - bornyl acetate,drug,1
+N954,limonene,drug,1
+N955,alpha-pinene,drug,1
+N956,beta-pinene,drug,1
+N957,alpha-ionone,drug,1
+N958,eugenol,drug,1
+N959,anti-ache,gene,1
+N960,morbidity-leading disorders,disease,1
+N961,diabetes mellitus,disease,1
+N962,obesity,disease,1
+N963,dyslipidemia,disease,1
+N964,glp-1 receptor,gene,1
+N965,glycoprotein glycans,gene,1
+N966,n-acetylglucosamine,drug,1
+N967,glcnac,drug,1
+N968,n-acetylglucosaminyltransferase iii,gene,1
+N969,glycosyltransferase,gene,1
+N970,glucagon-like peptide-1,gene,1
+N971,glp-1,gene,1
+N972,exendin-4,gene,1
+N973,abeta25-35-treated,gene,1
+N974,glp-1 receptor agonists,drug,1
+N975,ser473,gene,1
+N976,ser9,gene,1
+N977,ly294002,drug,1
+N978,beta-catenin sirna,gene,1
+N979,smc,disease,1
+N980,depressive state,disease,1
+N981,mild dementia,disease,1
+N982,psychosocial stimulation intervention,method,1
+N983,pss,method,1
+N984,ehcobutler platform,method,1
+N985,charcot-marie-tooth disease type 2,disease,1
+N986,charcot-marie-tooth,other,1
+N987,cmt,other,1
+N988,autosomal-recessive,other,1
+N989,ar,other,1
+N990,cmt,drug,1
+N991,membrane metalloendopeptidase,gene,1
+N992,mme,gene,1
+N993,mme,method,1
+N994,nep,gene,1
+N995,late-onset axonal neuropathy,disease,1
+N996,muscle weakness,disease,1
+N997,atrophy,disease,1
+N998,sensory disturbance,disease,1
+N999,mme mutations,mutation,1
+N1000,nep protein,gene,1
+N1001,pittsburgh compound-b positron emission tomography imaging,method,1
+N1002,ar-cmt2,gene,1
+N1003,ar-cmt2t,gene,1
+N1004,network propagation-based assessment of genetic events,method,1
+N1005,netpage,method,1
+N1006,whole-genome sequencing,method,1
+N1007,ad neuroimaging initiative,method,1
+N1008,adni,method,1
+N1009,ad sequencing project,method,1
+N1010,adsp,method,1
+N1011,netpage,gene,1
+N1012,smoothed gene scores,method,1
+N1013,rna-seq,method,1
+N1014,enhanced genetic association testing,method,1
+N1015,illiteracy,disease,1
+N1016,alzheimer's disease dementia,disease,1
+N1017,coronary heart disease,disease,1
+N1018,clinical dementia rating sum-of-boxes,method,1
+N1019,cdr-sob,method,1
+N1020,index of independence in activities of daily living,other,1
+N1021,adl,other,1
+N1022,lawton's scale for instrumental activities of daily living,other,1
+N1023,bmi,method,1
+N1024,cdr-sob,gene,1
+N1025,protein-induced pluripotent stem cells,other,1
+N1026,functional deficits,disease,1
+N1027,induced pluripotent stem cells,other,1
+N1028,ipscs,other,1
+N1029,5xfad transgenic ad mouse model,method,1
+N1030,transplanted protein-ipscs,other,1
+N1031,protein-ipscs,method,1
+N1032,chitinase,gene,1
+N1033,ncbi,method,1
+N1034,chitinase genes,gene,1
+N1035,vc,disease,1
+N1036,healthy age's subjects,other,1
+N1037,chi3l1,gene,1
+N1038,chi3l2,gene,1
+N1039,chitinases,gene,1
+N1040,load disease,disease,1
+N1041,immune response,disease,1
+N1042,acute systemic inflammatory response,disease,1
+N1043,lipopolysaccharide,gene,1
+N1044,lps,gene,1
+N1045,lps,disease,1
+N1046,mh,disease,1
+N1047,s100a8 gene,gene,1
+N1048,calgranulin a,gene,1
+N1049,gene ontology enrichment analysis,method,1
+N1050,lipocalin 2,gene,1
+N1051,glia neurotoxicity,disease,1
+N1052,histone deacetylases,gene,1
+N1053,brd3,gene,1
+N1054,brd2,gene,1
+N1055,lcn2,gene,1
+N1056,s100a8,gene,1
+N1057,s100a9,gene,1
+N1058,saa3,gene,1
+N1059,ch25h,gene,1
+N1060,curcumin-metal,drug,1
+N1061,carbonyl,drug,1
+N1062,diketo,drug,1
+N1063,curen-zn2 +,gene,1
+N1064,chelation therapy,method,1
+N1065,major surgery,disease,1
+N1066,perioperative neurocognitive disorders,disease,1
+N1067,pnd,disease,1
+N1068,neuropsychological assessment,method,1
+N1069,postoperative impairment,disease,1
+N1070,memory decline,disease,1
+N1071,brain amyloid-beta deposits,disease,1
+N1072,calmodulin binding proteins,gene,1
+N1073,receptors,gene,1
+N1074,calmodulin,gene,1
+N1075,calcium,drug,1
+N1076,calcineurin,drug,1
+N1077,can,gene,1
+N1078,neurogranin,gene,1
+N1079,calmodulin binding protein,gene,1
+N1080,regulating glutamate receptors,gene,1
+N1081,mglur,gene,1
+N1082,nmdar,gene,1
+N1083,pmca,method,1
+N1084,ryanodine receptors,gene,1
+N1085,stromal interaction molecule 2,gene,1
+N1086,stim2,gene,1
+N1087,adenosine a2a receptor,gene,1
+N1088,lipidomic analysis,method,1
+N1089,univariate,method,1
+N1090,multivariate analysis methods,method,1
+N1091,phenotypes,other,1
+N1092,cholesteryl esters,drug,1
+N1093,triglycerides,drug,1
+N1094,phosphatidylcholines,drug,1
+N1095,cortical iron,drug,1
+N1096,ps1deltae9,gene,1
+N1097,app / ps1 transgenic mouse model,method,1
+N1098,app / ps1 model,method,1
+N1099,h - and l-ferritin,drug,1
+N1100,abeta40 / 42,gene,1
+N1101,ferritin,gene,1
+N1102,gliosis,disease,1
+N1103,abeta plaque,gene,1
+N1104,app / ps1 mouse model,method,1
+N1105,amyloid plaques,disease,1
+N1106,plaque,disease,1
+N1107,nicotinic receptor-cholinesterase inhibitor,drug,1
+N1108,5-ht4 receptor agonist,drug,1
+N1109,allosteric modulator,drug,1
+N1110,type 4 serotonin receptor,gene,1
+N1111,deficits in short - and long-term memory,disease,1
+N1112,y-maze,method,1
+N1113,kgt,drug,1
+N1114,herbal drug,drug,1
+N1115,amnesia,disease,1
+N1116,loss of appetite,disease,1
+N1117,seoul neuropsychological screening battery,method,1
+N1118,snsb,method,1
+N1119,cohen-mansfield agitation inventory,method,1
+N1120,neurobehavioral rating scale-agitation subscale,method,1
+N1121,citalopram,drug,1
+N1122,mapk,gene,1
+N1123,rapamycin,drug,1
+N1124,mtor,drug,1
+N1125,g-protein-coupled receptors,gene,1
+N1126,"phosphatidylinositol-4 , 5-bisphosphate 3-kinase",gene,1
+N1127,pi3k,gene,1
+N1128,mitogen-activated protein,gene,1
+N1129,map,gene,1
+N1130,gpcr-mediated,gene,1
+N1131,g-independent,drug,1
+N1132,adaptor-associated kinase 1,gene,1
+N1133,adaptor protein complex 2,gene,1
+N1134,clathrin-mediated,gene,1
+N1135,morris water maze test,method,1
+N1136,cognitive function,other,1
+N1137,joint models,method,1
+N1138,fine and gray models,method,1
+N1139,heterozygote,gene,1
+N1140,homozygote,gene,1
+N1141,donepezil-induced,drug,1
+N1142,cholinesterase inhibitor,drug,1
+N1143,cholinergic activity,other,1
+N1144,adverse effects,other,1
+N1145,gastrointestinal symptoms,disease,1
+N1146,nausea,disease,1
+N1147,vomiting,disease,1
+N1148,diarrhea,disease,1
+N1149,donepezil-treated,drug,1
+N1150,e'jiao,drug,1
+N1151,hydrogen peroxide-induced,drug,1
+N1152,deposition of amyloid beta,other,1
+N1153,deposition of amyloid beta ( abeta ),other,1
+N1154,oxidative stress,disease,1
+N1155,dysfunction,disease,1
+N1156,loss of cholinergic neurons,disease,1
+N1157,colla corii asini,drug,1
+N1158,feebleness-related diseases,disease,1
+N1159,oxygen radical absorbance capacity,other,1
+N1160,orac,other,1
+N1161,porcine,drug,1
+N1162,bovine,drug,1
+N1163,scanning electron microscopy,method,1
+N1164,ccad,drug,1
+N1165,cold water fish skin,other,1
+N1166,fgd,other,1
+N1167,hydrogen peroxide,drug,1
+N1168,h2o2,drug,1
+N1169,h2o2-treated,drug,1
+N1170,ccad,method,1
+N1171,h2o2-induced,drug,1
+N1172,neprilysin activity assay,method,1
+N1173,abeta1-42-treated,gene,1
+N1174,cca,method,1
+N1175,acid,drug,1
+N1176,neurological dementias,disease,1
+N1177,spearmint extract,drug,1
+N1178,rosmarinic acid,drug,1
+N1179,ra,drug,1
+N1180,transmission electron microscopy,method,1
+N1181,tem,method,1
+N1182,ra,gene,1
+N1183,antibacterial drugs,drug,1
+N1184,infected wounds,disease,1
+N1185,chloroform,drug,1
+N1186,analgesia,disease,1
+N1187,respiratory depression,disease,1
+N1188,acute anticholinergic syndrome,disease,1
+N1189,anticholinergic syndrome,disease,1
+N1190,anticholinesterases,gene,1
+N1191,biomolecular condensation,method,1
+N1192,ribonucleoprotein,gene,1
+N1193,rnp,gene,1
+N1194,everyday cognition,other,1
+N1195,ecog,other,1
+N1196,alzheimer's disease assessment scale 13-item cognitive subscale,method,1
+N1197,adas13,method,1
+N1198,random forest and linear mixed effects,method,1
+N1199,lme models,method,1
+N1200,adas13,drug,1
+N1201,atomic force microscopy analysis,method,1
+N1202,4 - ( 2-hydroxyethyl ) - 1-piperazinepropanesulfonic acid,drug,1
+N1203,epps,drug,1
+N1204,high-resolution atomic force microscopy,method,1
+N1205,disruption of the frontal lobes,disease,1
+N1206,bvftd-related,disease,1
+N1207,mild to moderately severe dementia,disease,1
+N1208,mini-mental state exam,method,1
+N1209,near-infrared photobiomodulation,method,1
+N1210,near-infrared photobiomodulation ( pbm ) therapy,method,1
+N1211,pbm,method,1
+N1212,dysregulation of the brain's default mode network,disease,1
+N1213,dmn,disease,1
+N1214,alzheimer's disease assessment scale,method,1
+N1215,multiple sclerosis,disease,1
+N1216,n-methyl-d-aspartate,drug,1
+N1217,cognitive complaint,disease,1
+N1218,paced auditory serial addition test,method,1
+N1219,intent-to-treat,method,1
+N1220,itt,method,1
+N1221,edss,method,1
+N1222,angiotensin converting enzyme,gene,1
+N1223,case-control study,method,1
+N1224,ace gene,gene,1
+N1225,haplotype analysis,method,1
+N1226,aca,gene,1
+N1227,tca,method,1
+N1228,s4309,mutation,1
+N1229,extract of caragana sinica,drug,1
+N1230,adam10,gene,1
+N1231,amyloid precursor protein - sappalpha,gene,1
+N1232,- sappalpha,gene,1
+N1233,sappalpha,gene,1
+N1234,alpha-secretase enhancers,drug,1
+N1235,candidate extracts,drug,1
+N1236,in vitro blood-brain barrier model,method,1
+N1237,in vitro atpase assay,method,1
+N1238,c . sinica extract,drug,1
+N1239,c . sinica,drug,1
+N1240,neuronal degeneration,disease,1
+N1241,impaired calcium homeostasis,other,1
+N1242,calcium-binding proteins,gene,1
+N1243,cbps,gene,1
+N1244,pv,drug,1
+N1245,cr,gene,1
+N1246,ca2 + - binding proteins,gene,1
+N1247,alzheimer's diseases,disease,1
+N1248,s . mombim l . ethyl acetate fraction,other,1
+N1249,erectile and cognitive dysfunction,disease,1
+N1250,patchdock,gene,1
+N1251,phosphodiesterase-5,gene,1
+N1252,pde-5,gene,1
+N1253,angiotensin i-converting enzyme,gene,1
+N1254,monoamine oxidase a,gene,1
+N1255,ecto-5 ' nucleotidase,gene,1
+N1256,e-ntdase,gene,1
+N1257,tyrosinase,gene,1
+N1258,sodium-potassium atpase,gene,1
+N1259,na + / k + - atpase,gene,1
+N1260,carotenoids,drug,1
+N1261,polyphenols,drug,1
+N1262,central nervous system disorders,disease,1
+N1263,exercise-induced,method,1
+N1264,cognitive function deficit,disease,1
+N1265,chronic cerebral hypoperfusion,disease,1
+N1266,cognitive deficit,disease,1
+N1267,common carotid artery occlusion,disease,1
+N1268,brain-derived neurotrophic factor,gene,1
+N1269,confidence interval,method,1
+N1270,ci,method,1
+N1271,case-control studies,method,1
+N1272,shorter telomere length,other,1
+N1273,logopenic variant primary progressive aphasia,disease,1
+N1274,bilingualism,disease,1
+N1275,frontal cortical brain biopsy,method,1
+N1276,nph-related,disease,1
+N1277,ventricular enlargement,disease,1
+N1278,sleep problem,disease,1
+N1279,hypersomnia,disease,1
+N1280,circadian rhythm sleep disorders,disease,1
+N1281,sleep debt,other,1
+N1282,sleep deterioration,disease,1
+N1283,comorbid symptom,disease,1
+N1284,prodrome,disease,1
+N1285,lamiaceae,other,1
+N1286,cardiovascular diseases,disease,1
+N1287,central nervous system disturbances,disease,1
+N1288,salvia miltiorrhiza root extract,drug,1
+N1289,cholinesterases,gene,1
+N1290,huperzine a,drug,1
+N1291,alzheimer's disease-associated,disease,1
+N1292,tau peptides,gene,1
+N1293,tau-binding,gene,1
+N1294,proline-rich,drug,1
+N1295,p301s lysate,drug,1
+N1296,cbtau-7 . 1,gene,1
+N1297,neuritic plaques,disease,1
+N1298,cellular apoptosis,other,1
+N1299,beta-arrestin 1,gene,1
+N1300,lc3b,gene,1
+N1301,atg7,gene,1
+N1302,beclin-1,gene,1
+N1303,arrb1 / 2,gene,1
+N1304,anti-inflammatory,disease,1
+N1305,mcgill-r-thy1-app,gene,1
+N1306,transgene-related cognitive decline,disease,1
+N1307,abeta-immunoreactive,gene,1
+N1308,amyloid plaque,gene,1
+N1309,cns inflammation,disease,1
+N1310,ccr2 / 5-mediated,gene,1
+N1311,acquired brain injury,disease,1
+N1312,tbi-induced inflammatory response,disease,1
+N1313,chronic neurodegeneration,disease,1
+N1314,loss of neurological function,disease,1
+N1315,tbi-related,disease,1
+N1316,tbi-initiated,disease,1
+N1317,gene profiling,method,1
+N1318,ccr2 ( + ),gene,1
+N1319,cx3cr1,gene,1
+N1320,ccr2,gene,1
+N1321,reporter animal model,method,1
+N1322,ccr2 ( + ),drug,1
+N1323,cenicriviroc,drug,1
+N1324,ccr2 / 5 antagonist,drug,1
+N1325,trauma-induced,disease,1
+N1326,cerebrospinal fluid biomarkers,other,1
+N1327,lewy bodies,disease,1
+N1328,dementia with lewy bodies,disease,1
+N1329,total tau ( tau,gene,1
+N1330,threonine,drug,1
+N1331,amsterdam dementia,disease,1
+N1332,ptau,gene,1
+N1333,age-corrected general linear models,method,1
+N1334,glm,method,1
+N1335,visual hallucinations,disease,1
+N1336,parkinsonism,disease,1
+N1337,rem sleep behavior disorder,disease,1
+N1338,( p ) tau,drug,1
+N1339,parkinsonism,drug,1

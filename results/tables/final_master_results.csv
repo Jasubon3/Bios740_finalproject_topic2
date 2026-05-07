@@ -1,0 +1,7 @@
+model,dataset,split,ner_micro_f1,ner_macro_f1,re_micro_f1_without_nec,re_micro_f1_with_nec
+SpERT_baseline,ADKG,dev,69.07,57.74,45.13,40.78
+SpERT_baseline,ADKG,test,68.22,61.89,47.31,42.50
+SpERT_baseline,MDKG,dev,80.99,71.80,55.25,47.59
+SpERT_baseline,MDKG,test,81.08,71.41,56.70,50.48
+SpERT_aux_transfer,ADKG,dev,68.68,57.46,45.71,40.66
+SpERT_aux_transfer,ADKG,test,67.85,60.61,47.55,42.23

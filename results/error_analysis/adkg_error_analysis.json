@@ -1,0 +1,108 @@
+{
+  "dataset": "ADKG",
+  "entity_false_positives_by_type": {
+    "gene": 219,
+    "other": 71,
+    "drug": 115,
+    "disease": 223,
+    "method": 151,
+    "mutation": 6
+  },
+  "entity_false_negatives_by_type": {
+    "drug": 230,
+    "other": 152,
+    "gene": 268,
+    "disease": 215,
+    "method": 232,
+    "mutation": 9
+  },
+  "relation_false_positives_by_type": {
+    "associated_with": 78,
+    "risk_factor_of": 35,
+    "hyponym_of": 42,
+    "abbreviation_for": 82,
+    "characteristic_of": 10,
+    "treatment_for": 45,
+    "help_diagnose": 19,
+    "treatment_target_for": 2
+  },
+  "relation_false_negatives_by_type": {
+    "risk_factor_of": 48,
+    "associated_with": 145,
+    "treatment_for": 57,
+    "hyponym_of": 57,
+    "characteristic_of": 42,
+    "abbreviation_for": 76,
+    "help_diagnose": 44,
+    "treatment_target_for": 8
+  },
+  "correct_relation_examples": [
+    {
+      "index": 1,
+      "sentence": "BACKGROUND : Previous studies have shown that copy number variation ( CNV ) in the alpha ( alpha ) - amylase gene ( AMY1A ) is associated with body mass index , insulin resistance , and blood glucose levels , factors also shown to increase the risk of Alzheimer's dementia ( AD ) .",
+      "relation": "abbreviation_for",
+      "head": "AD",
+      "tail": "Alzheimer's dementia"
+    },
+    {
+      "index": 5,
+      "sentence": "Associations between AMY1A copy number and cognitive performance where analyzed in 791 individuals ( mean age at baseline 54 . 7 + - 6 . 3 , females 63 % ) , who performed Montreal Cognitive Assessment ( MoCA ) test .",
+      "relation": "abbreviation_for",
+      "head": "MoCA",
+      "tail": "Montreal Cognitive Assessment"
+    },
+    {
+      "index": 13,
+      "sentence": "Inhibition of beta-secretase ( BACE1 ) is currently regarded as the leading treatment strategy for Alzheimer's disease .",
+      "relation": "abbreviation_for",
+      "head": "BACE1",
+      "tail": "beta-secretase"
+    }
+  ],
+  "missed_relation_examples": [
+    {
+      "index": 1,
+      "sentence": "BACKGROUND : Previous studies have shown that copy number variation ( CNV ) in the alpha ( alpha ) - amylase gene ( AMY1A ) is associated with body mass index , insulin resistance , and blood glucose levels , factors also shown to increase the risk of Alzheimer's dementia ( AD ) .",
+      "relation": "risk_factor_of",
+      "head": "body mass index",
+      "tail": "Alzheimer's dementia"
+    },
+    {
+      "index": 9,
+      "sentence": "A tendency towards a positive correlation between brain alpha-amylase activity and AMY1A copy number was found , and females showed higher brain alpha-amylase activity compared to males .",
+      "relation": "associated_with",
+      "head": "alpha-amylase",
+      "tail": "AMY1A"
+    },
+    {
+      "index": 11,
+      "sentence": "The study further suggests that very high AMY1A copy number is associated with a decreased hazard ratio of AD and we speculate that this effect is mediated via a beneficial impact of AMY1A copy number on episodic memory performance .",
+      "relation": "associated_with",
+      "head": "AMY1A copy number",
+      "tail": "AD"
+    }
+  ],
+  "extra_relation_examples": [
+    {
+      "index": 0,
+      "sentence": "Alpha-amylase 1A copy number variants and the association with memory performance and Alzheimer's dementia .",
+      "relation": "associated_with",
+      "head": "Alpha-amylase 1A",
+      "tail": "memory performance"
+    },
+    {
+      "index": 1,
+      "sentence": "BACKGROUND : Previous studies have shown that copy number variation ( CNV ) in the alpha ( alpha ) - amylase gene ( AMY1A ) is associated with body mass index , insulin resistance , and blood glucose levels , factors also shown to increase the risk of Alzheimer's dementia ( AD ) .",
+      "relation": "associated_with",
+      "head": "AMY1A",
+      "tail": "body mass index"
+    },
+    {
+      "index": 4,
+      "sentence": "METHODS AND MATERIALS : The association between AMY1A copy number and development of AD was analyzed in 5422 individuals ( mean age at baseline 57 . 5 + - 5 . 9 , females 58 . 2 % ) from the Malmo diet and cancer study genotyped for AMY1A copy number , whereof 247 where diagnosed with AD during a mean follow-up of 20 years .",
+      "relation": "associated_with",
+      "head": "AMY1A",
+      "tail": "AD"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+dataset,split,ner_micro_f1,ner_macro_f1,re_micro_f1_without_nec,re_micro_f1_with_nec
+ADKG,dev,69.07,57.74,45.13,40.78
+ADKG,test,68.22,61.89,47.31,42.50
+MDKG,dev,80.99,71.80,55.25,47.59
+MDKG,test,81.08,71.41,56.70,50.48
